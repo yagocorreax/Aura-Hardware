@@ -131,6 +131,6 @@ for i in range(20000):
 df_itens = pd.DataFrame(itens)
 df_itens.to_csv(f"{PASTA_DADOS_BRUTO}/itens_pedido.csv", index=False, encoding="utf-8-sig")
 
-print("✅ DADOS SUJOS GERADOS COM SUCESSO NA PASTA dados/bruto")
+print("DADOS SUJOS GERADOS COM SUCESSO NA PASTA dados/bruto")
 
 
