@@ -1,0 +1,2783 @@
+﻿cliente_id,nome,ticket_medio
+1,Lucca Nogueira,8390.25
+2,Cauã Oliveira,4077.84
+4,Nathan Martins,10413.67
+5,Dr. Breno Peixoto,9955.470000000001
+6,João Gabriel Cirino,5819.973333333332
+7,Sr. Isaac Costa,3151.84
+8,Paulo Fernandes,2417.1
+9,Sr. Luigi Peixoto,10099.07
+10,Antonella da Cruz,10770.275
+11,Srta. Fernanda Caldeira,12649.02
+12,Dr. Raul Oliveira,10398.94
+13,Srta. Camila Aparecida,4846.509999999999
+14,,4035.23
+15,Sabrina das Neves,6177.414
+17,Stephany Costa,7319.6
+18,Maitê Garcia,6233.74
+19,Lucas Silva,3095.985
+20,Ana Julia da Cruz,6117.13
+21,Marcela Cirino,9840.085
+23,Esther Costela,4082.5699999999997
+24,Srta. Julia Ribeiro,12521.26
+25,Maria Isis Peixoto,6615.18
+26,Isis Pacheco,9557.33
+27,Isaque Castro,9598.96
+28,Bárbara Fonseca,6325.540000000001
+29,José Pedro Costa,7372.638333333333
+30,Luiz Miguel Sousa,7076.59
+31,Ana Cecília Cavalcanti,10181.7375
+32,Nathan Mendes,6611.3775
+33,Sabrina Aragão,7133.48
+35,Sra. Helena Porto,5610.805
+36,Mariana da Mata,4281.345
+37,Leandro Gonçalves,10382.385
+38,Catarina da Cunha,8391.791428571429
+39,,6987.048
+40,Bruno Costa,5988.236666666668
+41,Dra. Rebeca Souza,7123.33
+42,Emilly Fogaça,7377.670000000001
+43,Luana Fonseca,2253.64
+44,Emanuel Vasconcelos,9058.89
+45,Maitê da Mota,1669.085
+46,Srta. Maria Liz Cirino,5487.08
+47,Dra. Laura Castro,10607.54
+48,Danilo Aparecida,14871.46
+49,Bryan Cardoso,5490.785
+50,Clara Monteiro,3086.54
+51,Francisco Martins,6856.0650000000005
+52,Sra. Marina Teixeira,5206.147999999999
+54,Thales Ramos,4143.94
+55,Hellena Marques,14472.03
+56,Sr. Dom Correia,6891.335000000001
+57,,7506.0425
+58,Pedro Ferreira,10688.985
+59,Bento Viana,12384.11
+60,Sophie Duarte,10293.263333333334
+61,Calebe da Costa,5664.71
+62,Sofia Monteiro,7780.049999999999
+64,Rael Souza,9249.393333333333
+65,Valentina Brito,9029.6425
+66,Ravy da Cunha,11314.566666666666
+67,Dra. Sophia Aragão,5900.39
+69,Sr. José Miguel Camargo,9430.297142857144
+70,Diogo Brito,8145.9
+71,Maria Luísa Cardoso,10233.019999999999
+72,Isaac Mendes,7227.495
+73,Caroline Leão,9194.946
+74,Isaque Pacheco,5800.96
+75,Liam Casa Grande,4112.495
+76,Isaac da Rosa,5452.58
+77,Leandro Barbosa,8802.6
+78,Yuri Fonseca,12959.84
+79,Leonardo Pimenta,2077.05
+80,Emanuella da Luz,618.35
+81,Ísis Nogueira,6190.692
+82,Ana Carolina Camargo,8862.376666666665
+83,Beatriz Câmara,2525.0299999999997
+84,Henry Ferreira,11201.455
+85,Luiz Henrique Camargo,7576.55
+86,Leonardo Nogueira,6527.763333333333
+87,Ana Cecília Ribeiro,14382.535
+88,Maya Melo,6652.98
+89,,6754.803333333333
+90,Vitor Hugo Fernandes,8655.89
+91,Henry Gabriel da Paz,4777.400000000001
+92,Otávio Souza,6163.91
+93,Levi Cavalcanti,7821.7733333333335
+95,Joaquim Vargas,4156.110000000001
+96,Sr. Luan das Neves,1804.1550000000002
+97,Heloisa Monteiro,11761.494999999999
+98,,5037.046666666666
+99,Erick Cavalcante,6995.74
+100,Clara Brito,5565.955
+101,Lorenzo Siqueira,13703.94
+102,Hellena Mendes,6123.672500000001
+103,Heloísa Lopes,12967.143333333333
+104,Sra. Rafaela Viana,7618.55
+105,Pedro Souza,9955.435000000001
+106,,7087.34
+108,Stephany Câmara,5918.55
+109,Benício Cavalcante,3265.405
+110,Marcelo Farias,6200.866666666666
+111,Ana Julia Melo,1580.41
+112,Maria Isis Rios,6872.213333333333
+113,Noah Pastor,11084.593333333332
+114,Emilly Castro,7587.68
+116,Ravy Marques,10033.615
+118,Sr. Enrico Cassiano,5991.406666666667
+119,João Vargas,5821.18
+121,Gael Henrique Cirino,9576.395
+122,Antônio Câmara,12385.253333333334
+123,Srta. Esther Barros,2454.38
+124,Vinicius Ramos,5526.885
+125,Dr. Lorenzo Moraes,12824.51
+126,Rebeca Albuquerque,8426.153333333334
+127,Maria Laura Aparecida,6958.87
+130,Arthur Miguel Garcia,11688.775
+131,Sophia Montenegro,7958.4775
+132,Daniela Carvalho,6133.415714285714
+133,Vicente Vargas,8415.126666666667
+134,Dr. Augusto Porto,8254.97
+135,Dra. Ester Vieira,4748.296666666666
+136,Ana Cecília Mendonça,7663.346
+137,João Miguel Fonseca,11881.715
+138,Srta. Brenda Fonseca,8029.963333333333
+139,Theo Farias,10073.46
+140,Maysa Cassiano,6459.443333333333
+141,Mateus Correia,7224.278
+142,Bernardo da Rocha,2725.22
+143,Theo Barbosa,8414.689999999999
+144,Cecília Pinto,3261.9249999999997
+145,Mathias Camargo,6474.933333333333
+146,,2600.81
+147,Luara Nogueira,7142.033333333333
+148,Liam Pinto,12415.325
+149,Carolina Macedo,8939.422
+150,Dr. Vitor Hugo Aragão,8500.428
+151,Paulo Pinto,13427.48
+152,Giovanna Jesus,9003.339999999998
+153,Amanda Borges,9573.883333333333
+154,Letícia da Conceição,6152.4475
+155,Laura Viana,8642.035
+156,Ana Júlia Cirino,4171.825
+157,Zoe Souza,4367.286666666667
+158,Sr. Théo da Mota,4785.48
+159,Sr. Vitor Gabriel da Cruz,7928.695
+160,Sr. Arthur Duarte,7145.845
+161,,7359.22
+162,Gabriela Moraes,12881.735
+163,Raul Monteiro,5889.443333333334
+164,Erick Camargo,4333.235
+165,Marcelo Borges,6527.7266666666665
+166,Eduarda Azevedo,8042.65
+167,,7019.0975
+168,Lucas Sampaio,7507.424999999999
+169,Olivia Câmara,2295.8633333333332
+171,Heloisa Casa Grande,13411.44
+172,Raul Macedo,8042.99
+173,Kamilly Martins,11105.226666666667
+174,Paulo Santos,6583.9
+175,Arthur Miguel Nogueira,5394.509999999999
+176,Maya Barros,1751.59
+177,Sara Pimenta,8308.17
+178,Juan Leão,8381.1425
+179,Sr. Mathias Silva,7166.0199999999995
+180,Gabriel Nogueira,6919.6
+181,Eduarda da Rosa,8024.6
+182,Arthur Fernandes,7732.2775
+183,Isadora Novaes,6261.639999999999
+184,Elisa Vasconcelos,10456.796
+185,Pietra Pacheco,8261.345714285713
+186,Otávio da Cruz,9442.292857142858
+187,Maria Isis Guerra,7061.745
+188,Raul Duarte,7487.64625
+189,Alexia Santos,7406.53
+190,Ayla Siqueira,653.76
+191,,4030.64
+192,Rodrigo Melo,5708.960000000001
+193,Srta. Daniela Sales,7755.39
+194,Dr. Murilo Peixoto,5331.793333333333
+195,,7700.95
+196,Dom Rocha,8130.7725
+197,Sr. Henrique Ribeiro,9666.673333333332
+198,Aylla Freitas,10000.0375
+199,Davi Lucca Abreu,8550.86
+200,João Guerra,8332.343333333332
+201,Dr. Davi Lucas Farias,13861.715
+202,Pedro Henrique Ribeiro,9107.26
+203,,9766.86
+204,Srta. Cecília Melo,6016.54
+205,Manuela Barbosa,6462.34
+206,Hellena Siqueira,9354.265
+207,Mariana Barbosa,9005.653333333334
+208,,4713.17
+209,Emanuel Castro,6894.126666666666
+211,,9721.085
+212,Joaquim Silva,6487.73
+213,Davi Luiz Araújo,5649.82
+214,Luiz Felipe Costa,6645.315
+215,Breno Moura,11601.119999999999
+216,Apollo da Rosa,10440.5
+217,Srta. Carolina Melo,7332.909999999999
+218,Luara Cavalcanti,6831.639999999999
+219,Brayan Souza,6704.09
+220,Nina Alves,6533.111428571428
+221,Sr. Otávio Peixoto,2576.7200000000003
+222,Dr. Benício Barbosa,3755.5325000000003
+223,Maysa Mendes,8863.36
+224,Sra. Isis da Luz,4163.676666666666
+225,Manuella Barros,5142.36
+226,Hellena Moraes,4757.6925
+227,Arthur Pinto,11752.01
+228,Ana Carolina Almeida,127.84
+229,Maria Cecília Pereira,8268.5325
+230,Luiz Felipe Cunha,10007.185
+231,Sra. Heloisa Carvalho,11452.2925
+232,Dr. Guilherme Aparecida,5921.465
+233,Lucca Teixeira,4043.9466666666667
+234,Maria Cecília Jesus,6962.865
+235,Ana Carolina Rocha,10180.93
+236,Hadassa Azevedo,7040.414
+237,Thales Alves,9342.15
+238,Alexandre Moura,6532.26
+239,Benicio Nogueira,4792.1425
+240,Luiz Miguel Jesus,5434.4800000000005
+241,Enzo Gabriel Ramos,3563.51
+243,Erick Aparecida,8938.383333333333
+246,Dra. Maria Clara Pastor,8473.51
+247,Vitor Campos,4482.68
+248,Bella Fogaça,7597.75
+249,Nicole da Rosa,5898.6537499999995
+250,Vinícius Borges,12922.455
+251,Kaique Pinto,1665.01
+252,Augusto Rodrigues,3348.056666666667
+253,Sra. Sarah Jesus,7455.26
+254,Yuri Fogaça,3677.2666666666664
+255,Dra. Ana Lívia Correia,5895.7880000000005
+256,Sra. Sofia Sampaio,2162.715
+257,Davi Lucas Andrade,3469.84
+258,Hadassa Azevedo,5367.732
+259,Luiza Sales,6483.915000000001
+260,Rebeca Nunes,10633.84
+261,Mirella Marques,8190.42
+262,Milena Moraes,13094.44
+263,,2607.31
+264,Enrico Sampaio,11032.166666666666
+265,Ana Luiza Freitas,7887.0325
+266,Sr. Antônio Pereira,8708.634285714286
+267,Esther Lima,13640.17
+269,Sarah Pires,7496.916666666667
+270,Ana da Costa,6019.07
+271,Catarina Silva,5253.620000000001
+272,Pedro Miguel Brito,9563.779999999999
+273,Dr. Yago da Mata,3902.7160000000003
+274,Letícia Novaes,6882.27
+275,Isabelly Albuquerque,5137.6449999999995
+276,Nicolas Nogueira,6098.15
+277,Lara da Paz,7644.61
+278,Dr. Antônio Camargo,7468.533333333333
+279,Diego Duarte,2159.52
+280,Maria Sophia Gomes,3847.2542857142857
+281,Dra. Mirella Pires,10655.97
+282,Enzo Gabriel Nogueira,7417.34
+283,Vitor Hugo Pinto,5604.093333333333
+284,Sr. Arthur Miguel Borges,8910.925
+285,Helena Lima,12123.255000000001
+286,Raquel da Rocha,5517.0775
+287,Srta. Ana Lívia Nascimento,5094.219999999999
+288,Eloah Dias,6783.625
+289,Carolina Sousa,6258.375
+290,Bruno da Rosa,11835.79
+291,Leonardo Gonçalves,5928.906666666666
+292,Pietro Siqueira,2341.77
+293,Yasmin Caldeira,8154.86
+294,Matteo Albuquerque,9217.49
+295,Juan Freitas,5630.23
+296,Yago Guerra,630.78
+297,Ayla Alves,4651.915
+298,Gabriel Jesus,8429.1
+299,Vitor Gabriel Ribeiro,8874.7975
+300,Sr. Juan Sousa,2680.31
+301,Sr. Pedro Lucas Porto,5459.213333333333
+302,Arthur Gabriel Lima,9730.5775
+303,Maria Clara Aragão,6046.595
+304,Rodrigo da Luz,6375.16
+305,Breno da Luz,8094.836666666667
+306,Lucas Gabriel Marques,5957.15
+307,Eloá Rezende,9141.505
+308,Enrico Andrade,6131.09
+309,Emanuel Viana,7448.5525
+310,Luiz Henrique Siqueira,7781.396000000001
+311,Noah Rezende,10309.443333333335
+312,Ayla Lima,8838.3
+313,Augusto Fonseca,8035.8324999999995
+314,,6346.795714285714
+315,Gustavo Henrique Sá,5590.685
+316,Rael Melo,11131.55
+317,Lorenzo das Neves,10475.525000000001
+318,Yasmin Rodrigues,10117.605
+319,,7876.312
+321,João Lucas Araújo,6836.259999999999
+322,Catarina Câmara,7669.47
+323,Bella Novais,9214.556666666665
+324,Ana Liz Aparecida,7859.115
+325,Francisco Ramos,12247.75
+326,Pedro Henrique Campos,9390.92
+327,Olivia da Paz,7579.56
+328,Emanuel Barros,8337.612
+329,Lucas da Mata,7332.996666666666
+330,Ana Júlia Nunes,8898.315
+331,Dr. Ian Rodrigues,9401.443333333333
+332,Leandro da Rocha,7707.094999999999
+333,Dra. Ester da Mata,6834.8
+334,Ágatha Silveira,9037.505000000001
+335,Luara Novais,5180.15
+336,Maria Isis Jesus,7204.755
+337,Lucca Sousa,10220.983333333334
+338,Paulo Abreu,8123.37
+339,Henrique Nogueira,10073.85
+340,Raquel Macedo,4246.24
+341,João Lucas Sales,4806.7
+342,,5897.28
+343,João Rocha,3983.37
+344,Eduarda da Rosa,11837.41
+345,Marina Albuquerque,9398.956666666667
+346,Luísa Vargas,6350.4974999999995
+347,Clara Viana,13447.46
+348,Luigi Pacheco,3654.83
+349,Nicolas da Rosa,11582.77
+350,Luiz Felipe Araújo,9508.593333333332
+351,Giovanna Cavalcante,7248.3099999999995
+352,Daniel da Rosa,7023.7575
+353,Bryan Carvalho,4866.014999999999
+354,Laura Campos,7292.39
+355,Calebe Azevedo,8183.52
+356,Ágatha Almeida,7313.195
+357,Mathias Moraes,2979.785
+358,Isaac Monteiro,10777.736666666666
+359,Julia Montenegro,9786.823333333334
+361,Antonella Pires,8404.645
+362,Francisco das Neves,13660.050000000001
+363,,9456.58
+364,Clarice Abreu,6686.264999999999
+365,Sra. Bianca Rocha,3178.11
+366,Noah Siqueira,3684.55
+367,Bianca Câmara,9255.39
+368,Laura Fonseca,11363.32
+369,Dra. Stephany Moraes,9134.616
+370,Allana Ramos,10587.48
+371,Henry Aparecida,1204.5
+372,Ryan Abreu,13826.68
+373,Rael Marques,1083.75
+374,Dra. Raquel da Paz,4493.03
+376,Gabrielly Gomes,14030.11
+377,Caio Sousa,1829.66
+378,Maria Mendes,4173.385
+379,Elisa Pimenta,8438.35
+380,Ana Júlia da Luz,4219.2300000000005
+381,Benício Cavalcanti,8808.536666666667
+382,Emanuel Silva,5786.74
+383,Calebe Almeida,8186.236666666667
+384,Antônio Martins,11749.66
+385,Augusto Montenegro,6287.568333333334
+386,João Felipe Brito,10748.855
+387,Valentina Cardoso,5153.833333333333
+388,Eduarda Aragão,7955.216666666667
+389,Benjamim Machado,4740.78
+390,Isis Novais,13258.8025
+391,Enrico Machado,4751.4800000000005
+392,Stella Dias,10904.93
+394,Sophie Silva,8409.695
+396,Srta. Bárbara da Costa,4432.17
+398,Kevin da Cunha,9957.359999999999
+399,Sra. Luara Araújo,3026.09
+400,Anthony Pastor,5348.864
+401,Olivia Azevedo,10654.993333333334
+402,Francisco Nascimento,13679.62
+403,Dr. Brayan Pires,12074.65
+404,Sr. Carlos Eduardo da Costa,9999.47
+405,Emanuelly Nogueira,5518.4
+406,João Lima,3811.86
+407,Maria Liz Siqueira,7828.215
+408,Gustavo Moreira,5234.0650000000005
+409,Isabela Ribeiro,6799.625
+410,Gabrielly Novais,8699.06
+411,Ana Luiza da Cunha,4946.1466666666665
+412,Dr. Heitor Pereira,5556.98
+413,Sr. Oliver Sá,12611.705
+414,Vitor Gabriel Sales,5059.29
+415,Hadassa Siqueira,14269.44
+416,Miguel Duarte,2899.0775
+417,Ana Júlia Freitas,3868.09
+418,Sophie Rezende,11067.21
+419,Maria Alice Ribeiro,8295.135
+421,Sara Siqueira,10512.585000000001
+422,José Pedro Mendes,11332.83
+423,,6982.12
+424,Carolina da Mata,9944.783333333335
+425,Bruna Duarte,8766.449999999999
+426,Yago Rocha,8716.086
+427,Ana Julia Barbosa,9428.96
+428,Clarice Nascimento,10487.835
+429,Camila Marques,2264.28
+430,Matteo Nunes,3386.14
+431,Cecília Gonçalves,13888.08
+432,Antony Silveira,7173.57
+434,Camila Ferreira,8654.98
+435,Dra. Julia Montenegro,1962.13
+436,Mateus Rios,10552.365
+437,Esther Camargo,6991.855
+438,Maria Luiza Pinto,342.68
+439,Enrico Aragão,11536.42
+441,Anthony Ribeiro,11909.96
+442,Paulo Garcia,10016.529999999999
+443,Yasmin Nogueira,6706.475
+444,,4827.88
+445,Luara Viana,6095.45
+446,Heitor Ramos,7468.84
+447,Rafaela Rios,8506.103333333334
+448,Davi Miguel Duarte,3482.15
+449,Luiz Felipe Sampaio,6621.7339999999995
+450,Sr. Cauê Azevedo,10446.349999999999
+451,Maria Sophia Moraes,5402.83
+452,Marina da Mota,12496.64
+453,Luigi Vieira,10645.978
+454,Elisa Montenegro,8425.199999999999
+455,Francisco Melo,8016.889999999999
+456,Ana Lívia Sales,12046.86
+457,Gael Câmara,13283.33
+458,Mateus das Neves,13230.48
+459,Srta. Mariane Marques,6125.320000000001
+460,Ana Carolina Albuquerque,3312.165
+461,Mariane das Neves,10499.475
+462,Alícia Oliveira,7790.49
+463,Lorenzo Fogaça,11460.14
+464,Nina Souza,7194.985
+465,Evelyn Lima,7799.7880000000005
+466,Luigi Caldeira,5559.045
+467,Beatriz Mendonça,8553.386666666667
+468,Ana Cecília Alves,8078.3225
+469,Eloah Nogueira,5190.656666666667
+470,Catarina Vasconcelos,13879.21
+471,Maria Clara Almeida,6089.862222222222
+472,Helena das Neves,4361.025
+473,Ravi Montenegro,3387.14
+474,Ravy Casa Grande,8823.785
+475,Gael Gonçalves,4344.48
+476,Davi Miguel Castro,2100.66
+477,Laís Costa,13713.61
+478,Carolina Aparecida,12381.91
+479,Antony Rios,9466.66
+480,Caleb Costela,5765.578
+481,Liz Pimenta,10253.07
+482,Yasmin Peixoto,9733.49
+483,Sophie Costa,7981.121666666666
+484,Ana Vitória Rezende,7176.215
+485,Natália Câmara,5937.867142857142
+486,Bryan Gonçalves,8472.355
+487,Liz Cunha,8902.06
+488,Jade Mendes,7863.845
+489,Gabrielly Silveira,14170.535
+490,João Vitor Aparecida,6948.335
+491,Helena Ramos,8065.07
+492,Danilo Barros,8817.823333333334
+493,Vitor Hugo da Rocha,4026.8000000000006
+494,Gustavo Henrique das Neves,5267.931666666666
+495,Gael Henrique Rezende,9490.44
+496,João Gabriel Silveira,4066.67
+497,Beatriz Novaes,3605.87
+498,Luara Cavalcante,5186.78
+499,Zoe Dias,8762.295999999998
+500,Maria Fernanda Pastor,11216.166666666666
+501,Anthony Gabriel Montenegro,10962.51
+503,Maysa Montenegro,6707.483333333333
+505,Benício Jesus,1779.57
+506,Henry Moreira,12580.02
+507,,1621.43
+508,Sr. Lucas Gabriel da Cunha,11689.630000000001
+509,Sra. Valentina Teixeira,8452.103333333333
+510,Yago Fonseca,9986.965
+511,Aurora Cirino,8395.397500000001
+512,,11372.99
+513,Benjamin Silveira,7895.23
+514,Valentim Moraes,14608.2
+515,Sr. Rafael da Costa,671.46
+517,Renan Pinto,4088.2075
+518,Ana Lívia Gonçalves,4215.0525
+519,Sra. Mirella Jesus,6016.13
+520,,10885.536666666667
+521,Jade Borges,6542.115
+522,Calebe Vargas,10934.623333333331
+524,Rafael Araújo,8377.973999999998
+526,Luigi Ferreira,6897.535
+527,Dra. Ayla Oliveira,5423.855
+528,Isabela Pimenta,4492.87
+529,Sr. Liam Sales,7340.516666666666
+530,Ana Vitória Cardoso,5129.3
+532,Nicole Barbosa,4524.014999999999
+533,Gabriel Fogaça,6004.616
+534,Eloah Brito,5831.893333333333
+535,Maya Jesus,7892.75
+536,Rafaela Carvalho,9126.4
+537,Rafael Camargo,6660.544
+538,Antony Farias,6851.860000000001
+539,Benicio Vasconcelos,956.83
+540,Thiago Carvalho,10188.343333333332
+541,Josué Lopes,8861.509999999998
+542,Emanuelly Rocha,10423.096666666666
+543,Luiz Miguel Duarte,4762.306666666666
+545,Ester Moura,7337.7525
+546,Mariane Teixeira,1519.57
+547,Paulo Cardoso,6850.8679999999995
+548,Maria Laura Azevedo,7176.6849999999995
+549,Rafael Cunha,7538.883333333334
+550,Vitor Hugo Gonçalves,6695.254999999999
+551,,6626.703333333334
+552,Dom Nunes,5254.88
+553,Luara Costa,8861.81
+554,Lívia Albuquerque,14132.225
+555,Clarice Machado,6149.968333333333
+556,Dr. Nathan Câmara,4247.618333333333
+557,Anthony Brito,8578.985
+558,Bruna Macedo,5926.09
+559,Maria Julia das Neves,1816.04
+560,Dante Araújo,8534.295
+561,Jade Pereira,6001.838571428571
+562,Lucca Ferreira,7194.5
+563,Eloah Rodrigues,13489.159999999998
+564,Bento Campos,8270.476666666667
+565,Srta. Clarice Silva,8530.654999999999
+566,Pedro Henrique Rocha,2106.82
+568,Maria Laura Caldeira,7646.34
+569,Rafaela Caldeira,9737.25
+570,Luiz Miguel Cavalcanti,5126.076666666667
+571,Mariane Peixoto,7978.11
+572,Maria Luiza Rodrigues,9076.81
+573,Heitor Campos,5770.945
+574,Eduardo Fogaça,10056.655
+575,Igor Campos,7009.235000000001
+576,Ana Beatriz Lopes,10177.824285714285
+577,Dr. Paulo Sampaio,7830.753333333334
+578,Dra. Mariana Pimenta,13840.02
+579,Lívia Cassiano,8554.414999999999
+580,Letícia Dias,9665.68
+581,Larissa Vieira,5738.875
+582,Gustavo Guerra,10985.106
+583,Caroline Gomes,10329.423333333332
+584,Srta. Sophia Dias,6305.4400000000005
+585,Eduarda Silva,9997.675
+586,Alana Peixoto,1140.94
+587,Nathan Machado,6634.878333333333
+588,Maya Costa,7001.9349999999995
+589,Pietra Souza,14717.96
+590,Milena Marques,2725.35
+593,Dr. Léo Gonçalves,8634.315714285714
+594,Francisco Santos,7162.725
+595,Benjamim Duarte,8253.5325
+596,Mariah Campos,3278.17
+597,Mateus Moreira,4414.81
+598,Otto Borges,5658.686
+599,Sr. Enzo da Paz,13905.07
+600,Bento da Rocha,4761.555
+601,Clarice Aparecida,7436.511428571429
+602,Rafael Sampaio,10340.123333333333
+603,Davi Lucas Nascimento,5922.55
+604,Pedro Lopes,13353.98
+605,Mateus Siqueira,10431.06
+606,Sabrina Carvalho,8491.395
+607,Evelyn Mendes,3087.84
+609,Theodoro Lopes,7041.838000000001
+610,Srta. Gabriela da Luz,8108.0
+611,Sr. Daniel Cunha,3594.5775000000003
+612,Sr. Caleb Aragão,8683.3225
+613,Henry Sá,4247.022499999999
+614,Vitor Hugo Albuquerque,10100.9
+615,Isabelly da Paz,3866.2325
+616,Gael Camargo,11178.455714285714
+617,Maria Liz Monteiro,6520.9685714285715
+618,Luigi Pereira,6469.54
+620,Ana Laura Teixeira,4506.556666666666
+621,Marcos Vinicius Ribeiro,3092.15
+622,Laura Dias,7335.856666666667
+623,,9038.59
+624,Hadassa Macedo,5012.68
+625,Natália Cunha,10327.0
+626,Sofia Moraes,7573.96
+627,,8694.982222222221
+629,,8572.945
+630,Kamilly da Paz,7437.453333333334
+631,Ana Sophia Moraes,3683.61
+632,Dr. Rodrigo Pastor,7107.825
+634,Dante Sampaio,2228.5266666666666
+635,Benjamin Andrade,4910.81
+636,Srta. Manuella da Paz,10222.523333333333
+638,Murilo Araújo,7597.2075
+639,Bryan Camargo,7516.759999999999
+642,Gabrielly Brito,8942.342499999999
+643,Oliver Vieira,7751.921249999999
+644,Thomas Nascimento,9516.06
+645,Vitor Cassiano,12406.78
+646,Enzo Albuquerque,6349.74
+647,Carolina Ferreira,4910.21
+648,Maria Luísa Cassiano,6038.068
+649,,2310.4550000000004
+650,Alexia Pinto,8316.9675
+651,Emanuelly Cassiano,3885.48
+652,Dra. Maria Luísa Abreu,2424.6
+653,Srta. Elisa Vargas,8176.85
+654,Melissa Rios,6247.055
+655,Gustavo da Mata,2774.19
+656,Ana Vitória da Mota,8368.21
+657,Ravi Lucca Duarte,5553.6075
+658,Otto Siqueira,6023.634999999999
+659,Isabelly Viana,5762.929999999999
+660,Antonella Gonçalves,10625.684
+661,André da Costa,10070.992
+662,Julia Moura,4636.13
+663,Davi Leão,5479.6
+664,,6970.266666666666
+665,Helena Almeida,5653.585
+666,Pedro Henrique Garcia,11596.3025
+667,Dra. Maria Machado,8770.2675
+668,Gabrielly Cavalcanti,11016.15
+669,Hellena Novais,7335.53
+670,Dra. Maria Eduarda Cavalcante,8810.9475
+671,Dr. Davi Luiz Pires,9906.720000000001
+672,José Pedro Brito,7872.45
+674,Matheus Casa Grande,10227.45
+675,Melissa Camargo,7296.76
+676,Sra. Alana Gomes,3250.96
+677,Srta. Carolina Porto,9560.581666666667
+678,Bento da Luz,6898.91
+679,Raquel Costela,7934.47
+680,Mathias Freitas,14206.27
+683,Srta. Eloá Nascimento,8050.6449999999995
+684,Pietro Aparecida,9077.515
+685,Isabela da Mota,10264.833333333334
+686,Allana Aragão,7352.765
+687,Antonella Rocha,2223.0966666666664
+688,Lara Nogueira,5827.825
+689,Maysa Pereira,6988.713333333333
+690,Gael Sá,6120.6125
+691,Léo Sampaio,11024.868333333334
+692,Carlos Eduardo Araújo,4889.2
+693,Luna Fernandes,10454.615000000002
+694,Srta. Isabel Novaes,6092.863333333334
+695,Eloá Gonçalves,7532.62
+697,Marcos Vinicius Cavalcanti,5979.450000000001
+698,Dom Almeida,6701.82
+699,Bianca Casa Grande,7780.16
+700,Davi Luiz Castro,2290.17
+701,Sra. Maria Júlia Cirino,4377.95
+702,Srta. Ayla Sousa,9655.0
+703,Davi Lucca Barros,9175.355
+704,Bruno Gomes,7354.295
+705,Dr. Thiago das Neves,5551.6225
+707,Isabelly Rocha,10561.73
+708,Sabrina Pinto,3548.1525
+709,Luara Pires,8878.0275
+710,Luiz Felipe Almeida,9943.12
+711,Gabriela Fernandes,9076.71
+712,Vitor das Neves,6028.4
+713,Luiz Felipe Fernandes,13558.01
+714,Elisa da Costa,10197.223333333333
+715,Sr. Guilherme Peixoto,5432.9325
+716,Antonella Rocha,9716.665
+717,Elisa Cunha,3494.8250000000003
+718,Aurora da Rosa,2463.53
+719,Anna Liz Costela,3053.13
+721,Marcelo da Costa,9796.29
+722,Henry Gabriel Garcia,4831.508
+723,Vitória da Cunha,10791.116
+724,João Miguel Farias,6569.998333333333
+725,Luísa Pastor,6821.8099999999995
+726,Sr. Gustavo Garcia,6612.25
+727,Leonardo Vargas,7954.415000000001
+728,Dra. Zoe Albuquerque,4892.6900000000005
+729,Ana Julia Montenegro,4412.5625
+730,Antônio Moraes,8413.904285714287
+731,Raul Sá,7667.828571428572
+732,Maria Isis da Rosa,8536.601999999999
+734,José Guerra,992.8050000000001
+735,Antônio da Mata,7536.905
+736,Dom Moreira,4446.79
+737,Maria Flor Pacheco,6802.41
+738,Léo Pereira,7051.6900000000005
+739,Caroline Farias,6553.530000000001
+740,Vitor Hugo Costa,7414.68
+741,Cauê Dias,9308.279999999999
+742,Ana Julia Andrade,7659.68
+743,Sra. Aylla Brito,5123.255
+744,Agatha da Paz,8154.46
+745,Sr. Marcos Vinicius Ferreira,5628.01
+746,Bento Araújo,3950.7566666666667
+747,Dra. Stella Aragão,8340.206666666667
+748,Mariah Camargo,4682.09
+749,Maria Sophia Mendes,6368.6125
+751,Maria Helena Caldeira,8906.855
+752,Arthur Gonçalves,5683.12
+753,Isabela da Paz,11574.5
+754,Thales Mendes,12037.51
+755,Sra. Ana Cavalcante,13138.045
+756,Arthur Cirino,4727.18
+757,Maria Laura Moraes,9435.980000000001
+758,Henry Gabriel Rocha,7268.166
+759,Manuella Vasconcelos,5314.443333333334
+760,Luiz Felipe Carvalho,2936.36
+761,,1879.35
+762,Benjamin da Costa,4173.975
+763,Maria Helena Ribeiro,14593.0
+764,Dra. Ágatha Ribeiro,7443.8425
+765,Luiz Henrique Caldeira,7408.464
+766,Ester Garcia,6512.188333333333
+767,Anthony Garcia,4798.343333333333
+768,,6145.624444444445
+769,Clarice Nogueira,13045.023333333333
+770,Theo Cardoso,8640.9725
+771,André Sales,9576.774
+772,Luara Abreu,5111.182857142857
+773,Henrique Câmara,5209.723333333333
+774,Erick Cassiano,6844.135
+775,Dr. Leandro Correia,8145.355
+776,Sr. Anthony Gabriel Rezende,4614.176666666666
+777,Ana Clara Montenegro,8210.653333333334
+778,Pedro Miguel Porto,11632.216666666667
+779,,10141.64
+780,Sophie Nascimento,489.02
+781,Luiz Gustavo da Costa,6282.133333333334
+782,Juan da Cruz,3216.9249999999997
+783,Lucas Gabriel da Mata,12943.06
+784,Zoe Ramos,9876.21
+785,Manuela Machado,7602.416666666667
+786,Aylla Novais,1812.83
+787,Dra. Mariah da Cunha,8713.61
+788,Luiz Gustavo Abreu,11432.016666666668
+789,Giovanna Siqueira,7476.925
+790,Dr. Thales Pires,4122.05
+791,Sra. Maria Luísa Andrade,8401.439999999999
+792,Ana Fogaça,9706.425
+795,José Siqueira,1239.3600000000001
+796,Maria Cecília Alves,11019.185
+797,Eloah Sales,3721.475
+798,Maria Laura Duarte,4582.138
+799,Carlos Eduardo Abreu,4452.16
+800,Isaque Sá,8768.1
+801,Lívia da Cunha,3185.15
+802,Sr. Thiago Campos,9815.736666666666
+803,Marcela Porto,11170.650000000001
+804,Natália Novaes,5668.24
+805,Cauê Campos,5318.639999999999
+806,Cauã Gonçalves,2852.17
+807,Gustavo Henrique Alves,9492.215
+808,Srta. Fernanda Vieira,12715.17
+809,Laís Vasconcelos,5976.535
+810,José Pedro Aparecida,3350.7999999999997
+811,Isabel Martins,12193.439999999999
+812,Bianca Gomes,4126.735
+813,Felipe das Neves,4919.32
+814,Luiz Felipe Vargas,11193.130000000001
+815,Lucca Marques,8665.49
+816,Laís Moura,8057.66
+817,José Barbosa,6585.865000000001
+818,Dr. Luiz Fernando Monteiro,4428.553333333333
+819,Ana Lívia da Luz,5065.192
+820,João Lima,7139.3575
+821,Srta. Stella Pimenta,9801.59
+822,Joaquim Caldeira,4504.1849999999995
+823,Srta. Stephany Brito,7990.3575
+824,Ana Liz Santos,8392.571666666667
+825,Lara Duarte,9246.85
+826,Alice Silveira,6469.596666666667
+827,Luana da Paz,7796.65125
+828,Theodoro Marques,8913.95
+829,Sara Ferreira,9842.81
+830,Maria Fernanda Aragão,7636.3
+831,,12013.71
+832,Maria Cecília Oliveira,7742.79
+833,Dr. Davi Sampaio,5262.6175
+834,Lucas Gabriel Aparecida,6891.906666666667
+835,Catarina Sales,6591.133333333332
+836,Lucas Gabriel Machado,252.12
+837,Vinicius Casa Grande,5615.47
+838,Sra. Giovanna Sousa,7821.498571428571
+839,Srta. Eduarda Sá,5083.46
+840,Lorenzo Fernandes,8398.815
+841,José Pedro Garcia,8248.97
+842,Sr. Fernando da Costa,9825.116666666667
+843,Ravy Macedo,10944.525000000001
+844,Clara Martins,3215.97
+845,Ana Laura Rocha,3595.8225
+846,Maya Siqueira,8811.5725
+847,Srta. Isabel Sá,2667.21
+848,,2604.17
+849,Raquel Martins,5793.697142857142
+850,Ana Luiza Cavalcante,14149.003333333334
+851,Benício Campos,8212.125
+852,Dra. Maria Luiza Pereira,10938.29
+853,Sabrina Guerra,7898.7699999999995
+855,Carolina Moreira,11986.4075
+856,Yago Leão,7378.3533333333335
+857,,8750.304
+858,Arthur Vargas,6824.556666666667
+859,Guilherme Cardoso,6890.2300000000005
+860,Juan Sousa,10486.14
+861,Vinicius da Luz,7030.530000000001
+862,Dra. Ana Liz Peixoto,7283.336666666667
+863,Maria Helena Borges,8274.58
+864,Lucas Gabriel Albuquerque,7853.45
+865,André Alves,6782.24
+866,Yasmin Camargo,9578.376666666667
+867,Laura Fernandes,6145.325
+868,Bernardo Teixeira,8095.0779999999995
+870,Liam da Costa,9017.87
+871,Liam Pacheco,6642.895
+872,Anna Liz da Mota,11396.165
+873,Levi Cavalcanti,8602.89
+874,Sr. Diogo Costa,7613.255
+875,Dr. Enzo Araújo,7780.139999999999
+876,Ana Lívia da Luz,10257.903333333334
+877,Sofia Nascimento,3206.465
+878,Thomas Vasconcelos,5249.48
+881,Samuel Silva,8185.125
+882,Josué Costa,3387.168
+883,Gael Nogueira,6834.58
+884,Bento Carvalho,10558.663333333334
+885,Valentim Cavalcante,10096.975
+887,Danilo Cunha,5724.623333333334
+888,Alexandre Cavalcanti,14646.18
+889,Samuel Vieira,8887.6
+890,Brayan Sales,4350.385
+891,Ana Beatriz Pinto,8075.740000000001
+892,Isaac Fernandes,3172.31
+893,Aurora Pacheco,4175.13
+894,Paulo Campos,9494.65
+895,Sr. Lucas Gabriel Vieira,12506.515
+896,Sr. Benjamim Moreira,7621.89
+897,Anna Liz Vasconcelos,9060.514285714286
+898,Maria Vieira,13703.34
+899,Melissa Leão,7817.005
+900,Ravi Fernandes,110.01
+901,Bruno Montenegro,8139.67
+902,Ana Clara Sousa,8647.29
+903,Yan da Conceição,13880.12
+904,Dr. Igor Vieira,9551.45
+905,Théo Teixeira,5666.71
+906,Natália Leão,11258.663333333332
+907,Rael Marques,7029.566666666666
+908,André Azevedo,8590.5975
+909,,11177.73
+910,Marina Sales,10261.065
+911,Cauê Camargo,7757.013333333333
+912,Bella Vargas,9204.751666666667
+913,Rafael Aragão,5210.6275000000005
+914,Heloísa Guerra,4712.28
+915,Benício Sousa,1868.1666666666667
+917,Aurora Costa,8517.103333333334
+918,Kevin Guerra,7866.4574999999995
+921,Davi Luiz da Cruz,8687.6425
+922,Henry Gabriel Albuquerque,11227.206666666665
+923,Carlos Eduardo Mendes,8530.966
+924,Yago Barbosa,10759.625
+925,Mariane Alves,3657.853333333334
+926,Sr. Enzo Gabriel Vargas,5595.905000000001
+927,Eloá Pereira,1887.92
+928,Dra. Ana Vieira,13223.96
+929,Rodrigo Nascimento,6318.740000000001
+930,Cauê Macedo,7628.7733333333335
+931,Ana Clara Machado,8287.86
+932,Allana Gomes,11217.02
+934,João Pires,6398.43
+936,Dra. Isabela da Mata,647.06
+937,Ana Cecília Nunes,14811.22
+938,Lunna Costela,5644.906666666667
+939,Maria Cecília Pinto,4892.72
+940,Heloisa Melo,7380.124000000001
+941,Ísis da Cruz,7503.4766666666665
+942,Guilherme Sampaio,5968.795
+943,Sr. Guilherme da Rosa,7621.56
+944,Fernando Cirino,5026.08
+945,Rael Garcia,1984.06
+946,Sr. Mathias Rodrigues,4426.698333333333
+947,Caroline Moraes,8151.333333333333
+948,Isabelly Vargas,14995.37
+949,Breno Rios,4760.673333333333
+950,Antony Duarte,12236.966666666667
+951,Antonella Martins,14887.01
+952,Sr. Lucas Câmara,7221.28
+953,Catarina da Paz,7012.325000000001
+954,Srta. Lorena Silveira,8739.53
+955,Clara da Mata,12118.705
+956,Esther Dias,7213.3575
+957,Srta. Maria Isis da Mata,4166.405
+958,Isis Brito,6019.02
+959,Vitor Aragão,3553.14
+960,Clara Farias,1643.21
+961,Miguel Brito,5492.97
+962,Nicolas Vasconcelos,10506.6125
+963,Sara Pinto,6722.32
+965,Pietro da Luz,5893.805
+967,Caleb Câmara,5742.063333333334
+968,João Felipe Cunha,8909.113333333333
+969,Dra. Helena Sá,7570.32
+970,Miguel Lima,6197.63
+971,Emilly Lopes,8483.49
+972,Sr. Cauã Pereira,6102.780000000001
+973,Luara Monteiro,6035.333333333333
+974,Luiz Felipe da Rosa,8065.655
+975,Cecília Campos,13739.05
+976,Liam da Conceição,3171.24
+977,Davi Miguel Leão,8339.222
+978,Dr. Gustavo Henrique Ferreira,5612.63
+979,Valentim Pinto,1027.21
+980,Ayla Cavalcanti,10106.49
+981,Luiz Otávio da Rocha,4904.541666666667
+982,Ana Laura Nunes,5675.19
+984,Davi Silva,4991.8966666666665
+985,Arthur Gabriel Cavalcante,7235.828571428571
+986,Diego Gonçalves,6570.17
+987,Henry Gabriel da Rocha,14341.41
+988,Antonella da Rocha,5542.53
+989,Eloá Sales,7636.631666666667
+990,Isaque Costa,8474.886666666667
+991,Alana Lima,9112.49
+992,Arthur Miguel Pastor,5937.245
+993,Dra. Raquel Casa Grande,6182.88
+994,Sra. Mariana Camargo,8532.217499999999
+995,Dr. Vitor Hugo Jesus,10101.365
+996,Jade Pires,6306.487999999999
+997,João Vitor Garcia,5191.6
+998,Matheus Vargas,4579.112857142857
+999,Camila Nascimento,5751.36
+1000,Mirella da Conceição,7791.248
+1001,Elisa Lopes,13879.26
+1002,Emanuelly Teixeira,7850.355
+1003,Dra. Ana Júlia Costela,6854.576666666667
+1005,Noah Correia,5053.73
+1006,Sra. Maria Laura Castro,5922.3279999999995
+1007,Sara da Cunha,9197.78
+1009,Liam Aparecida,8982.313333333334
+1010,Yuri Souza,5388.963333333334
+1011,Isaque Nunes,8047.9800000000005
+1012,Danilo Sales,5607.11
+1015,Bella Ramos,3522.9599999999996
+1016,Cecilia da Paz,6494.258
+1017,Noah Pastor,4354.416666666667
+1018,Gabriel Campos,6739.5825
+1019,Ágatha Borges,10348.99
+1020,Dr. João Miguel Nascimento,2734.8
+1021,Maria Eduarda Porto,4316.47
+1023,Maya Cardoso,7562.36
+1024,Valentim Cirino,7687.2733333333335
+1025,Augusto Aparecida,14140.07
+1026,Mariah Garcia,7907.575
+1027,Maria Isis Borges,10189.3
+1028,Sr. Theodoro Carvalho,10080.485
+1029,Henrique da Cunha,7506.889999999999
+1030,Luiz Miguel Cavalcante,8311.416666666666
+1031,Gabrielly Duarte,3268.01
+1032,Allana Silva,7304.856
+1033,Isaac Azevedo,13101.95
+1034,Dr. Nathan Nascimento,6638.355
+1035,Olivia Gonçalves,8369.436666666666
+1036,Elisa Pinto,6766.75
+1037,Gael Henrique Aragão,8022.672500000001
+1038,Arthur Gabriel Leão,5628.243333333333
+1039,Luiza Almeida,11253.33
+1040,Brenda Pimenta,7227.5599999999995
+1041,Valentina Costa,7730.31
+1043,Sr. Daniel Nunes,3468.605
+1044,Vitor Macedo,7705.9574999999995
+1045,Larissa da Cruz,10255.9675
+1046,Alexandre Brito,5047.82
+1047,Pietro Porto,5982.045000000001
+1048,Renan Costa,11169.09
+1049,Matheus Azevedo,9304.425
+1050,Diego Vargas,11866.19
+1051,Rodrigo Pimenta,7209.44
+1052,,4275.711666666667
+1053,Carolina Barros,10157.17
+1054,Kaique Macedo,9092.689999999999
+1055,Nicolas Freitas,5199.0233333333335
+1056,Sabrina Cassiano,4165.11
+1057,Rodrigo Cassiano,7158.04
+1058,Asafe Nascimento,5229.09
+1059,Thales Ramos,10229.95
+1060,Eduardo Macedo,11530.69
+1062,Alexandre Novaes,12897.585
+1063,Gustavo Henrique Siqueira,861.63
+1065,Ana Beatriz Pimenta,6704.88
+1066,Theo Leão,5488.996666666666
+1067,Lara Ramos,7795.426666666666
+1068,Zoe Albuquerque,11523.291666666666
+1069,,5173.8966666666665
+1070,Breno Teixeira,7736.323333333334
+1071,Dra. Rebeca Melo,6158.49
+1072,Ravi da Costa,12038.14
+1073,Maria Abreu,8663.2
+1074,Apollo Teixeira,8615.625
+1075,Ana Júlia Cirino,3959.53
+1076,Stephany Correia,3767.0533333333333
+1077,Davi Lucca Pacheco,7433.645
+1078,Pietro Fonseca,1551.25
+1079,Vitor Hugo Pastor,6587.136
+1080,,8069.975
+1081,Alexia Novaes,10014.11
+1082,Luara Ferreira,8368.6775
+1083,Manuela Aparecida,10601.869999999999
+1084,Srta. Bianca Caldeira,6798.7625
+1085,Maria Liz Costela,463.69
+1086,Francisco Souza,8148.675
+1087,Davi Miguel da Rosa,12080.705
+1088,Dra. Isabella Carvalho,8983.575
+1089,Lorenzo Sampaio,5161.54
+1090,Nicolas Sousa,13309.54
+1091,Enzo Gabriel Monteiro,10392.04
+1093,Francisco Oliveira,7031.43
+1094,Sophie da Rosa,9039.642
+1095,Luiz Fernando Costa,9333.84
+1096,Erick Azevedo,6461.055
+1097,Heloisa Monteiro,10146.933333333332
+1098,Olívia Cunha,10646.525
+1099,Rebeca Novaes,9037.869999999999
+1100,Guilherme Brito,5917.336666666666
+1101,Rafaela Jesus,8283.951666666666
+1103,Marcos Vinicius Cavalcante,315.98
+1104,Mariah da Paz,8116.87
+1105,José Miguel Cirino,8458.898
+1106,Ryan da Cunha,6011.53
+1108,Maria Eduarda Sá,10312.07
+1109,Ana Luiza das Neves,8592.835
+1110,Henrique Sá,3177.98
+1111,Cauã da Rosa,8456.744999999999
+1112,Carolina Siqueira,6254.01
+1113,Dra. Zoe Viana,5794.42
+1114,,7705.966666666667
+1115,,5880.612
+1116,Isis Câmara,2001.28
+1117,Dra. Eduarda Albuquerque,11129.493333333332
+1118,,6423.18
+1119,Pedro Henrique Martins,8024.915
+1120,Maria Alice da Rosa,4162.95
+1121,Théo Ferreira,7366.623333333333
+1122,Dra. Rebeca Novaes,7180.738
+1123,Sra. Stella Brito,8108.696666666667
+1124,Ravi Lucca Gomes,7939.990000000001
+1126,Gabriela Albuquerque,4887.79
+1127,Ana Vitória Pereira,4557.846666666667
+1128,Dra. Ana Cecília Garcia,8151.990000000001
+1129,Samuel Fonseca,7758.41
+1130,Isabela Sampaio,3365.8900000000003
+1131,Carolina Silva,5889.115
+1132,Juan Novaes,8671.282000000001
+1133,Srta. Heloísa Camargo,7312.13
+1134,João Miguel Nogueira,8437.963333333333
+1136,Dra. Isadora da Cruz,4896.844
+1137,Pedro Duarte,10560.529999999999
+1138,Sofia da Conceição,7167.6075
+1139,Agatha Albuquerque,6204.0425
+1140,Fernando Gonçalves,10360.328
+1141,Carolina Mendonça,3881.24
+1142,Ana Beatriz Duarte,7136.51
+1143,Calebe Sá,13525.895
+1144,Daniela da Rosa,5654.995000000001
+1145,Sr. José Pedro Carvalho,7876.888000000001
+1146,Vitor Gabriel Costa,6131.7300000000005
+1147,Raquel Marques,4526.55
+1148,Maria Alice Pinto,9677.43
+1149,,7371.44
+1151,Sra. Maria Eduarda Albuquerque,7030.08
+1153,Ana Julia Pastor,2916.7225
+1154,Ryan Silva,12015.994999999999
+1155,João Miguel Cirino,9720.064999999999
+1156,Srta. Isabel Costa,5435.1
+1157,Pietra Santos,8516.105
+1158,Dr. Davi Lucas Andrade,7788.86
+1159,Natália Pimenta,12216.75
+1160,Sra. Isabela Pereira,8938.675
+1161,Marcelo Farias,9259.67
+1162,Ravy Machado,3494.1233333333334
+1163,Gustavo Moraes,6168.509999999999
+1164,Yuri Porto,10484.93
+1165,André Moraes,11651.265
+1166,Otto Câmara,9532.58
+1167,Alana Cavalcante,8317.66
+1168,Bento da Luz,7823.115714285714
+1169,Emilly Camargo,8963.8975
+1170,Cauã Leão,12451.183333333334
+1171,Srta. Zoe Melo,3859.2
+1172,Josué Vasconcelos,10294.7625
+1173,Dra. Manuella Lopes,1386.37
+1174,Srta. Cecilia Duarte,853.05
+1175,Eloah Nogueira,8381.448
+1176,Stephany Pastor,9987.885
+1177,Nicole Fonseca,7230.33
+1178,Henry Gabriel Caldeira,3401.07
+1179,Davi Lucca Montenegro,6692.393333333333
+1180,Ayla Farias,6146.88
+1181,Otávio Carvalho,763.19
+1182,Yasmin Fernandes,12607.22
+1183,,9525.743333333334
+1184,Daniel Araújo,5532.36
+1186,Ana Laura Costa,7023.874000000001
+1188,Agatha Teixeira,8756.13
+1189,Laís Oliveira,4349.04
+1190,Sra. Sofia Rios,7111.59
+1191,Brenda Carvalho,11898.8725
+1192,,13076.78
+1194,Sra. Marina Freitas,12791.41
+1195,Henry da Mota,10212.064999999999
+1196,Carlos Eduardo Mendes,6728.46
+1197,Eloah Câmara,7140.89
+1198,Sr. João Vitor Montenegro,5009.923333333333
+1199,Otávio da Costa,10327.635
+1200,Dra. Clara Cassiano,10381.46
+1201,Mariana da Cunha,5858.196666666667
+1202,Beatriz Azevedo,3627.33
+1203,Mirella Abreu,1792.09
+1204,Liz Brito,6627.505
+1205,Dra. Lavínia Alves,7336.8
+1206,Arthur Cunha,8982.453333333333
+1208,Sr. Emanuel da Rocha,5667.693333333334
+1209,Marina Monteiro,9352.11
+1210,Julia Vargas,6789.3516666666665
+1211,Nathan da Paz,9082.54
+1212,Sra. Gabriela Vargas,11338.285
+1213,Aurora Rios,10204.244999999999
+1214,Sr. Otto Cardoso,4999.513333333333
+1215,Alice Costela,8272.556666666665
+1216,Ian Correia,6576.376666666667
+1217,Danilo Fernandes,7165.325000000001
+1218,Dr. Ravi Lucca Nascimento,9371.31
+1219,Otto Oliveira,3009.8
+1220,Melissa Porto,8499.344000000001
+1221,Larissa Vieira,2889.52
+1222,Lavínia Monteiro,9704.498
+1223,Gustavo Fonseca,3542.8525
+1224,Henry Gabriel da Rosa,9495.175
+1225,Lunna Garcia,3829.065
+1226,João Lucas Peixoto,10045.086666666668
+1227,João Gabriel Pastor,8349.688
+1228,Gabrielly Vieira,3351.27
+1229,Sra. Lavínia Lima,14385.77
+1230,Mariah Novaes,6262.5824999999995
+1231,Juliana Martins,10345.92
+1235,Sra. Milena da Mata,8426.99
+1236,,3628.108
+1237,Maria Helena Câmara,133.02
+1238,Mariah Abreu,11253.565
+1239,Vitor Hugo Viana,6250.3775000000005
+1240,Maya Sales,5332.3966666666665
+1241,Ana Vitória Guerra,7994.775
+1242,Luiz Gustavo Souza,5744.764999999999
+1243,Melina Garcia,1619.1033333333332
+1244,Lucas Correia,8517.46
+1245,Sarah Sá,9083.036666666667
+1247,,8575.746
+1248,Ana Laura Pimenta,5773.303333333333
+1249,Manuela Cavalcante,13571.155
+1251,Dra. Ana Laura Costa,10162.51
+1252,Luiza Gonçalves,5750.605
+1253,Benício Pacheco,8652.83
+1254,Sra. Ana Cecília da Conceição,7705.63
+1255,Rafael Montenegro,9543.720000000001
+1256,Lara Dias,9962.05
+1257,José Pedro Gonçalves,8904.086666666666
+1258,João Pedro Sales,6911.61
+1259,Yasmin Gonçalves,3948.51
+1260,Clara Albuquerque,5813.8550000000005
+1262,Dr. Dante Porto,3991.08
+1263,Paulo Teixeira,2289.5299999999997
+1264,Oliver Vargas,6453.258333333334
+1265,Olívia Aparecida,9313.41
+1266,Sr. Brayan da Costa,10000.99
+1267,Maria Julia Monteiro,4310.4425
+1268,Srta. Isabela Cavalcanti,6765.653333333333
+1269,Joana Viana,1566.27
+1270,Clarice Montenegro,3082.17
+1271,Vitória Fonseca,6343.825
+1272,Benicio Pacheco,12472.28
+1273,Luna Sá,9430.213333333333
+1274,João Pedro Sá,6267.286666666667
+1275,Davi Luiz Cavalcanti,10788.24
+1276,Sra. Bianca da Costa,4426.636666666666
+1277,Cecilia Nascimento,7155.962857142857
+1278,Dra. Raquel Castro,7210.31
+1279,Davi Miguel Leão,7984.8825
+1280,Fernanda Marques,218.25
+1281,Sra. Pietra Cunha,8863.808333333332
+1282,Francisco Cassiano,7015.572
+1283,João Felipe Pires,3659.35
+1284,Maria Flor da Paz,6108.51
+1285,Zoe Vargas,7079.558333333333
+1286,Cecília da Mata,5582.085
+1287,Alana Cardoso,11031.495
+1288,Kevin Pereira,2248.64
+1289,Catarina Leão,7423.8925
+1290,Allana da Cunha,5312.385
+1291,Mariah Barbosa,6521.03
+1292,Sra. Maya Sales,7855.782499999999
+1294,Melina da Mata,8396.196666666667
+1295,Luan da Conceição,3124.7233333333334
+1296,Alícia Casa Grande,5665.9625
+1297,Luigi Aparecida,2370.19
+1298,Jade Macedo,14937.05
+1299,Dra. Maitê Nascimento,8408.666666666666
+1301,Hellena Câmara,8722.865
+1302,Paulo Moraes,1854.71
+1303,Rafael Sá,8626.902
+1304,Ísis Melo,12314.595000000001
+1305,Ana Carolina Aparecida,8167.613333333334
+1306,Ian Casa Grande,2048.99
+1307,Joaquim Costa,10941.067500000001
+1308,Srta. Ana Liz Rocha,8159.849999999999
+1309,Júlia Aparecida,9055.835
+1310,João Vitor Andrade,4475.4
+1311,Isaque da Cunha,8575.91
+1312,,8522.76
+1313,Otávio Sousa,5584.296666666666
+1314,Oliver Araújo,5460.35
+1315,Antônio Almeida,2122.42
+1316,Kaique Sousa,3236.22
+1317,Lucca Viana,12377.116666666667
+1318,Maria Sophia Cunha,5549.845
+1320,Davi Lucas Pastor,12981.288
+1321,Erick Fonseca,12244.25
+1322,Dr. Caleb Pereira,12899.28
+1323,Asafe Ribeiro,7258.169999999999
+1324,Bento Abreu,10692.994999999999
+1325,,10968.0
+1326,José Pedro Fonseca,9001.165
+1327,Erick Aparecida,6929.25
+1328,Dr. Isaac Vieira,7211.8150000000005
+1329,Bianca Alves,8945.03
+1330,Samuel Andrade,8154.665
+1331,Arthur Miguel Pereira,5489.58
+1332,João Pimenta,5086.0199999999995
+1333,Milena da Paz,8377.6575
+1334,Oliver Câmara,8186.13
+1335,Igor Moreira,5153.025000000001
+1336,Gabriel Jesus,6392.719999999999
+1337,Sarah das Neves,5865.576666666667
+1338,Ravy Nogueira,7599.4839999999995
+1339,Dr. Luiz Gustavo Moraes,4103.28
+1340,Dom Garcia,7247.404
+1341,Breno da Rocha,4352.67
+1343,Dr. Luiz Gustavo Novais,8014.7975
+1344,Thiago Rocha,8777.466
+1345,Sra. Marcela da Cruz,5613.62
+1346,João Vitor da Conceição,14590.43
+1347,Carolina Vasconcelos,8943.39
+1348,Alícia Ramos,10879.063333333334
+1349,Maria Isis Cassiano,3772.63
+1350,Kevin Alves,10539.253333333332
+1351,Levi Vargas,7511.334
+1352,Gabriela Pimenta,8286.855
+1353,Allana Duarte,3014.7966666666666
+1354,Ayla Sousa,13116.743333333332
+1356,Yago da Rosa,7238.645
+1357,Ana Carolina Fonseca,6821.636
+1358,Sr. Pedro Henrique Vasconcelos,5048.352500000001
+1359,Dr. Vinícius da Cunha,7835.01
+1360,Sr. Pedro Lopes,9508.246666666668
+1361,José Teixeira,7198.106
+1362,Dra. Larissa Andrade,6366.8
+1363,Heitor Nascimento,5885.05
+1364,Maria Eduarda Gonçalves,6996.815
+1365,Ana Vitória Sá,4135.67
+1366,Dra. Ana Beatriz Costa,2622.31
+1367,Srta. Alícia Albuquerque,7694.346666666667
+1368,Igor Martins,5959.2699999999995
+1369,Olívia Martins,9933.35
+1370,Emanuelly Monteiro,6555.657142857143
+1371,,7973.860000000001
+1372,João Vitor Mendes,11899.983333333332
+1373,Fernanda Souza,5600.8125
+1374,Calebe Nascimento,9654.575
+1375,Daniel Rocha,11018.6
+1376,Théo Pimenta,4638.75
+1377,Rodrigo Gomes,10936.6225
+1378,Aurora Andrade,8468.88
+1379,Arthur da Cunha,2375.77
+1380,Sra. Ana Liz Rios,1960.91
+1381,Dr. Pedro Lucas Montenegro,9910.463333333333
+1382,Srta. Ísis Lopes,5022.06
+1383,Davi Lucca Mendes,11312.39
+1384,Emilly Vieira,4446.21
+1385,Cauê Farias,9561.156666666668
+1386,Letícia Viana,3735.0375
+1387,Sr. Francisco Câmara,12897.07
+1388,Davi Luiz Moura,3202.92
+1390,Rodrigo Borges,10440.76
+1391,Júlia Sales,8078.225
+1392,Heitor Lima,4569.74
+1393,Dra. Esther Aparecida,1433.6799999999998
+1396,Sophia Pinto,4300.755
+1399,Luísa Guerra,7035.087500000001
+1400,Sra. Sofia Sá,2899.2149999999997
+1401,Paulo Pastor,4463.580000000001
+1402,Valentim Nunes,5431.42
+1403,Arthur Miguel Teixeira,10428.59
+1404,Apollo Vasconcelos,6526.764
+1405,Enzo Fogaça,4110.95
+1406,Maria Eduarda Pastor,4538.0371428571425
+1407,Ana Clara Sales,6331.366
+1409,Marcos Vinicius Cirino,4674.2
+1410,Liam Peixoto,8938.336666666668
+1411,Antônio Macedo,2479.31
+1412,Mateus Alves,8023.16
+1414,Maria Luiza Aragão,6099.15
+1415,Ana Júlia Sales,2285.49
+1416,Sra. Ísis Peixoto,7128.400000000001
+1417,Manuela da Rosa,4151.436666666667
+1418,Antonella Araújo,5834.53
+1420,Liz da Rosa,13888.75
+1421,Srta. Bruna Garcia,9723.092
+1422,Aylla da Rocha,12169.903333333334
+1423,Maria Luísa Monteiro,7830.1
+1424,Diego Gomes,6746.7699999999995
+1425,Asafe Guerra,5915.087500000001
+1426,Vicente Fogaça,9189.789999999999
+1427,Aurora Macedo,6186.593333333334
+1428,Dra. Laura Barros,12705.226666666667
+1429,Alana Freitas,13700.630000000001
+1430,Nathan Siqueira,8756.74
+1431,Luiz Henrique Silveira,11697.67
+1432,Carolina Vargas,8936.523333333333
+1433,Danilo da Luz,14911.74
+1434,Dra. Maria Luiza Novaes,732.67
+1435,Sr. Samuel Pimenta,7493.23
+1437,João Pedro Cassiano,2532.63
+1438,Dr. João Vitor Vasconcelos,8409.97
+1439,,3158.44
+1440,Caroline Pastor,7413.6825
+1441,Sofia da Cruz,8686.61
+1442,Lucas Caldeira,1628.575
+1443,,10159.605
+1444,Anthony Siqueira,3072.34
+1445,Vitor Caldeira,7444.8
+1446,Dra. Maria Isis Garcia,8693.42
+1447,Sr. Davi Cunha,8113.42
+1448,Bianca Silveira,13775.38
+1449,Alana Barbosa,7229.386666666666
+1450,Emanuella Guerra,6478.4
+1451,Asafe Nascimento,5965.11
+1452,Anthony Gabriel Pacheco,7762.225
+1453,Srta. Ana Caldeira,8833.306666666665
+1454,Sophie da Luz,7504.402857142857
+1455,Rafaela Nunes,9796.86
+1457,Sara Rocha,9561.449999999999
+1458,Sr. Paulo Dias,10696.228
+1459,Dra. Bianca Cunha,3880.91
+1460,Catarina Abreu,8430.855
+1461,Luigi Rezende,11115.31
+1462,Sr. Diogo Costa,139.0
+1463,Raul Azevedo,4748.8525
+1464,Sra. Aylla Casa Grande,8531.965
+1465,Ravy Caldeira,7163.4525
+1466,Helena da Cunha,12206.9
+1467,Maria Sophia Alves,4043.1000000000004
+1468,Sophie Costa,6037.548333333333
+1469,Ana Júlia Câmara,3758.4466666666667
+1470,Sra. Rebeca Cassiano,2249.5833333333335
+1471,Otto Araújo,4223.224999999999
+1472,Júlia Costa,10297.385
+1473,Maria Vitória da Cunha,5899.5
+1474,Sr. Eduardo Borges,8596.072
+1475,Mathias Martins,7943.485000000001
+1476,Letícia Montenegro,9514.103333333333
+1477,Alice Cassiano,6672.423333333333
+1478,Dra. Raquel Ferreira,2020.81
+1479,Felipe Barros,8338.404999999999
+1480,Aurora da Mata,5940.8099999999995
+1481,Calebe Rios,12122.09
+1482,Carolina Lopes,6188.136666666666
+1483,Srta. Natália da Cunha,8052.996666666666
+1484,Antony Caldeira,12624.49
+1485,Maria Luísa Macedo,4163.86
+1486,Srta. Emanuella Ferreira,6972.051428571429
+1487,Sra. Ayla Silveira,7657.514999999999
+1488,Arthur Gabriel Cardoso,14619.51
+1489,Carlos Eduardo Sá,11102.810000000001
+1490,Melissa Cassiano,5265.12
+1491,Isabela Cavalcante,7884.598333333332
+1492,Aylla da Rosa,3125.463333333333
+1493,Luiz Miguel Cardoso,7989.006666666667
+1494,Sofia Siqueira,10041.163333333332
+1495,Luiz Fernando Ramos,8396.358333333334
+1496,Cauê Pacheco,8088.855
+1497,Pedro Lucas Correia,3050.28
+1498,Elisa Rocha,8411.6125
+1499,João Felipe da Costa,7319.68
+1500,André Vasconcelos,7216.048
+1501,José Novaes,10621.06
+1502,José Pedro Moura,2909.3650000000002
+1503,Srta. Maria Clara Cavalcanti,7800.1849999999995
+1504,Rodrigo Gomes,10986.4275
+1505,Sra. Evelyn Alves,7877.85
+1507,Clarice Sá,4219.8
+1508,Manuella Ramos,2384.59
+1509,Sophia Nascimento,7335.342500000001
+1510,Ana Sophia Teixeira,6612.7699999999995
+1511,João Lucas Aparecida,7603.1033333333335
+1512,Benjamin Andrade,8929.192
+1513,Heloísa Ribeiro,7084.599999999999
+1514,Isadora da Cruz,4721.39
+1515,Alícia Macedo,7763.02
+1516,Gustavo Henrique Gonçalves,9160.35
+1517,Leonardo Campos,8184.696666666667
+1518,Erick Câmara,2567.7425000000003
+1519,Joaquim da Costa,10134.025
+1520,Ana Lívia Rezende,5031.322
+1521,Manuela Aragão,9896.775
+1522,Davi Miguel Sousa,8201.778333333334
+1523,Dr. Bruno Pinto,4727.992857142856
+1524,Maria Aragão,12169.295
+1525,Antonella Montenegro,7376.683333333333
+1526,Heitor Pastor,11217.166666666666
+1527,Rael Melo,6032.6
+1528,Maria Luísa Cirino,6208.75
+1530,Stella Sousa,7725.158
+1531,Ana Laura Brito,5546.88
+1532,Gael Henrique Fonseca,7925.3375
+1533,Gael Henrique da Cruz,10329.186666666666
+1534,Miguel Pinto,9915.213333333333
+1536,Mariah Nascimento,14126.82
+1537,Yago Leão,11750.18
+1538,Olívia Brito,5092.38
+1539,Dr. João Pedro Pires,2654.1
+1540,Alexia Silva,7596.875999999999
+1541,Julia Moraes,9421.52
+1542,Sra. Sophie Borges,2910.045
+1544,Enzo da Cunha,5185.66
+1546,,8298.7475
+1547,Rael Correia,1466.74
+1548,Ana Lívia Abreu,7880.2
+1549,Leandro Campos,8603.93
+1550,Thiago Santos,592.64
+1551,Dr. Brayan Barros,5656.805
+1552,Matteo Mendonça,9342.036666666667
+1553,Raquel Rodrigues,7987.0
+1554,Vitor Gabriel Moura,3876.6400000000003
+1555,Bruna Silva,10945.56
+1556,Cecilia Sales,13366.605
+1557,Olívia Silva,7443.34
+1558,João Vitor da Luz,9361.346666666666
+1559,Cecília Costa,6742.57
+1560,Emanuella Viana,5863.19
+1561,Thiago Moraes,9479.14
+1562,Otto da Luz,5862.215
+1564,Nicolas Duarte,6959.436666666667
+1565,Rael Nunes,3864.5049999999997
+1566,Marina da Costa,5739.4400000000005
+1567,Rhavi Duarte,8632.69
+1568,Kaique Albuquerque,6079.388
+1569,Ágatha Martins,10974.983333333332
+1570,Nicolas Mendes,4850.745
+1571,Nicole Barros,4804.37
+1572,Pedro Lucas Pimenta,7747.224999999999
+1573,Brayan Martins,4398.955
+1574,Nathan Barros,11785.339999999998
+1575,,4189.996666666667
+1576,Evelyn Albuquerque,10496.47
+1577,Heitor da Mota,13390.19
+1578,Manuella da Cunha,13014.83
+1579,Isaque Andrade,8241.595
+1580,Manuella Moura,4546.52
+1581,Isis Cavalcanti,8132.334999999999
+1582,Thales Nogueira,10079.184285714287
+1583,Antonella Rocha,2561.773333333333
+1584,Bella Garcia,14162.875
+1586,Dr. Bernardo Aragão,7667.710000000001
+1587,Valentina Mendes,9516.942500000001
+1588,Sr. Yago Dias,9055.275
+1589,Davi Luiz Dias,9066.305
+1590,Gabrielly Freitas,1675.2533333333333
+1591,Luan Vargas,7841.976
+1592,Levi Gomes,8797.765
+1593,Laura Porto,1185.95
+1594,Sra. Elisa da Mata,10453.375
+1595,Olivia Rocha,2990.956666666667
+1596,Joana Camargo,4386.256666666667
+1597,Liam Fogaça,8615.1725
+1598,Nicole Fernandes,9613.446666666667
+1599,,6484.445
+1600,Bruno Moraes,4980.669999999999
+1602,Rebeca Siqueira,4564.51
+1603,Dr. Arthur Gabriel Camargo,5670.646666666667
+1604,Ana Julia Nunes,12381.323333333334
+1605,Sophia da Luz,1771.71
+1606,Enzo Gabriel Farias,9467.72
+1607,Giovanna Casa Grande,446.83
+1608,Dr. Gabriel Santos,6576.71
+1609,Evelyn Rodrigues,2402.4
+1610,Maria Flor Casa Grande,7615.43
+1611,Heloisa Fogaça,7535.26
+1612,Henry Gabriel Rodrigues,13567.29
+1613,Diogo Rezende,5629.965
+1614,Lucas Gabriel Sousa,4651.15
+1615,Matteo Sales,5201.945
+1616,Luiza Barros,10261.9225
+1617,Helena Pires,8420.656666666668
+1618,Henrique Novaes,12713.95
+1619,Lucca Pires,4339.67
+1620,Theodoro Cunha,8809.99
+1622,Joana Jesus,10490.300000000001
+1623,Bryan Rodrigues,8255.333333333334
+1624,Pietra Guerra,6534.81
+1625,Renan Marques,7511.635
+1626,Noah Monteiro,5405.643333333333
+1627,Maria Sophia Martins,3103.45
+1628,Jade Macedo,5977.59
+1629,Srta. Amanda Barros,7535.4514285714295
+1630,Stephany da Rocha,9864.900000000001
+1631,Otto Caldeira,7445.1
+1632,Anna Liz Monteiro,7544.7
+1633,Antony Santos,8040.246666666667
+1634,Enrico Vargas,9242.418571428572
+1635,Raquel da Paz,9978.832
+1636,Diego Carvalho,13333.41
+1637,Nicolas Sampaio,4996.828333333334
+1639,Ravy Guerra,8611.0775
+1641,Allana Novaes,8558.82
+1642,Laura Melo,372.19
+1643,Sra. Isadora Pires,4147.87
+1644,Srta. Isabella Melo,11578.765
+1645,Luigi Moraes,9904.052
+1646,Calebe Câmara,6148.54
+1647,Ana Luiza Freitas,7004.57
+1648,Benjamin Vargas,5825.63
+1649,Gabriel Sampaio,4877.88
+1650,Sr. João Felipe Moura,9954.7625
+1652,,4811.225
+1653,Laura Jesus,7969.82
+1655,Heloisa Martins,7738.07
+1656,Bárbara Montenegro,6277.452499999999
+1657,Maria Flor Rezende,14527.08
+1658,Srta. Maria Julia Campos,1435.68
+1659,Nathan Vargas,5428.37
+1660,Maria Sophia Araújo,8026.606
+1661,Laura Jesus,14648.19
+1662,João Felipe Teixeira,5129.74
+1663,Alice Camargo,8466.808571428572
+1664,Júlia da Conceição,6983.993333333333
+1665,Srta. Luísa Araújo,6872.003333333334
+1666,Cecília Rezende,8848.460000000001
+1667,Yuri Aragão,8895.045
+1668,Stephany Nunes,5600.329999999999
+1669,Leandro Peixoto,6951.9025
+1670,José Cardoso,6313.205
+1671,Renan da Rosa,12747.907500000001
+1672,Sr. Caio Cavalcanti,5052.25
+1673,Ana Clara Monteiro,6503.683333333333
+1674,Luiza Silveira,5631.08
+1676,Maria Vitória Marques,4428.37
+1677,Benjamin Teixeira,6082.91
+1678,Maitê da Costa,8711.18
+1679,Leonardo Melo,8406.06
+1680,Matteo das Neves,10126.98
+1681,Letícia Costela,10423.87
+1682,Eloah Pastor,9217.38
+1683,Alana Borges,8897.82
+1684,João Felipe Marques,6450.920000000001
+1685,Ravi Machado,14402.89
+1686,Luana Câmara,1720.06
+1687,Juliana da Paz,2685.36
+1688,Leandro Viana,2932.325
+1689,Nicole da Luz,9101.916666666666
+1690,Gael Porto,9368.525
+1691,Luiz Gustavo Gomes,5520.653333333333
+1692,Dra. Maria Isis Aparecida,7723.0425
+1693,Manuella da Conceição,8414.545
+1694,Vicente Ferreira,8517.806666666665
+1695,,10787.66
+1696,Maitê Borges,6066.495
+1698,José Pedro Vasconcelos,1805.86
+1699,Dom Castro,968.99
+1700,Maria Clara Ramos,10305.615000000002
+1701,José Miguel Pimenta,8524.952000000001
+1702,Dr. Carlos Eduardo Martins,5366.2300000000005
+1703,Arthur Miguel Cunha,13421.505000000001
+1704,André Costa,11631.57
+1705,Ryan Melo,7073.386666666666
+1706,Alícia Cirino,10148.4925
+1707,Srta. Mariane Costela,8148.1179999999995
+1708,Miguel Vargas,9082.26
+1709,Cauê da Mota,11268.36
+1710,Henry Gabriel Porto,5894.1275000000005
+1712,Melissa Melo,10234.724285714286
+1713,Rebeca Fogaça,5876.9766666666665
+1714,Luiz Miguel Carvalho,9553.699999999999
+1715,Srta. Lorena da Paz,7523.1425
+1716,Cecília Siqueira,5685.485000000001
+1717,Luigi Novais,10545.38
+1719,Benjamim Campos,8380.953333333333
+1720,João Miguel Pacheco,6417.775000000001
+1721,Luana Azevedo,7129.576666666667
+1722,Laís Duarte,5105.05
+1723,Sra. Ayla Duarte,9029.06
+1725,Raquel Andrade,13060.31
+1726,Alice Andrade,3735.7375
+1727,,8436.91
+1728,Guilherme da Rocha,6645.507500000001
+1729,Lucas Gabriel Sá,4007.45
+1730,Gustavo Teixeira,9477.38
+1731,Srta. Melissa Sales,6121.903333333333
+1732,,7922.656666666667
+1733,Dr. Pedro Henrique Moura,2484.1299999999997
+1734,Heloisa Moreira,6199.133333333334
+1735,Henry Alves,5016.815
+1736,André Sousa,5528.783333333333
+1737,Vinicius Fogaça,6828.099999999999
+1738,Sra. Isabella Nogueira,6446.49
+1739,Camila Nogueira,3767.23
+1740,Kevin Moraes,14206.58
+1741,Maria Vitória Siqueira,12306.404999999999
+1742,Henry Gabriel Pastor,4371.36
+1743,Ana Beatriz Cassiano,6984.498333333333
+1744,Dr. Davi Machado,7495.142
+1745,,4427.543333333333
+1746,Isis Porto,11277.17
+1747,Danilo Rezende,4031.17
+1748,Sr. Davi Lucas da Rosa,10190.736666666666
+1749,Srta. Julia Jesus,2963.74
+1750,Ravi Fernandes,3395.2625
+1752,Dra. Elisa Gomes,11724.54
+1754,Mateus Dias,4765.305
+1755,Enzo Gabriel Silveira,9116.0
+1756,Ana Clara Duarte,3146.76
+1757,Evelyn Cavalcante,6296.442
+1758,Caio Pinto,4175.75
+1759,Sophie Andrade,8960.5875
+1760,Emanuelly Marques,4039.7524999999996
+1761,Cecilia Araújo,3000.56
+1762,,6253.111999999999
+1763,Isabella Camargo,7045.57
+1764,Thiago Cavalcanti,7274.17
+1765,Dr. João Gabriel Pereira,8501.93
+1766,Sr. Ryan Garcia,4722.3475
+1767,Enzo Gabriel Carvalho,8615.225
+1768,Marcos Vinicius da Costa,7535.242857142856
+1769,Emanuella Caldeira,6706.043333333332
+1770,Sr. Marcos Vinicius Freitas,8652.64
+1771,Maria Júlia da Conceição,4866.5225
+1772,Yan Barros,9043.07
+1773,Yan Vieira,7717.549999999999
+1774,José Miguel Correia,7866.495
+1776,Lara Souza,5922.15
+1777,Lucca Lima,11646.92
+1778,Sra. Maria Isis Gonçalves,4681.74
+1779,Dr. Levi Costa,2392.46
+1780,Luiz Miguel Melo,7974.793333333334
+1781,Dom Oliveira,5510.08
+1782,Laís Albuquerque,1400.77
+1783,Laís Gomes,3806.16
+1784,Leandro Melo,7950.17
+1785,Rhavi Casa Grande,7201.18
+1786,Maria Luiza Dias,6973.343333333334
+1787,Anthony Cardoso,3541.7574999999997
+1788,Yuri Moraes,9426.116666666667
+1789,Josué Duarte,5081.645
+1790,Maria Luiza Carvalho,1188.94
+1791,Maria Liz Cavalcante,9065.1
+1792,Maria Julia Albuquerque,14059.9
+1793,Sr. José Vargas,8548.8
+1794,Dra. Clarice Pereira,5719.71
+1795,Ravi Abreu,5445.0
+1796,Pietra Mendonça,4655.5875
+1797,Ana Lívia da Mata,6979.068000000001
+1799,Thomas Freitas,8146.442499999999
+1800,Rafael Rocha,1483.02
+1801,Emanuella Sampaio,6201.39
+1802,Vitória Cirino,7354.245999999999
+1803,Dr. Valentim Barros,8713.773333333333
+1804,Bento Martins,5216.51
+1805,Emanuel Freitas,8064.95
+1806,Ravi Lucca Castro,10428.653999999999
+1807,Dr. Vitor Hugo Alves,3599.906
+1808,Sr. Bento Guerra,13595.82
+1809,Pedro Lucas Silva,7999.606666666667
+1810,Bianca Fonseca,12782.595000000001
+1811,Vinicius Garcia,8365.35
+1812,Maria Laura Macedo,6190.33
+1813,Fernando da Rosa,10083.34
+1814,Breno Ferreira,6288.678333333333
+1815,Theo Machado,3638.27
+1816,Ana Clara Rios,13999.913333333336
+1817,Asafe Cassiano,4511.89
+1818,Ravi Lucca Carvalho,10783.916666666666
+1819,Aurora Pimenta,5895.812
+1820,Rafael Cavalcante,2641.69
+1821,Ana Sophia Macedo,8593.52
+1822,Brayan Sousa,4949.7
+1823,Cauê Vargas,3875.42
+1824,Alice Pacheco,5046.55
+1825,Mariana Pinto,8327.978
+1826,Sr. Lorenzo Guerra,4724.953333333334
+1827,Maria Laura Porto,9577.478
+1828,Dra. Ana Julia Macedo,12956.65
+1829,Davi Lucca Lopes,6340.4766666666665
+1830,Lorenzo Moraes,8427.462
+1831,Caio Marques,9726.970000000001
+1832,Theo da Cruz,10405.0
+1834,Valentina da Costa,6176.941666666667
+1835,Lara da Costa,11582.335
+1836,Kaique Porto,4720.116
+1837,Heitor Farias,4316.400000000001
+1838,Camila Duarte,5584.02
+1839,Sr. Francisco Pastor,8396.036
+1840,Ravi Lima,10051.212
+1841,Olívia Montenegro,3489.41
+1842,Luna Silveira,3263.55
+1843,Ester Souza,8900.785
+1844,Maria Julia Pacheco,10132.336666666668
+1845,Maria Eduarda Rodrigues,8505.09
+1846,Mariah Macedo,4530.9775
+1847,Igor Mendes,11258.3575
+1848,Pedro Miguel Guerra,8889.009999999998
+1849,Maria Sophia Monteiro,3799.2349999999997
+1850,Ana Julia Costela,9968.07
+1851,Dr. Gael Henrique Albuquerque,9142.13
+1852,Davi Miguel Nascimento,7777.66
+1853,Cecilia Moura,817.94
+1855,Rebeca Novaes,2270.65
+1856,Stephany Alves,11857.135
+1857,João Felipe Machado,11058.603333333333
+1858,Maria Clara Melo,7240.865
+1859,Rael Nascimento,7930.69
+1860,Yago Silveira,9451.705
+1864,Maya Moraes,4880.22
+1865,Hadassa Cavalcante,10534.33
+1866,Jade Pinto,2515.5133333333333
+1868,Bella Cirino,12910.76
+1869,Benjamim Cavalcanti,14990.72
+1871,João Felipe Sousa,6282.938333333333
+1872,Francisco Albuquerque,7621.862222222222
+1873,Luna Pires,8977.09
+1874,Aylla Marques,1433.895
+1875,Sra. Ana Vitória Leão,11119.1
+1876,Josué Fogaça,9449.11
+1877,Luigi Peixoto,3836.52
+1878,José Miguel Vargas,7298.89
+1879,Dr. Luigi Aparecida,8534.31
+1880,Luana Monteiro,8209.18
+1881,Gael Gonçalves,8631.220000000001
+1882,Arthur Miguel da Luz,2071.73
+1883,Dra. Vitória Guerra,9370.586
+1884,Asafe Ferreira,8703.715
+1885,Enzo Gabriel Camargo,14695.88
+1886,Olívia Ferreira,4462.14
+1887,Vinicius Rezende,9102.105
+1888,Breno da Mata,4907.445
+1889,Bruno Pastor,8533.573333333334
+1891,Josué Cunha,4817.38
+1892,Rebeca Marques,8515.92
+1893,Rafael Cunha,7174.26
+1894,Ana da Paz,6643.94
+1895,Bento Araújo,1716.47
+1896,Daniel Barros,8222.966666666667
+1897,Benjamim Pereira,3138.18
+1898,Renan Abreu,11415.9
+1899,Srta. Maria Flor Correia,4183.365
+1900,Maria Vitória da Luz,5724.033333333333
+1901,Sra. Maria Fernanda Carvalho,12865.34
+1902,Gabriela Moura,6058.52
+1903,João Guilherme Moraes,6011.389999999999
+1906,Brenda Souza,8894.8725
+1907,Dra. Gabriela Castro,7584.286666666667
+1908,Maria Laura Almeida,3971.18
+1909,,11790.56
+1910,Laís Câmara,8772.78
+1911,Dra. Maitê Novais,9491.564999999999
+1912,Gael Gonçalves,6821.876666666667
+1913,Ana Liz Pimenta,14271.79
+1914,Cauã Vieira,11128.11
+1915,,8922.683333333332
+1916,Luiz Gustavo Mendonça,9299.545
+1917,Cauã Pacheco,5307.59
+1918,Ana Mendes,12963.05
+1919,Vinicius Abreu,6917.34
+1920,Lívia Novaes,9170.97
+1921,Maria Isis Ramos,9261.273333333333
+1922,Maria Laura Andrade,7702.1125
+1923,Manuella Melo,13584.096666666666
+1925,Sr. Mathias Melo,8157.7425
+1926,Srta. Alice Abreu,5593.8975
+1927,João Guilherme Albuquerque,6038.06
+1928,Sr. Mateus Lopes,7295.954000000001
+1929,Sr. Leonardo Montenegro,4858.64
+1930,Arthur Gabriel Peixoto,6071.662
+1931,Lucca Vieira,12891.23
+1933,Dra. Lavínia Dias,6089.0875
+1934,Srta. Lara Sá,5178.855
+1935,Hellena Rocha,8614.655
+1936,Maria Cecília da Rocha,8461.746
+1937,Diego da Costa,11376.692500000001
+1938,Luiza Aparecida,6715.5875
+1939,Pedro Fogaça,12236.028
+1940,Manuela Campos,2077.27
+1941,Oliver Montenegro,6816.356666666667
+1942,Noah Vasconcelos,1872.95
+1943,Rafael Moura,8750.557499999999
+1944,José Miguel Brito,13055.470000000001
+1945,Breno Borges,9711.424
+1946,Cauê Pereira,8382.75
+1948,Rhavi Gonçalves,8922.217999999999
+1949,Pedro Henrique Jesus,5596.193333333334
+1950,Marcela Vieira,6374.1425
+1951,Isaque da Paz,8700.643333333333
+1952,Carlos Eduardo Gonçalves,8075.0075
+1953,Vinícius da Conceição,2682.33
+1954,Maria Eduarda Silva,13051.89
+1955,Sophia Siqueira,12286.57
+1956,Sr. Bernardo Nascimento,4292.79
+1957,Isabella Aragão,13881.56
+1958,Liam da Cruz,6905.673333333333
+1959,Vitor Hugo Montenegro,4709.626666666667
+1960,Diogo Farias,8840.16
+1961,Dra. Cecilia Almeida,6006.45
+1962,Ana Vitória Albuquerque,11600.713333333333
+1963,Henry Dias,9233.05
+1964,Lívia da Mata,3583.8925
+1965,Luigi Novaes,9545.975
+1966,Vitória Ramos,6586.514999999999
+1967,Benjamin Gomes,8728.356
+1968,Emilly Ribeiro,10024.426000000001
+1969,Thomas Borges,6489.638000000001
+1970,Sra. Gabriela Nascimento,6355.9800000000005
+1971,Thales das Neves,14998.09
+1972,Lorenzo Fogaça,7545.8375
+1973,Luiz Otávio Viana,6744.33
+1974,Vinicius da Mota,13021.46
+1975,Maria Alice Macedo,11681.52
+1976,Juliana Montenegro,4808.066000000001
+1977,Aylla Nogueira,8231.576000000001
+1978,Dra. Clarice Viana,5971.67
+1979,Asafe Barros,10856.498333333335
+1980,Srta. Eloá Cunha,8487.605
+1981,Bianca Macedo,4446.714
+1982,Davi Lucca Fogaça,10468.0675
+1983,Sr. Gael Moura,1705.19
+1985,Maria Cecília da Paz,7174.266666666666
+1986,Miguel Andrade,4388.17
+1987,Nicolas Oliveira,7912.276666666668
+1988,João Miguel Oliveira,8148.004000000001
+1989,Enzo Silva,5638.32
+1990,Júlia Castro,8629.2575
+1991,Ana Carolina Porto,3956.6733333333336
+1992,Arthur Miguel Freitas,6121.844999999999
+1993,Dra. Maria Laura Cavalcante,9830.24
+1994,Srta. Maria Liz Montenegro,9454.75
+1995,Lorenzo Abreu,7175.9349999999995
+1996,João Gabriel da Mata,2660.436666666667
+1997,Raul da Mata,9943.08
+1998,Pedro Aragão,8796.345
+1999,Ágatha Souza,8323.345000000001
+2000,Sarah da Cruz,9352.5425
+2001,Henry Gabriel Moreira,5547.824
+2002,Henrique Azevedo,12840.9
+2003,Vinicius da Rocha,7721.066000000001
+2004,Dra. Lavínia Ribeiro,3165.68
+2005,,7692.222
+2006,Rebeca Sampaio,7412.3975
+2007,Davi Sales,11548.119999999999
+2008,Dr. Thales Santos,5596.474999999999
+2009,Melina Ferreira,7190.36
+2010,Anthony Gabriel Nogueira,8240.29
+2011,Juan Marques,6263.5599999999995
+2012,Sr. Vicente Souza,8511.615
+2013,Sra. Ana Lívia Barros,4861.825
+2014,Diego Montenegro,10849.746666666666
+2015,Maria Cecília Vieira,7695.544285714285
+2016,Pedro Peixoto,7071.38
+2017,Antony Barbosa,5458.465
+2018,Maria Júlia das Neves,3464.463333333333
+2019,Arthur Vasconcelos,5383.992
+2020,Davi Miguel Pereira,6412.88
+2021,Luísa Garcia,9996.481666666667
+2022,Manuella da Rosa,9549.33
+2023,Julia da Costa,3810.67
+2024,Ágatha Alves,11703.8
+2025,Mariah Fernandes,12540.625
+2026,Sr. Thiago Monteiro,8878.79
+2028,Sarah Martins,9762.08
+2029,Fernanda Gonçalves,11214.63
+2030,Maitê Silva,5291.485
+2031,Maria Júlia Peixoto,12365.58
+2032,Davi Luiz Camargo,8455.675
+2033,Cauã Abreu,5949.343333333333
+2034,Lorena Vasconcelos,7169.753333333334
+2035,Arthur da Cruz,7295.14
+2036,Amanda Lima,11851.775
+2037,Mariah Gomes,5558.843333333333
+2038,Olivia Cardoso,6605.0875
+2039,Laís Caldeira,9418.266666666666
+2041,Ravi Lucca Cirino,14138.383333333333
+2042,Alexandre Moreira,5201.992
+2043,Samuel Marques,8438.050000000001
+2045,Elisa Pastor,4676.3575
+2046,Ester da Luz,11745.11
+2047,Leonardo Jesus,9039.39
+2048,Olívia Teixeira,6538.212500000001
+2049,Caroline Moraes,11150.14
+2051,Caio Barros,7139.6825
+2052,Yago Leão,6210.3175
+2053,Carolina Pires,8179.975
+2054,Eloá Pimenta,4502.98
+2055,Sr. Otávio Sales,8246.774000000001
+2056,Rafaela Sampaio,4730.45
+2057,Josué Albuquerque,6834.223333333332
+2058,Melina Carvalho,4732.12
+2059,José Miguel Cassiano,4438.755
+2060,Vitor Cassiano,9024.815
+2061,Ana Lívia Viana,5699.9825
+2062,,10205.623333333333
+2063,Alexandre Sá,11179.441666666666
+2064,Sra. Ana Lívia Araújo,9979.1975
+2065,Lorena Marques,4657.512500000001
+2066,Pedro Henrique Vasconcelos,10456.851999999999
+2067,,6436.266666666666
+2068,Kamilly Rocha,4839.585
+2069,Anthony Gabriel da Cruz,14552.95
+2071,Noah Martins,5499.963333333333
+2072,Felipe Sousa,5456.94
+2073,Matheus da Mata,6796.475
+2074,Fernanda Pimenta,8771.07
+2075,,10671.923333333334
+2076,,2647.795
+2077,Srta. Luara Martins,7623.849999999999
+2078,Dra. Maria Luísa Moreira,11448.806666666665
+2079,Vitor Costela,10156.42857142857
+2080,João Vitor Barbosa,8103.7875
+2081,Agatha Nascimento,2840.1766666666667
+2082,Emanuelly Ferreira,14522.47
+2083,Dra. Alexia Farias,6275.408
+2086,Pietro Macedo,4198.71
+2087,Ayla Cunha,8066.673333333332
+2088,Heloisa Jesus,9336.035
+2089,Matteo Almeida,4633.336666666666
+2090,Lívia Caldeira,9286.135
+2091,João Guilherme Melo,1286.895
+2092,Emilly Sousa,3823.9799999999996
+2093,Esther Rios,7800.623333333334
+2094,Srta. Isadora da Cruz,7183.998333333333
+2095,Hellena Sá,6279.66
+2096,Lucca Camargo,5612.49
+2097,Sr. Otávio Casa Grande,9124.882000000001
+2098,Sr. Caio Alves,10444.606666666667
+2099,Benjamin Alves,5942.9725
+2100,Antony Gomes,7669.5
+2101,Mariah da Luz,9879.2
+2102,Mariah Moraes,9004.5
+2103,Guilherme Novais,8860.31
+2104,Renan Vasconcelos,5223.456666666666
+2105,Ana Cecília Oliveira,5414.17
+2106,Ana Carolina da Rosa,10443.746666666668
+2107,Laís Pires,8863.636666666667
+2108,Bella Guerra,8058.26
+2109,Sra. Emilly Pires,10020.666666666666
+2111,Cauã Moraes,8668.1075
+2112,Sr. Diego Fernandes,9721.515
+2113,Mariah Sousa,4699.545
+2114,Brayan Borges,5543.933333333333
+2115,Isabela Ribeiro,10839.3175
+2116,Isabelly Brito,7207.923333333333
+2117,Dr. Matheus Moreira,10781.426666666666
+2118,Ana Luiza Silveira,8029.825
+2119,Stella Nascimento,10645.215
+2120,Cecília Moreira,12102.46
+2121,Maria Sophia Camargo,3394.09
+2122,Dom Moreira,12046.625
+2123,Luiz Fernando Pacheco,8398.7
+2124,Luana da Rocha,8174.5275
+2125,Sra. Luana Aragão,9494.380000000001
+2126,Mariana Sales,8682.16
+2127,Sophia Marques,13876.56
+2128,Hadassa Brito,11545.07
+2129,Alícia Correia,658.31
+2130,Sr. Benjamim Melo,7130.655
+2131,Rafaela da Mota,9793.395
+2132,Sr. Luiz Miguel Gonçalves,11089.225
+2133,Yan Camargo,5201.653333333333
+2134,Sarah Costa,6100.653333333333
+2135,,12270.56
+2136,Ana Fernandes,5497.88
+2137,Ester Macedo,6607.87
+2138,Lucas Ferreira,9852.703333333333
+2139,Dr. João Gabriel Vieira,7456.0380000000005
+2140,Emilly Barros,8750.916666666666
+2141,Bella Melo,6930.69
+2142,Murilo Camargo,6682.265
+2143,Sra. Emilly Brito,2683.8733333333334
+2144,Sra. Caroline Macedo,4719.035
+2145,Caleb Duarte,8236.17
+2146,Mariane Leão,10187.795
+2147,Dr. Alexandre da Luz,7097.01
+2148,Matteo da Paz,10366.36
+2149,Luan Pimenta,7258.34
+2150,Davi Lucas Costela,7154.8675
+2151,Luana Casa Grande,8452.025
+2152,Isis Costa,9140.46
+2153,Bruna Pereira,13245.43
+2154,Srta. Allana Sousa,2594.93
+2155,Arthur Mendonça,4920.12
+2156,João Lucas Cavalcante,10989.37
+2157,Vicente Teixeira,6181.844999999999
+2158,Esther Silveira,7657.450000000001
+2159,Juan Pinto,9972.166666666666
+2160,Mariana Vargas,7666.05
+2161,Luiza Gomes,5274.515
+2162,Emanuella Jesus,5984.2225
+2163,Sr. Isaac Rezende,5456.845
+2164,Matheus Santos,1437.52
+2166,Alexia Garcia,10009.25
+2167,Paulo Costela,6508.704999999999
+2168,Vinicius Rodrigues,8107.7699999999995
+2170,Júlia da Cunha,3610.19
+2171,Sabrina da Cunha,9795.563333333334
+2172,João Pedro Martins,7950.05
+2173,Nicole Leão,14302.84
+2174,Francisco Correia,8164.055
+2175,Benício da Paz,9428.593333333332
+2176,Gustavo Cirino,11895.49
+2177,Gustavo Henrique Vieira,1415.73
+2178,Maria Eduarda Fogaça,8312.396666666667
+2179,Josué Barbosa,14692.58
+2180,Dr. Yan Carvalho,8880.901999999998
+2181,Samuel da Cunha,5017.754999999999
+2182,Noah Souza,9537.415
+2183,Aylla Moreira,4139.225
+2184,Sr. Thomas Andrade,1034.28
+2186,Maria Gomes,1024.72
+2187,Alexia Rodrigues,6868.3675
+2189,Dra. Isabella Rocha,6603.215
+2190,Maria Flor Nunes,458.51
+2191,Daniel Castro,8975.106666666667
+2192,Juan Martins,11383.925
+2193,Alexandre Brito,1634.53
+2194,Vitor Hugo Martins,12548.37
+2195,Yan Vieira,4672.93
+2196,Maitê Freitas,9834.51
+2197,Brenda Ferreira,13597.89
+2198,Dra. Jade Siqueira,10793.053333333333
+2199,Srta. Kamilly Sá,4677.015
+2200,Enrico Cardoso,12234.369999999999
+2201,Benício Martins,13827.48
+2202,Ana Luiza Ramos,3939.4833333333336
+2203,Joana Farias,8174.4800000000005
+2204,Dra. Zoe Siqueira,4802.346
+2205,Bruno Rezende,10148.06
+2207,Caroline Macedo,7956.876666666667
+2208,Bruno Vieira,11183.449999999999
+2209,Alana da Luz,11478.14
+2210,Dr. Miguel Sá,8996.545
+2211,Igor Almeida,9739.068
+2212,Júlia Nunes,4239.418333333333
+2213,Ana Lívia Correia,11479.645
+2214,Pedro Lucas Vargas,4864.45
+2215,Yago Gonçalves,12322.95
+2216,Henrique Macedo,7815.498333333334
+2217,Stephany Gomes,4936.016666666666
+2218,Antonella Borges,8899.853333333333
+2219,Valentina Aparecida,6074.82
+2220,Manuella Azevedo,305.89
+2221,Matheus Moreira,10639.17
+2222,Dra. Julia Lopes,9482.86
+2223,Pietra Pacheco,14659.67
+2224,Ana Julia Mendes,7242.265
+2225,Sra. Cecília Rezende,7527.0
+2226,Sr. Lucas da Cruz,9694.27
+2227,Rebeca Cavalcante,12709.79
+2228,Luiz Miguel Martins,6921.59
+2229,Srta. Cecilia Cavalcanti,7846.2733333333335
+2231,Clarice Siqueira,9306.423333333334
+2232,Maitê Correia,5185.44
+2233,Maya Ribeiro,2355.69
+2234,Caio Casa Grande,9057.77
+2235,Matheus Pinto,4685.52
+2236,Carolina Freitas,10683.515
+2237,Heloisa Pimenta,1335.2900000000002
+2238,Eloá Novais,6864.6849999999995
+2239,Leandro Brito,6054.798
+2241,Ayla Martins,9313.695
+2242,Davi Duarte,6645.86
+2243,Enzo Gabriel Montenegro,9605.439999999999
+2244,Aurora Azevedo,5625.816666666667
+2245,Yuri Andrade,7700.183999999999
+2246,Luiz Fernando Moraes,11290.825
+2247,Theo Leão,11196.68
+2248,,6694.1449999999995
+2249,Maria Luísa Silva,5833.638
+2250,Marcela Barros,5074.745
+2251,Ana Laura Marques,9692.050000000001
+2252,Natália Fogaça,14744.14
+2253,Guilherme Alves,7901.38
+2255,Vitor Brito,14344.1
+2256,Nina Cunha,14409.6
+2259,Raul Nunes,10113.529999999999
+2260,Luana Oliveira,1618.05
+2261,Marcela Moraes,8686.673333333334
+2262,Bento Camargo,2804.5
+2263,Heloisa Rocha,5560.08
+2264,Isabelly Sá,9940.922
+2265,Luara Ribeiro,11312.293333333335
+2266,Nicole Correia,8314.83
+2267,Maya Viana,6629.5599999999995
+2268,Ana Sophia Moura,9420.7125
+2270,Luana da Costa,8881.27
+2271,Manuela Castro,8421.693333333335
+2272,Valentina Melo,6524.42
+2274,João Miguel Sampaio,3834.9
+2275,Ana Carolina Rocha,8093.494000000001
+2276,Hadassa Jesus,4586.26
+2277,Manuella Câmara,9884.733333333334
+2278,Vitor Gabriel Albuquerque,7875.2325
+2279,,10008.630000000001
+2280,Sra. Eloah da Mata,10703.84
+2281,Bernardo Pereira,8758.61
+2282,Carolina Pacheco,11365.567500000001
+2283,Sr. Lucas Gabriel Vieira,9007.096666666666
+2284,Luiz Otávio Campos,5788.135
+2285,Letícia Gomes,6881.446666666667
+2286,João Gabriel Fernandes,12958.3
+2287,Emanuella Nascimento,5036.870000000001
+2288,João Guilherme Machado,8906.04
+2289,Sabrina Guerra,6954.8225
+2290,,9215.795
+2291,Henry Borges,1963.5900000000001
+2292,Bella Sá,1738.865
+2294,Cauã Jesus,2819.49
+2295,Luara Vasconcelos,3594.575
+2296,João Pedro Freitas,5600.6
+2297,Bernardo Fernandes,3302.45
+2298,Nicole Moura,7100.2925000000005
+2300,Sra. Maria Luísa Novaes,11237.243333333332
+2301,Daniela Teixeira,12589.449999999999
+2302,Vitória Rezende,6282.825000000001
+2303,Calebe Pimenta,5296.8025
+2304,Maria Alice Fogaça,9923.76
+2306,Léo Carvalho,3176.8450000000003
+2307,Júlia Duarte,7600.27
+2308,Julia Casa Grande,8828.626666666667
+2309,Emilly Dias,7749.385
+2310,José Machado,2690.98
+2311,Otto Barbosa,4238.36
+2312,Davi Lucas Cassiano,12223.24
+2313,Gabriela Mendes,4456.95
+2314,Maitê Barros,6822.576666666667
+2315,Danilo Rios,7126.206
+2316,Emilly Santos,9980.425
+2317,,6458.745
+2318,Dr. Henrique Guerra,7350.0
+2319,Ágatha Cunha,7565.394
+2320,Francisco Casa Grande,9677.965
+2321,Yago Mendes,8745.827142857142
+2322,,11663.795
+2323,Ana Luiza Cavalcante,9666.416666666666
+2324,Gustavo Sampaio,6928.866
+2325,Antony Pires,7503.68
+2326,Ana Vitória Casa Grande,7324.2075
+2327,Sophia Rezende,13549.453333333333
+2328,Dra. Joana Martins,7270.26
+2329,Eloá Fogaça,1513.76
+2330,Sr. Thales Ramos,9482.4725
+2331,Maysa da Luz,9424.31
+2332,Dr. Gustavo Nascimento,10543.21
+2333,Bella da Mota,7544.426666666666
+2334,Srta. Ana Beatriz Nunes,8248.705
+2335,Maria Fernanda Oliveira,7486.216666666666
+2336,Elisa Lima,10106.653333333334
+2337,Kevin Fernandes,10072.11
+2338,Sr. Benjamim Fonseca,6138.8
+2339,Isabella Cirino,10802.279999999999
+2340,Julia Pacheco,5122.165
+2341,Julia Santos,7614.016666666667
+2342,Kamilly Abreu,3622.4149999999995
+2344,Maria Helena Pimenta,10733.88
+2345,Srta. Ana Sampaio,2289.45
+2346,Raquel Rezende,8210.11
+2348,Sofia Pinto,10129.145
+2349,Emanuelly Cavalcante,4837.585
+2350,Pedro Miguel Aragão,7593.518333333333
+2351,Ana Julia Farias,12770.89
+2352,Caio Freitas,7968.969999999999
+2353,Dr. João Miguel Leão,6105.1875
+2354,Ana Julia Silva,6130.753333333334
+2355,Sra. Ana Carolina Viana,2679.91
+2356,Lavínia Cassiano,2046.2150000000001
+2357,Natália Barros,11846.365
+2358,Enrico Cassiano,3452.26
+2359,Lara Fogaça,7946.62
+2360,Luiz Otávio Montenegro,10402.375
+2361,Valentim Cardoso,8855.16
+2362,Maria Cecília das Neves,5282.556666666666
+2363,Sr. Davi Aragão,7569.745
+2364,Ana Sophia Almeida,5545.23
+2365,Mariana Cirino,6086.135
+2366,Helena Freitas,5514.12
+2367,Carlos Eduardo Oliveira,6752.54
+2368,Sra. Maysa Gomes,4430.085
+2370,Dra. Maria Brito,4426.974999999999
+2371,Maria Eduarda Martins,6373.128
+2372,Dr. Lorenzo Pastor,7409.5575
+2373,Mathias Cassiano,7665.953333333334
+2374,Maria Vitória Souza,1622.9933333333336
+2375,Isaac da Paz,2568.2599999999998
+2376,Gabriel da Rocha,8722.787999999999
+2377,Maria Flor Borges,10602.54
+2378,Nina Carvalho,8647.49857142857
+2379,Mateus Barbosa,3975.99
+2380,Kevin Albuquerque,9278.25
+2381,Dra. Isadora Mendes,8098.445
+2382,Luana Jesus,9808.23
+2383,Milena Garcia,8295.41
+2384,Ana Clara Cavalcanti,13696.08
+2385,Yuri Moreira,5231.72
+2386,Larissa Brito,8594.938
+2387,Srta. Esther Monteiro,7251.795
+2388,Srta. Carolina Casa Grande,12177.85
+2389,Lunna Teixeira,12457.715
+2390,Anna Liz Carvalho,3223.045
+2391,Carlos Eduardo Machado,10252.996666666668
+2392,Maria Clara Moura,7660.4375
+2393,Alice Porto,11993.7225
+2394,Stella da Rosa,8701.275
+2396,Otto Brito,5169.522
+2397,Cauã Sales,4423.756
+2399,Paulo Fogaça,12869.515
+2400,Sr. Igor Santos,5849.08
+2401,Sr. Kevin Mendonça,4188.306666666666
+2402,Maria Isis Cardoso,7788.392857142857
+2403,Luara Lopes,8815.6225
+2404,Maria Cecília da Rocha,6284.860000000001
+2405,Dr. Isaac Machado,8118.6925
+2406,Juliana Silveira,13433.43
+2407,Bárbara Cardoso,13724.35
+2408,Arthur Miguel Novais,1142.2
+2409,Maria Laura Carvalho,9227.705
+2410,Benicio Nascimento,6587.6275
+2411,Maria Luísa da Rocha,3691.71
+2412,Larissa Novais,6527.889999999999
+2413,Sr. Erick Lima,5373.876666666666
+2414,Sr. Brayan Aragão,9910.87
+2415,Pedro Henrique Barbosa,9804.949999999999
+2416,Dr. Mathias Garcia,6585.086666666667
+2417,Kevin Rocha,12602.056666666665
+2418,Luiz Henrique Leão,9732.94
+2419,Eloá Ramos,6868.413333333334
+2421,Bernardo Rodrigues,7269.035
+2422,Maysa Fernandes,8858.79
+2423,Luara Gomes,244.59
+2424,Lucca Lopes,12934.869999999999
+2425,Igor Rodrigues,5955.465
+2426,Ian Santos,9604.95
+2427,Ana da Paz,12701.21
+2428,Liz da Rosa,8199.39
+2429,Cecilia Lima,4716.826666666667
+2430,,8212.426000000001
+2431,Carolina Fernandes,5698.063333333334
+2432,Henrique Santos,6249.46
+2433,Luiz Miguel Souza,8438.83
+2434,Cecilia Moura,8228.5
+2435,Gabriel Cunha,6029.536666666667
+2436,Hellena Marques,6369.196
+2437,Théo Abreu,7092.399999999999
+2439,Sra. Melina Vieira,8153.2266666666665
+2440,Luiz Miguel Pacheco,12739.064999999999
+2441,Brayan Pires,10626.885
+2442,Ana da Mata,5166.665000000001
+2443,Ana Liz Almeida,13009.03
+2444,João Câmara,7418.4975
+2445,Milena da Mota,8981.196666666667
+2446,Bianca da Mota,5301.259999999999
+2448,Sr. Davi Miguel Mendonça,1973.64
+2449,José Pedro da Rocha,10922.314999999999
+2450,Rebeca Mendonça,6591.515
+2451,Srta. Ana Sophia Fernandes,10922.3925
+2452,Ísis Freitas,9215.316666666668
+2453,Lavínia Araújo,7779.836
+2454,Apollo Ribeiro,8160.34
+2455,Enzo Gabriel Viana,8082.006666666667
+2456,Maria Júlia da Mata,4456.505
+2457,Luiza Moura,10448.5175
+2458,Srta. Isabelly Lopes,14365.18
+2460,Joana Melo,11562.547999999999
+2461,Sr. Rodrigo Monteiro,11034.95
+2462,Dr. Vitor Montenegro,14411.54
+2463,Ana Beatriz Moura,9934.44
+2464,Davi Luiz Silveira,12775.75
+2465,Maysa Pastor,8511.375
+2466,João Gabriel Andrade,8041.6875
+2467,Davi Lucca Pimenta,6829.360000000001
+2468,Luigi Duarte,6249.955
+2469,Mariane Albuquerque,12014.013333333334
+2470,Bruna Almeida,12948.52
+2471,Arthur Gabriel Lima,9555.26
+2472,Maria Cecília Marques,7158.296666666666
+2473,Letícia Rocha,2543.685
+2474,Samuel Teixeira,8973.2325
+2475,Vicente Montenegro,14291.64
+2476,Bruna Aragão,8091.803333333333
+2477,Bruno Rodrigues,5064.37
+2478,João Gabriel Farias,846.27
+2479,Raquel Araújo,3401.612
+2480,Rhavi Monteiro,4508.5675
+2481,Ester da Cunha,7247.473333333332
+2482,Ian da Conceição,6812.35
+2483,Srta. Agatha Araújo,6270.442499999999
+2484,Eloah Casa Grande,13080.54
+2486,Henry Gabriel Ribeiro,8731.38
+2487,Leonardo Souza,7385.39
+2488,Sabrina Sá,6573.38
+2489,Rafaela da Costa,5897.32
+2490,Brenda Sá,9103.772
+2491,Dr. Erick Casa Grande,8749.835
+2492,Ágatha Pinto,11577.160000000002
+2493,Ravi Lucca Pimenta,3957.945
+2494,Maria Cecília Barbosa,5294.139999999999
+2496,Dr. Pedro Santos,5905.464285714285
+2497,Laís Sousa,9798.73
+2498,Cecilia Viana,13209.08
+2499,Sr. Calebe Freitas,6330.37
+2500,,3723.605
+2501,Melissa Cirino,10084.896666666667
+2502,Murilo Farias,6369.436666666667
+2503,Ana Casa Grande,10782.895
+2504,Ana Vitória Lopes,9280.016666666666
+2505,Heloisa Mendes,7930.91
+2506,Dra. Maitê Rios,4901.49
+2507,Carlos Eduardo Souza,7040.41
+2508,Sr. Thiago da Luz,9010.301428571429
+2509,Maria Flor da Mota,6730.379999999999
+2510,Gael Oliveira,7611.008
+2511,Leandro Carvalho,10089.4375
+2512,Nathan Nascimento,9285.356
+2513,Sarah Silveira,7922.825000000001
+2514,,8092.54
+2515,Sr. Cauê da Cruz,6952.66
+2516,Rhavi Pires,5970.6875
+2517,Eduarda da Conceição,8718.34
+2518,Pietra Moura,4214.22
+2519,Dra. Lavínia Macedo,11945.07
+2520,Dr. Ian da Mata,3033.53
+2521,Rebeca Dias,12478.993333333332
+2522,Laís Duarte,3996.47
+2523,Luiz Fernando Aparecida,7865.12
+2524,Helena Camargo,8722.17
+2525,Maya da Rosa,6585.683333333333
+2526,Elisa Viana,5679.633333333332
+2527,Isabela Vieira,4699.0175
+2528,Sra. Anna Liz Melo,14103.1
+2529,Alana Carvalho,4995.42
+2530,,9835.223333333333
+2531,José Miguel Brito,2316.21
+2532,Otto da Mota,4786.644
+2533,,5682.592500000001
+2534,,13027.95
+2535,Yago Barros,3112.7825000000003
+2536,Juan Novaes,8603.185000000001
+2537,Benjamim Mendes,5891.693333333334
+2538,Rafaela Pires,7732.046666666666
+2539,Sr. João Vitor Azevedo,9991.38
+2540,Luna da Paz,5019.63
+2541,Bianca Castro,11791.05
+2542,Gustavo Sousa,771.51
+2543,Evelyn Garcia,5683.4
+2544,Ana Luiza da Luz,8947.405
+2545,Maria Flor Andrade,10112.93
+2546,Hadassa Vasconcelos,1864.605
+2547,Sarah Martins,1551.56
+2548,Rhavi Ramos,3104.916
+2550,Vitor Hugo Cardoso,11914.8
+2551,Dr. Otto Azevedo,10469.386666666667
+2552,Otávio Jesus,11564.486666666666
+2553,,9127.66
+2554,,5868.81
+2555,Pedro Andrade,9766.259999999998
+2556,,7234.18
+2557,Joana Pastor,5945.7525000000005
+2558,Raul Rios,8476.353333333333
+2560,Emanuella Rios,6744.25
+2561,Dr. Daniel Pires,6421.85
+2562,,4837.75
+2563,Dr. Luigi Costela,6085.566666666667
+2564,Henry Gabriel Rodrigues,6255.5625
+2565,Sophia Mendes,12639.89
+2566,Luiza Rocha,6113.143333333333
+2567,Sophie da Conceição,8889.91
+2568,Samuel Peixoto,5574.339999999999
+2570,Lucca Mendonça,6837.49
+2571,Noah Campos,6458.49
+2572,Maria Júlia Oliveira,6316.603333333333
+2573,Murilo Vasconcelos,9926.19
+2574,Ana Lívia Nunes,7332.28
+2575,Sr. Juan da Mata,9035.689999999999
+2577,Aylla da Cruz,12787.77
+2578,,5526.776666666668
+2579,Ravi Pires,7967.826666666667
+2580,Diego Vargas,9290.5375
+2581,Mirella Mendonça,1698.19
+2582,Kaique Viana,10499.883333333333
+2583,Nicole Aragão,8543.004
+2584,Asafe Teixeira,9193.141666666666
+2585,Mariana Almeida,6226.905
+2586,Juan Melo,5223.997142857143
+2587,Isabel Novais,9951.405
+2589,,9100.84
+2591,Ravy Machado,7952.806666666666
+2592,Sra. Camila Cassiano,5992.4
+2593,Isaque Costela,4617.205
+2594,,8479.755000000001
+2595,Antonella Fogaça,3542.97
+2596,Melissa Pimenta,11079.566666666666
+2597,Matteo Pinto,6819.100000000001
+2598,Benicio Gomes,12643.44
+2599,Sr. Augusto Vargas,8939.83
+2600,Clara Pacheco,8552.55
+2601,Alícia Barros,6479.56
+2602,Mariah Cardoso,6111.18
+2603,Marina Azevedo,7491.745
+2604,Liz Martins,8173.22
+2605,Lavínia Farias,10802.395
+2606,Isaque Moraes,4950.788333333333
+2607,Samuel Cunha,7327.091428571429
+2608,Pedro Lucas Freitas,2223.44
+2609,Hadassa Ferreira,2227.0
+2610,Anthony Cirino,3692.21
+2611,Yasmin Brito,9479.93
+2613,Gael Freitas,7012.2925
+2614,Maria Helena Ramos,6163.6050000000005
+2615,Yuri da Paz,7218.580000000001
+2616,José Miguel Freitas,7398.166666666667
+2617,Emanuella Duarte,7061.36
+2618,Melina Garcia,4909.54
+2619,Ana Sophia Vieira,7739.06
+2620,Dra. Giovanna Martins,13776.34
+2621,João Guilherme Costa,12324.01
+2622,Sra. Ana Laura Caldeira,2203.38
+2623,Sr. Henry Cunha,4978.256666666667
+2624,Otávio Cassiano,5363.9400000000005
+2625,Dr. Luiz Gustavo da Luz,7798.22
+2626,Oliver Andrade,5912.975
+2627,Anna Liz Ribeiro,6339.3516666666665
+2628,Bruna Viana,8858.1375
+2630,Sra. Brenda da Cruz,5564.49
+2631,Maria Julia Pinto,3328.67
+2632,Helena Alves,7087.853333333333
+2633,Srta. Ana Vitória Gomes,7771.555
+2634,Emanuelly Borges,2010.53
+2635,Gabrielly Ramos,13984.575
+2636,Ana Cecília Alves,3778.46
+2637,Luiz Gustavo Pinto,7358.8279999999995
+2638,Maria Isis Casa Grande,8716.874
+2639,,4011.51
+2640,Luiz Fernando Cirino,4396.946666666667
+2641,Ana Luiza Moraes,9532.529999999999
+2642,Maria Vitória Novaes,7580.82
+2643,Ana Luiza da Paz,4678.8325
+2645,Ana Clara Castro,10440.710000000001
+2647,Sra. Maria Vitória Borges,1287.915
+2648,Sra. Raquel Abreu,10878.27
+2649,Kaique Araújo,6133.8
+2650,Gael Mendonça,6103.508333333334
+2651,Maria Vitória Lopes,8932.476666666667
+2652,Luan Vasconcelos,10818.01
+2653,Kevin Pimenta,7064.556666666666
+2654,Juan Melo,5427.860000000001
+2655,Maria Flor Cardoso,5321.283333333333
+2656,Pedro Henrique Carvalho,9133.423333333334
+2657,Ana Lívia Pereira,2281.47
+2658,Dr. Anthony Cavalcante,1710.63
+2659,Ravi Garcia,6249.965
+2660,Oliver Mendes,3633.8100000000004
+2661,,8127.4125
+2662,Ana Sophia Fogaça,7793.3475
+2663,Igor Barros,9257.76
+2664,Luan Viana,5591.0775
+2665,Ayla Lopes,10417.841666666667
+2666,Marina Barros,2769.335
+2667,Liz Sousa,2223.945
+2669,Maria Luísa da Cruz,7068.69
+2670,Alice Ferreira,7744.285
+2671,João Guilherme Cunha,8460.725
+2672,Benício Moraes,7860.836666666666
+2673,,8705.014
+2674,Arthur Miguel Pacheco,8072.363333333334
+2675,Jade da Mata,7827.886666666666
+2676,Sra. Ana Carolina Fernandes,8767.42
+2677,Vinicius Campos,5818.105
+2678,Gael Andrade,5725.178
+2679,Maria Luísa Ramos,7067.61
+2680,Olívia Barros,11848.224999999999
+2681,,14905.93
+2682,,3152.75
+2683,Sofia Guerra,8933.215
+2684,Rael Pimenta,8028.213333333333
+2685,Dra. Mariane da Cruz,8756.65
+2686,Joaquim Pinto,9458.146666666666
+2687,Maya Montenegro,6719.992
+2688,Dra. Rebeca Farias,9544.84
+2689,Maria Liz Barbosa,4045.7740000000003
+2690,Dr. Fernando Siqueira,5423.8575
+2692,Dom Caldeira,7698.635
+2693,Carlos Eduardo Correia,10469.52
+2694,Dr. Luiz Miguel Duarte,5781.783333333333
+2695,Maria Sophia das Neves,3194.1949999999997
+2696,João Lucas das Neves,391.06
+2697,,7196.498000000001
+2698,Luiza da Luz,4047.3550000000005
+2699,Augusto Marques,9834.64
+2700,Vinicius Lopes,3410.95
+2701,Ana Sophia Rocha,9078.67
+2702,Dra. Lorena Abreu,3781.0525
+2703,Dr. Enzo Oliveira,8088.393333333333
+2704,Heloisa Lima,7326.26
+2705,Ana Liz Guerra,7369.823333333334
+2707,Maria Cecília das Neves,7500.859999999999
+2708,,9369.85
+2709,Dra. Pietra Cunha,7885.889999999999
+2710,Thales Cassiano,12053.648000000001
+2711,Liz Almeida,4502.875
+2712,Theo Guerra,4119.202
+2713,Ana Sophia Aparecida,9805.8025
+2714,Letícia Costa,10903.064999999999
+2715,Ana Laura Gonçalves,6458.453333333334
+2716,Isadora Silveira,9173.185
+2717,,5607.950000000001
+2718,Danilo Nogueira,8898.619999999999
+2719,Heloisa Duarte,4888.036666666667
+2720,Thomas Montenegro,8143.076666666667
+2721,,5052.03
+2722,Caroline Cunha,6421.780000000001
+2723,Mateus Fernandes,3706.16
+2724,Maya Lima,9689.653333333334
+2725,Mateus Nunes,11272.915
+2727,Davi Lucca Santos,7686.3475
+2728,Sr. João Felipe Novaes,7187.39
+2729,Henry Gabriel Novais,10028.86
+2731,Raul Martins,10122.210000000001
+2733,Mariane Macedo,6654.732222222223
+2734,Sra. Emilly da Luz,8876.11
+2735,Nina Cavalcanti,6195.466666666666
+2736,Erick Lima,14558.09
+2737,Mirella Pimenta,8116.215
+2739,Sophie Campos,2025.98
+2740,Isaac Ferreira,6642.86
+2741,Cauê da Mota,3759.0600000000004
+2742,Maria Helena da Luz,8862.423333333332
+2743,Melissa Porto,10576.68
+2744,Luísa Campos,6653.58
+2745,Dra. Isis Nascimento,10698.38
+2746,Alexia Nogueira,3185.86
+2747,Ana Freitas,4565.99
+2749,Rafael Farias,10309.623333333333
+2750,Sophia da Costa,7228.0
+2751,Julia Costa,13082.29
+2752,Maria Laura Costela,3945.4499999999994
+2753,Yago Martins,1196.67
+2755,Arthur Miguel Pimenta,9149.234285714285
+2756,Eduarda Alves,8657.493333333334
+2757,Léo da Cunha,6595.21
+2758,Elisa Peixoto,6464.295
+2759,Lucas Vargas,13074.05
+2760,Ryan Cardoso,5868.8
+2761,Eduardo da Luz,9928.82
+2762,Eloá Cassiano,2447.98
+2764,Yuri Porto,6848.68
+2765,Dra. Olívia das Neves,9517.085
+2766,Francisco Duarte,7696.08
+2767,Julia da Cunha,8491.635
+2768,José Pedro Cirino,4140.4
+2769,Léo Jesus,6820.9
+2770,Isaque Montenegro,6343.9400000000005
+2771,,11861.853333333333
+2773,Pedro Henrique Fogaça,8399.24
+2774,Theo Moura,6820.013333333333
+2775,Allana Sá,3025.8700000000003
+2776,Breno Alves,6857.040000000001
+2777,Apollo Araújo,9072.5375
+2778,Dra. Isis Pinto,4627.67
+2779,,11207.33
+2780,Davi Macedo,3751.0
+2781,Sr. Rafael Porto,7999.105
+2783,Srta. Manuella Pimenta,7728.577499999999
+2784,João Pedro Farias,6335.423333333333
+2785,Dra. Isis Souza,8170.408333333333
+2786,Vinícius Fonseca,8806.32
+2787,Vitor Hugo Pereira,9602.034
+2788,Enrico Montenegro,6266.204285714286
+2789,Isabella Nunes,5579.57
+2790,Elisa Santos,10157.460000000001
+2791,Lara da Mata,7422.286666666667
+2792,Cecilia Oliveira,8827.05
+2793,Lucca Santos,5912.4975
+2794,Sra. Laura Nascimento,5643.79
+2796,Kevin Jesus,7463.723333333332
+2797,Thomas Mendes,3789.272
+2798,Srta. Ana Carolina Lima,5500.02
+2799,Ana Julia Pastor,7486.876666666667
+2800,Sofia Mendes,1432.2649999999999
+2801,Ana Carolina Melo,9506.155
+2802,Dr. Isaque Moraes,3443.115
+2803,Emanuel Caldeira,9987.79
+2804,Miguel Sousa,11694.15
+2805,Enrico Mendonça,7520.240000000001
+2807,Bernardo Vasconcelos,9193.776666666667
+2808,Dante Rocha,6893.4800000000005
+2809,Sra. Clara Vasconcelos,5279.385
+2810,Lunna Azevedo,10642.796666666667
+2812,Calebe da Paz,6853.678
+2814,Sra. Bella Nascimento,5206.830000000001
+2815,Kevin Rocha,8027.66
+2816,Luiz Henrique Casa Grande,6993.43
+2817,Ana Carolina Almeida,7898.68
+2818,Lara Porto,7972.496666666666
+2819,Isabelly Oliveira,1225.26
+2820,Daniel da Rosa,9316.883333333333
+2821,Sabrina Castro,8694.595000000001
+2822,Ana Silveira,894.07
+2823,Valentim Siqueira,6455.126666666666
+2824,Rhavi Novais,8644.413333333332
+2826,Dr. Guilherme Novaes,7152.2075
+2827,Rafaela Andrade,6187.763333333333
+2828,Marcos Vinicius da Costa,5327.485
+2829,Luiz Gustavo Alves,10346.685
+2830,Otto Fogaça,5624.07
+2831,Camila Marques,5919.85
+2832,Cecilia da Cruz,1560.16
+2833,Cecilia Sousa,14722.28
+2834,Felipe Silveira,9383.76
+2835,Melina Cavalcante,7881.0599999999995
+2836,Cecília Pacheco,7521.015
+2837,Emilly da Mota,14798.2
+2838,Maria Luiza Peixoto,5044.4475
+2839,Sr. Cauê Nunes,3171.1825
+2840,Valentina Andrade,6722.175
+2841,Raul Abreu,8997.373333333333
+2842,Renan da Rosa,7979.38
+2843,Luiz Otávio Porto,897.44
+2844,,3766.985
+2845,Maria Laura Pires,8905.682
+2846,Sr. Liam Abreu,4519.165
+2847,Isabel Nascimento,8275.367999999999
+2848,Ana Beatriz Cardoso,8151.385
+2849,Vicente Rocha,14366.663333333332
+2850,Luiz Henrique Rocha,8584.914999999999
+2851,Calebe Campos,7514.276666666668
+2852,Gustavo Melo,4733.92
+2853,Dr. Gael Henrique Nunes,3409.6949999999997
+2854,João Gabriel Gomes,12379.2
+2855,Stella Azevedo,7476.16
+2856,Aurora Porto,5522.38
+2859,Sra. Olivia Sampaio,6000.7875
+2860,Ester Cavalcante,8719.02
+2861,João Martins,2691.79
+2862,Noah Ferreira,12135.029999999999
+2863,Arthur Miguel Fogaça,9610.395
+2864,Bella da Conceição,10973.94
+2865,Raul Cavalcante,8454.876666666667
+2866,Enrico da Paz,6499.44
+2870,Theodoro Moreira,5651.593333333333
+2871,Isabela Fogaça,7780.972
+2872,Henry Pacheco,5489.11
+2873,Dr. Caio Pacheco,4684.97
+2874,Liam Dias,11289.0
+2875,Srta. Joana Monteiro,1167.7233333333334
+2876,Sr. Calebe da Mata,3304.21
+2877,Dr. Luigi Brito,5980.894
+2878,Rodrigo Moura,6327.733333333334
+2879,Isis das Neves,4789.26
+2880,Ana Machado,3160.0766666666664
+2881,Sr. Arthur Gabriel Martins,8980.306
+2882,Lunna Câmara,3967.42
+2883,Giovanna Martins,7367.4400000000005
+2884,Ana Sophia da Cruz,9243.4775
+2885,Maria Cecília Montenegro,11300.869999999999
+2886,Rhavi Pinto,4565.355
+2887,Ana Júlia Albuquerque,8322.72
+2888,Eloah Cassiano,8159.766666666666
+2889,Lunna Araújo,6645.808333333333
+2890,Yago Farias,9738.76
+2891,Pedro Henrique Azevedo,6733.63
+2892,Elisa Jesus,6009.8475
+2893,Dra. Mariah Martins,1743.6
+2894,Pietra Marques,6738.12
+2895,Dante Carvalho,2212.615
+2896,Nina Barros,10171.64
+2897,Enrico Pereira,7981.613333333334
+2898,Melissa Gonçalves,5363.22
+2899,Luna Cardoso,6241.15
+2901,Maria Isis Brito,10669.073333333334
+2902,Dra. Nina Monteiro,4072.9
+2903,Ana Luiza Almeida,10669.2125
+2904,Srta. Ana Vitória Aparecida,4146.695
+2905,Marcela Novais,11001.18
+2907,Daniel Guerra,3226.282
+2908,Srta. Joana das Neves,7005.526666666668
+2909,Alice Viana,6749.13
+2910,Dra. Maria Eduarda Freitas,4400.02
+2911,Marcos Vinicius Araújo,3961.695
+2912,Srta. Olivia Caldeira,8927.1175
+2913,Leandro Pastor,7710.339999999999
+2914,Luiz Miguel Rios,6080.584999999999
+2915,Dr. Samuel Sá,9070.256666666666
+2916,Yago Aragão,6674.775000000001
+2917,Ana Carolina Moreira,7963.9725
+2918,Miguel Pires,9494.423333333334
+2919,Apollo Mendonça,10170.683333333334
+2920,Isabella Vieira,7846.583333333333
+2921,Sra. Cecilia da Costa,1240.165
+2923,Juan da Rocha,8701.576666666666
+2924,Lucas Sampaio,7746.835
+2926,Rhavi Campos,11043.98
+2928,Sra. Yasmin Rodrigues,2790.0699999999997
+2929,Mathias Melo,6811.7675
+2930,Maria Eduarda da Rosa,7043.793333333334
+2931,Letícia Vargas,4865.384
+2932,Yago Aragão,10483.08
+2933,Rebeca Sales,10278.94
+2934,Vitor Aparecida,8170.32
+2936,Nathan Nascimento,8034.9
+2937,Beatriz Cardoso,9983.0
+2938,Maria Helena Freitas,8243.1875
+2939,Maysa Almeida,5454.075
+2940,Bruno Pacheco,5715.656666666667
+2941,Enzo Gabriel Rios,7444.798
+2942,Sophie Mendonça,4797.8
+2943,Benjamin Barros,12450.77
+2944,Manuella Pimenta,6385.926
+2945,Maria Julia Câmara,10290.48
+2946,Ana Beatriz Montenegro,13830.59
+2947,Murilo Fernandes,7717.735
+2948,Henry Rodrigues,8168.492000000001
+2949,Antônio Moura,12068.32
+2950,Sra. Maria Cecília Ferreira,13213.07
+2951,,8224.973333333333
+2952,Hadassa Cavalcante,7138.46
+2953,Davi Lucca Porto,5380.343333333333
+2954,Theodoro Pastor,11664.71
+2955,Joaquim Mendes,10059.0275
+2956,Sophie Novaes,2922.56
+2957,Milena Fogaça,14737.44
+2958,Laís Guerra,11365.029999999999
+2959,Sr. Henry Gabriel Sousa,11883.21
+2960,Lavínia da Mota,5085.96
+2961,Dr. Vitor Casa Grande,8725.37
+2962,Cecilia Teixeira,3944.806666666667
+2963,Dr. Carlos Eduardo Oliveira,10040.612
+2964,Natália Sá,9251.325
+2965,Cauê Moura,6423.415
+2966,Pietro Almeida,5560.52
+2967,Dra. Mariana Brito,8825.13
+2968,Maysa Almeida,5160.296666666666
+2969,Eloah Garcia,2835.6733333333336
+2970,Marina da Luz,7375.743333333333
+2971,Marcela Brito,6004.033333333333
+2972,Rael Andrade,7875.616666666666
+2973,Ana Júlia Machado,10533.59
+2974,Jade Silveira,7944.143333333333
+2975,Ana Julia Brito,6947.343333333333
+2976,Stella Machado,10368.86
+2977,Mateus Moraes,6443.778
+2978,Rafael da Paz,2051.44
+2979,Alexia Aragão,8509.585
+2980,Sr. Leandro Teixeira,7940.735000000001
+2981,Mateus Ramos,7623.956666666666
+2982,,772.065
+2983,Luna Costa,13864.0
+2984,Yago Sampaio,6847.875
+2985,Bernardo Gonçalves,9640.465
+2986,Agatha Garcia,10603.88
+2987,Letícia da Luz,5059.34
+2988,Enrico da Cruz,9056.235
+2989,Sara Mendonça,8891.72
+2990,Mateus Vargas,5559.13
+2991,Theodoro da Mota,8270.7
+2992,José Miguel da Costa,6951.67
+2993,Dr. Liam Pereira,2932.3799999999997
+2994,Sr. Luiz Otávio Viana,162.37
+2995,Liam Gomes,10093.884
+2996,Levi Mendes,6093.639999999999
+2997,Srta. Fernanda Nascimento,2638.9233333333336
+2998,Carlos Eduardo Castro,6337.503333333334
+2999,Dra. Hadassa Araújo,10462.42
