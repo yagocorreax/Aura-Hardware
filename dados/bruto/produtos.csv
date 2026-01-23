@@ -1,0 +1,501 @@
+﻿id,categoria_id,nome,descricao,preco,estoque,data_cadastro
+1,6,Produto Hardware 1,Placa-mãe com suporte para várias conexões e memória,824.28,12,2022-08-12
+2,5,Produto Hardware 2,"Memória RAM de alta velocidade, ideal para overclock",2081.29,231,2020-01-26
+3,1,Produto Hardware 3,SSD rápido e confiável para uso diário e profissional,1486.35,460,2022-09-14
+4,7,Produto Hardware 4,SSD rápido e confiável para uso diário e profissional,1129.47,97,2020-08-21
+5,1,Produto Hardware 5,"Memória RAM de alta velocidade, ideal para overclock",377.87,395,2025-07-02
+6,2,Produto Hardware 6,Gabinete compacto com excelente ventilação,747.9,216,2022-01-08
+7,3,Produto Hardware 7,Processador rápido para multitarefas e softwares pesados,529.51,126,2022-12-27
+8,2,Produto Hardware 8,Fonte de alimentação eficiente e silenciosa,3864.75,371,2024-05-24
+9,5,Produto Hardware 9,SSD rápido e confiável para uso diário e profissional,2552.77,377,2022-06-01
+10,2,Produto Hardware 10,HD de grande capacidade para armazenamento de dados,4888.3,371,2024-03-02
+11,4,Produto Hardware 11,Placa-mãe com suporte para várias conexões e memória,3837.47,44,2024-07-03
+12,5,Produto Hardware 12,SSD rápido e confiável para uso diário e profissional,3290.7,412,2025-04-01
+13,4,Produto Hardware 13,Placa de vídeo potente para jogos e edição de vídeo,3385.31,16,2020-10-27
+14,2,Produto Hardware 14,SSD rápido e confiável para uso diário e profissional,496.79,329,2022-08-14
+15,5,Produto Hardware 15,Gabinete compacto com excelente ventilação,207.57,269,2021-02-21
+16,5,Produto Hardware 16,"Memória RAM de alta velocidade, ideal para overclock",2118.78,17,2022-09-24
+17,4,Produto Hardware 17,Placa-mãe com suporte para várias conexões e memória,4103.05,449,2025-08-31
+18,4,Produto Hardware 18,HD de grande capacidade para armazenamento de dados,2110.43,354,2024-12-10
+19,5,Produto Hardware 19,Gabinete compacto com excelente ventilação,4369.45,194,2022-05-17
+20,6,Produto Hardware 20,HD de grande capacidade para armazenamento de dados,360.09,325,2025-03-19
+21,6,Produto Hardware 21,Gabinete compacto com excelente ventilação,2876.4,277,2023-08-19
+22,4,Produto Hardware 22,"Memória RAM de alta velocidade, ideal para overclock",766.53,162,2022-07-16
+23,7,Produto Hardware 23,"Memória RAM de alta velocidade, ideal para overclock",3681.42,328,2021-03-14
+24,7,Produto Hardware 24,SSD rápido e confiável para uso diário e profissional,1522.88,30,2022-04-11
+25,4,Produto Hardware 25,Placa-mãe com suporte para várias conexões e memória,4544.36,497,2021-12-09
+26,1,Produto Hardware 26,Placa de vídeo potente para jogos e edição de vídeo,3999.2,129,2022-06-02
+27,2,Produto Hardware 27,HD de grande capacidade para armazenamento de dados,4536.04,168,2024-09-23
+28,3,Produto Hardware 28,Gabinete compacto com excelente ventilação,787.83,406,2024-07-01
+29,3,Produto Hardware 29,HD de grande capacidade para armazenamento de dados,2419.19,381,2023-06-07
+30,7,Produto Hardware 30,Placa de vídeo potente para jogos e edição de vídeo,2561.8,485,2024-07-25
+31,1,Produto Hardware 31,Placa de vídeo potente para jogos e edição de vídeo,2338.18,435,2020-06-10
+32,7,Produto Hardware 32,"Memória RAM de alta velocidade, ideal para overclock",1485.3,33,2022-04-04
+33,3,Produto Hardware 33,SSD rápido e confiável para uso diário e profissional,288.95,479,2022-01-12
+34,1,Produto Hardware 34,Placa de vídeo potente para jogos e edição de vídeo,2780.67,428,2024-12-07
+35,6,Produto Hardware 35,Processador rápido para multitarefas e softwares pesados,4851.72,103,2021-01-24
+36,4,Produto Hardware 36,HD de grande capacidade para armazenamento de dados,1007.78,140,2022-11-08
+37,1,Produto Hardware 37,"Memória RAM de alta velocidade, ideal para overclock",1701.41,50,2024-04-06
+38,7,Produto Hardware 38,Placa-mãe com suporte para várias conexões e memória,1921.93,283,2023-09-08
+39,6,Produto Hardware 39,Gabinete compacto com excelente ventilação,3082.87,425,2021-11-28
+40,2,Produto Hardware 40,SSD rápido e confiável para uso diário e profissional,4769.65,452,2022-09-08
+41,2,Produto Hardware 41,Placa de vídeo potente para jogos e edição de vídeo,1022.84,209,2020-06-07
+42,4,Produto Hardware 42,"Memória RAM de alta velocidade, ideal para overclock",3429.49,189,2024-01-04
+43,7,Produto Hardware 43,Fonte de alimentação eficiente e silenciosa,337.53,215,2022-12-01
+44,4,Produto Hardware 44,Processador rápido para multitarefas e softwares pesados,2657.4,261,2023-01-30
+45,2,Produto Hardware 45,Gabinete compacto com excelente ventilação,4023.64,325,2025-12-10
+46,5,Produto Hardware 46,"Memória RAM de alta velocidade, ideal para overclock",3307.58,216,2023-04-20
+47,4,Produto Hardware 47,HD de grande capacidade para armazenamento de dados,4257.05,391,2025-12-18
+48,5,Produto Hardware 48,Processador rápido para multitarefas e softwares pesados,1399.7,376,2021-04-28
+49,2,Produto Hardware 49,HD de grande capacidade para armazenamento de dados,3393.24,373,2020-03-17
+50,6,Produto Hardware 50,SSD rápido e confiável para uso diário e profissional,676.58,119,2023-08-13
+51,7,Produto Hardware 51,SSD rápido e confiável para uso diário e profissional,2347.22,225,2022-10-13
+52,2,Produto Hardware 52,Processador rápido para multitarefas e softwares pesados,4117.98,305,2020-01-04
+53,2,Produto Hardware 53,Placa-mãe com suporte para várias conexões e memória,818.81,218,2025-06-09
+54,1,Produto Hardware 54,Placa-mãe com suporte para várias conexões e memória,4400.39,441,2025-02-04
+55,7,Produto Hardware 55,Placa-mãe com suporte para várias conexões e memória,4323.46,460,2021-02-03
+56,6,Produto Hardware 56,Placa-mãe com suporte para várias conexões e memória,1724.38,12,2024-02-21
+57,3,Produto Hardware 57,SSD rápido e confiável para uso diário e profissional,120.72,146,2023-04-01
+58,1,Produto Hardware 58,Processador rápido para multitarefas e softwares pesados,2126.22,278,2021-06-12
+59,2,Produto Hardware 59,HD de grande capacidade para armazenamento de dados,4891.67,116,2022-04-09
+60,6,Produto Hardware 60,Placa-mãe com suporte para várias conexões e memória,1720.31,432,2025-01-12
+61,6,Produto Hardware 61,Placa-mãe com suporte para várias conexões e memória,2184.6,156,2023-07-23
+62,2,Produto Hardware 62,Fonte de alimentação eficiente e silenciosa,1218.61,83,2024-08-26
+63,4,Produto Hardware 63,"Memória RAM de alta velocidade, ideal para overclock",4896.67,175,2024-06-04
+64,7,Produto Hardware 64,SSD rápido e confiável para uso diário e profissional,4748.71,76,2020-04-07
+65,4,Produto Hardware 65,Fonte de alimentação eficiente e silenciosa,4378.51,208,2023-09-08
+66,7,Produto Hardware 66,Fonte de alimentação eficiente e silenciosa,163.9,147,2020-06-10
+67,7,Produto Hardware 67,HD de grande capacidade para armazenamento de dados,988.04,57,2020-10-05
+68,6,Produto Hardware 68,Fonte de alimentação eficiente e silenciosa,3401.46,379,2024-02-03
+69,7,Produto Hardware 69,Gabinete compacto com excelente ventilação,4148.14,169,2020-03-22
+70,3,Produto Hardware 70,Placa-mãe com suporte para várias conexões e memória,2762.47,-6,2024-10-14
+71,3,Produto Hardware 71,HD de grande capacidade para armazenamento de dados,1910.15,96,2020-09-07
+72,2,Produto Hardware 72,Processador rápido para multitarefas e softwares pesados,1597.26,274,2024-09-09
+73,4,Produto Hardware 73,Processador rápido para multitarefas e softwares pesados,2754.94,239,2020-07-28
+74,7,Produto Hardware 74,Placa-mãe com suporte para várias conexões e memória,3983.34,410,2025-12-07
+75,2,Produto Hardware 75,HD de grande capacidade para armazenamento de dados,697.72,368,2020-10-17
+76,2,Produto Hardware 76,Gabinete compacto com excelente ventilação,4265.83,263,2020-10-16
+77,2,Produto Hardware 77,Processador rápido para multitarefas e softwares pesados,1521.01,314,2022-07-06
+78,1,Produto Hardware 78,SSD rápido e confiável para uso diário e profissional,2229.39,392,2022-01-01
+79,3,Produto Hardware 79,Fonte de alimentação eficiente e silenciosa,1628.77,292,2020-08-20
+80,6,Produto Hardware 80,Placa de vídeo potente para jogos e edição de vídeo,250.2,323,2025-05-25
+81,5,Produto Hardware 81,Gabinete compacto com excelente ventilação,1980.83,384,2022-05-09
+82,1,Produto Hardware 82,Placa-mãe com suporte para várias conexões e memória,2556.59,363,2022-07-31
+83,3,Produto Hardware 83,Placa-mãe com suporte para várias conexões e memória,4297.59,74,2021-04-10
+84,6,Produto Hardware 84,Fonte de alimentação eficiente e silenciosa,3308.04,31,2024-07-06
+85,1,Produto Hardware 85,Gabinete compacto com excelente ventilação,4582.42,174,2024-12-02
+86,4,Produto Hardware 86,"Memória RAM de alta velocidade, ideal para overclock",2110.15,304,2021-11-05
+87,5,Produto Hardware 87,SSD rápido e confiável para uso diário e profissional,832.46,498,2020-06-26
+88,6,Produto Hardware 88,HD de grande capacidade para armazenamento de dados,909.0,331,2023-01-22
+89,3,Produto Hardware 89,Placa de vídeo potente para jogos e edição de vídeo,2812.67,226,2025-02-07
+90,2,Produto Hardware 90,HD de grande capacidade para armazenamento de dados,1384.54,156,2024-01-28
+91,6,Produto Hardware 91,Processador rápido para multitarefas e softwares pesados,4249.03,500,2021-03-07
+92,2,Produto Hardware 92,Placa de vídeo potente para jogos e edição de vídeo,3080.47,281,2020-05-25
+93,5,Produto Hardware 93,Gabinete compacto com excelente ventilação,2234.59,51,2022-06-10
+94,4,Produto Hardware 94,HD de grande capacidade para armazenamento de dados,3802.74,218,2023-06-04
+95,1,Produto Hardware 95,SSD rápido e confiável para uso diário e profissional,2080.41,163,2023-11-16
+96,3,Produto Hardware 96,SSD rápido e confiável para uso diário e profissional,343.17,297,2025-11-23
+97,6,Produto Hardware 97,Processador rápido para multitarefas e softwares pesados,1281.06,296,2025-04-26
+98,2,Produto Hardware 98,Placa de vídeo potente para jogos e edição de vídeo,3312.24,70,2021-04-13
+99,7,Produto Hardware 99,HD de grande capacidade para armazenamento de dados,3410.6,367,2024-01-05
+100,3,Produto Hardware 100,SSD rápido e confiável para uso diário e profissional,1376.25,385,2025-06-16
+101,6,Produto Hardware 101,SSD rápido e confiável para uso diário e profissional,3823.71,250,2025-02-24
+102,1,Produto Hardware 102,HD de grande capacidade para armazenamento de dados,4565.77,29,2025-06-27
+103,5,Produto Hardware 103,"Memória RAM de alta velocidade, ideal para overclock",1036.82,477,2023-12-08
+104,5,Produto Hardware 104,Placa de vídeo potente para jogos e edição de vídeo,4763.94,180,2025-05-21
+105,3,Produto Hardware 105,Placa de vídeo potente para jogos e edição de vídeo,4452.85,370,2024-10-01
+106,7,Produto Hardware 106,Gabinete compacto com excelente ventilação,506.8,129,2020-10-13
+107,6,Produto Hardware 107,Placa-mãe com suporte para várias conexões e memória,1709.27,17,2025-11-08
+108,2,Produto Hardware 108,Gabinete compacto com excelente ventilação,1768.07,358,2025-12-26
+109,7,Produto Hardware 109,HD de grande capacidade para armazenamento de dados,530.95,151,2021-07-04
+110,5,Produto Hardware 110,HD de grande capacidade para armazenamento de dados,54.25,343,2024-12-28
+111,5,Produto Hardware 111,"Memória RAM de alta velocidade, ideal para overclock",2250.39,354,2025-01-14
+112,2,Produto Hardware 112,Processador rápido para multitarefas e softwares pesados,2789.16,419,2022-01-24
+113,6,Produto Hardware 113,Fonte de alimentação eficiente e silenciosa,3100.08,245,2024-12-26
+114,7,Produto Hardware 114,Placa-mãe com suporte para várias conexões e memória,2056.88,497,2020-09-06
+115,2,Produto Hardware 115,Placa de vídeo potente para jogos e edição de vídeo,4526.26,261,2021-04-13
+116,2,Produto Hardware 116,Placa-mãe com suporte para várias conexões e memória,3675.27,113,2021-06-10
+117,1,Produto Hardware 117,Placa de vídeo potente para jogos e edição de vídeo,4585.24,442,2021-12-31
+118,5,Produto Hardware 118,Placa-mãe com suporte para várias conexões e memória,4913.7,376,2023-04-23
+119,1,Produto Hardware 119,Processador rápido para multitarefas e softwares pesados,1883.65,119,2020-07-08
+120,6,Produto Hardware 120,Processador rápido para multitarefas e softwares pesados,4902.0,430,2024-08-20
+121,6,Produto Hardware 121,Placa-mãe com suporte para várias conexões e memória,3748.42,359,2025-03-10
+122,3,Produto Hardware 122,Placa-mãe com suporte para várias conexões e memória,338.71,401,2021-12-27
+123,5,Produto Hardware 123,Placa-mãe com suporte para várias conexões e memória,4711.34,262,2020-08-18
+124,6,Produto Hardware 124,Fonte de alimentação eficiente e silenciosa,848.83,373,2024-12-27
+125,3,Produto Hardware 125,Placa de vídeo potente para jogos e edição de vídeo,320.76,411,2025-02-22
+126,5,Produto Hardware 126,SSD rápido e confiável para uso diário e profissional,4124.72,186,2020-02-16
+127,7,Produto Hardware 127,Processador rápido para multitarefas e softwares pesados,4623.53,438,2022-07-19
+128,2,Produto Hardware 128,Placa de vídeo potente para jogos e edição de vídeo,86.63,385,2024-02-20
+129,6,Produto Hardware 129,Gabinete compacto com excelente ventilação,512.61,182,2024-06-09
+130,3,Produto Hardware 130,SSD rápido e confiável para uso diário e profissional,3196.85,208,2025-03-28
+131,3,Produto Hardware 131,HD de grande capacidade para armazenamento de dados,4889.64,271,2025-02-06
+132,2,Produto Hardware 132,Processador rápido para multitarefas e softwares pesados,3214.8,237,2023-10-09
+133,7,Produto Hardware 133,Fonte de alimentação eficiente e silenciosa,3800.42,131,2020-01-22
+134,3,Produto Hardware 134,Placa-mãe com suporte para várias conexões e memória,3271.28,198,2025-08-10
+135,3,Produto Hardware 135,Placa de vídeo potente para jogos e edição de vídeo,2422.53,269,2025-02-12
+136,6,Produto Hardware 136,Gabinete compacto com excelente ventilação,3702.66,317,2024-02-19
+137,6,Produto Hardware 137,Gabinete compacto com excelente ventilação,4627.23,273,2025-04-07
+138,4,Produto Hardware 138,Processador rápido para multitarefas e softwares pesados,1218.39,44,2024-08-31
+139,5,Produto Hardware 139,Placa de vídeo potente para jogos e edição de vídeo,855.33,293,2025-01-22
+140,4,Produto Hardware 140,"Memória RAM de alta velocidade, ideal para overclock",4857.5,170,2022-01-23
+141,2,Produto Hardware 141,Processador rápido para multitarefas e softwares pesados,996.74,197,2021-10-06
+142,1,Produto Hardware 142,Placa-mãe com suporte para várias conexões e memória,2295.97,302,2024-08-25
+143,5,Produto Hardware 143,Fonte de alimentação eficiente e silenciosa,1437.2,-5,2024-12-12
+144,7,Produto Hardware 144,Fonte de alimentação eficiente e silenciosa,738.61,286,2023-04-30
+145,2,Produto Hardware 145,Processador rápido para multitarefas e softwares pesados,4549.56,63,2021-12-31
+146,4,Produto Hardware 146,SSD rápido e confiável para uso diário e profissional,4668.64,497,2020-02-13
+147,7,Produto Hardware 147,Placa-mãe com suporte para várias conexões e memória,3666.47,283,2020-10-10
+148,4,Produto Hardware 148,Gabinete compacto com excelente ventilação,2068.66,496,2021-04-04
+149,6,Produto Hardware 149,Placa-mãe com suporte para várias conexões e memória,4298.08,399,2021-03-16
+150,1,Produto Hardware 150,SSD rápido e confiável para uso diário e profissional,2642.07,328,2021-05-29
+151,5,Produto Hardware 151,SSD rápido e confiável para uso diário e profissional,4025.67,125,2023-10-03
+152,5,Produto Hardware 152,Fonte de alimentação eficiente e silenciosa,1967.54,249,2023-10-07
+153,2,Produto Hardware 153,Processador rápido para multitarefas e softwares pesados,458.94,275,2023-04-25
+154,1,Produto Hardware 154,HD de grande capacidade para armazenamento de dados,279.84,271,2022-08-05
+155,4,Produto Hardware 155,Placa de vídeo potente para jogos e edição de vídeo,4201.34,208,2024-09-05
+156,1,Produto Hardware 156,HD de grande capacidade para armazenamento de dados,2807.83,284,2024-07-12
+157,5,Produto Hardware 157,Processador rápido para multitarefas e softwares pesados,250.1,467,2024-07-25
+158,4,Produto Hardware 158,"Memória RAM de alta velocidade, ideal para overclock",3583.16,281,2023-10-08
+159,6,Produto Hardware 159,HD de grande capacidade para armazenamento de dados,3612.39,143,2020-12-21
+160,1,Produto Hardware 160,Fonte de alimentação eficiente e silenciosa,3078.16,104,2020-01-03
+161,7,Produto Hardware 161,HD de grande capacidade para armazenamento de dados,1412.69,360,2023-05-19
+162,5,Produto Hardware 162,Processador rápido para multitarefas e softwares pesados,4305.81,49,2020-05-18
+163,6,Produto Hardware 163,Placa-mãe com suporte para várias conexões e memória,920.66,214,2025-01-04
+164,6,Produto Hardware 164,Placa-mãe com suporte para várias conexões e memória,2229.32,203,2025-05-07
+165,7,Produto Hardware 165,"Memória RAM de alta velocidade, ideal para overclock",388.11,369,2024-02-24
+166,7,Produto Hardware 166,SSD rápido e confiável para uso diário e profissional,4178.98,132,2020-09-15
+167,6,Produto Hardware 167,SSD rápido e confiável para uso diário e profissional,2953.63,499,2023-09-10
+168,2,Produto Hardware 168,Placa-mãe com suporte para várias conexões e memória,1173.02,464,2021-10-10
+169,5,Produto Hardware 169,Gabinete compacto com excelente ventilação,3226.83,78,2022-03-29
+170,6,Produto Hardware 170,Placa-mãe com suporte para várias conexões e memória,3463.23,192,2023-01-28
+171,4,Produto Hardware 171,Processador rápido para multitarefas e softwares pesados,2975.72,280,2021-10-30
+172,5,Produto Hardware 172,Placa-mãe com suporte para várias conexões e memória,1961.79,322,2020-01-18
+173,2,Produto Hardware 173,Processador rápido para multitarefas e softwares pesados,4179.47,83,2023-07-18
+174,3,Produto Hardware 174,Gabinete compacto com excelente ventilação,1255.53,237,2025-03-30
+175,7,Produto Hardware 175,Placa de vídeo potente para jogos e edição de vídeo,2188.39,105,2024-08-13
+176,2,Produto Hardware 176,Processador rápido para multitarefas e softwares pesados,348.18,471,2023-07-13
+177,5,Produto Hardware 177,Gabinete compacto com excelente ventilação,4022.67,440,2022-09-30
+178,4,Produto Hardware 178,"Memória RAM de alta velocidade, ideal para overclock",3048.13,72,2020-09-11
+179,4,Produto Hardware 179,HD de grande capacidade para armazenamento de dados,120.3,364,2023-07-07
+180,3,Produto Hardware 180,Processador rápido para multitarefas e softwares pesados,2649.6,366,2022-01-09
+181,2,Produto Hardware 181,Placa-mãe com suporte para várias conexões e memória,1044.01,163,2022-01-12
+182,2,Produto Hardware 182,SSD rápido e confiável para uso diário e profissional,1276.42,376,2024-10-03
+183,6,Produto Hardware 183,"Memória RAM de alta velocidade, ideal para overclock",3929.43,341,2025-01-17
+184,3,Produto Hardware 184,Placa-mãe com suporte para várias conexões e memória,3025.66,468,2022-03-21
+185,5,Produto Hardware 185,Processador rápido para multitarefas e softwares pesados,3365.86,202,2025-02-08
+186,4,Produto Hardware 186,Placa-mãe com suporte para várias conexões e memória,1588.73,130,2023-04-18
+187,3,Produto Hardware 187,Processador rápido para multitarefas e softwares pesados,3456.27,451,2022-04-10
+188,3,Produto Hardware 188,SSD rápido e confiável para uso diário e profissional,741.98,220,2022-10-25
+189,4,Produto Hardware 189,Placa de vídeo potente para jogos e edição de vídeo,585.03,428,2020-10-14
+190,6,Produto Hardware 190,SSD rápido e confiável para uso diário e profissional,2278.4,156,2021-04-04
+191,7,Produto Hardware 191,HD de grande capacidade para armazenamento de dados,2919.51,55,2023-12-31
+192,7,Produto Hardware 192,Processador rápido para multitarefas e softwares pesados,4634.36,226,2021-07-03
+193,4,Produto Hardware 193,SSD rápido e confiável para uso diário e profissional,3244.68,124,2024-03-07
+194,4,Produto Hardware 194,HD de grande capacidade para armazenamento de dados,3850.29,364,2024-11-28
+195,2,Produto Hardware 195,Fonte de alimentação eficiente e silenciosa,913.97,159,2020-10-14
+196,4,Produto Hardware 196,HD de grande capacidade para armazenamento de dados,81.25,109,2022-01-02
+197,1,Produto Hardware 197,Placa de vídeo potente para jogos e edição de vídeo,2083.96,288,2020-02-01
+198,1,Produto Hardware 198,HD de grande capacidade para armazenamento de dados,3885.52,306,2024-11-05
+199,3,Produto Hardware 199,Placa de vídeo potente para jogos e edição de vídeo,1185.02,264,2021-07-25
+200,5,Produto Hardware 200,Processador rápido para multitarefas e softwares pesados,1907.56,488,2024-09-16
+201,4,Produto Hardware 201,SSD rápido e confiável para uso diário e profissional,2699.52,24,2025-08-24
+202,3,Produto Hardware 202,Gabinete compacto com excelente ventilação,3252.09,301,2024-12-21
+203,7,Produto Hardware 203,Fonte de alimentação eficiente e silenciosa,4132.37,108,2020-01-09
+204,5,Produto Hardware 204,Processador rápido para multitarefas e softwares pesados,576.66,196,2021-08-06
+205,1,Produto Hardware 205,Gabinete compacto com excelente ventilação,2263.79,87,2022-08-04
+206,6,Produto Hardware 206,HD de grande capacidade para armazenamento de dados,2567.51,17,2023-02-20
+207,5,Produto Hardware 207,SSD rápido e confiável para uso diário e profissional,3062.56,219,2022-10-12
+208,3,Produto Hardware 208,HD de grande capacidade para armazenamento de dados,2355.81,283,2022-09-27
+209,1,Produto Hardware 209,SSD rápido e confiável para uso diário e profissional,644.6,274,2025-12-05
+210,7,Produto Hardware 210,Processador rápido para multitarefas e softwares pesados,1982.34,290,2023-04-03
+211,3,Produto Hardware 211,HD de grande capacidade para armazenamento de dados,3712.08,397,2020-02-10
+212,4,Produto Hardware 212,Fonte de alimentação eficiente e silenciosa,4698.63,386,2022-02-12
+213,4,Produto Hardware 213,SSD rápido e confiável para uso diário e profissional,3030.09,46,2024-03-27
+214,7,Produto Hardware 214,Placa-mãe com suporte para várias conexões e memória,1242.47,388,2020-04-21
+215,5,Produto Hardware 215,HD de grande capacidade para armazenamento de dados,716.93,325,2024-03-18
+216,6,Produto Hardware 216,Placa de vídeo potente para jogos e edição de vídeo,1792.43,61,2020-07-15
+217,3,Produto Hardware 217,Gabinete compacto com excelente ventilação,3771.16,83,2020-12-14
+218,7,Produto Hardware 218,"Memória RAM de alta velocidade, ideal para overclock",1188.25,386,2023-06-06
+219,1,Produto Hardware 219,SSD rápido e confiável para uso diário e profissional,2139.39,263,2025-02-02
+220,3,Produto Hardware 220,Placa de vídeo potente para jogos e edição de vídeo,4213.56,24,2023-08-28
+221,1,Produto Hardware 221,Placa de vídeo potente para jogos e edição de vídeo,1666.79,401,2021-06-05
+222,5,Produto Hardware 222,SSD rápido e confiável para uso diário e profissional,664.2,339,2023-08-18
+223,6,Produto Hardware 223,HD de grande capacidade para armazenamento de dados,2191.03,196,2025-02-17
+224,1,Produto Hardware 224,Fonte de alimentação eficiente e silenciosa,844.92,307,2020-02-06
+225,2,Produto Hardware 225,"Memória RAM de alta velocidade, ideal para overclock",303.51,104,2025-08-02
+226,3,Produto Hardware 226,SSD rápido e confiável para uso diário e profissional,4752.36,67,2023-09-29
+227,7,Produto Hardware 227,Processador rápido para multitarefas e softwares pesados,1031.82,454,2020-07-21
+228,2,Produto Hardware 228,Placa-mãe com suporte para várias conexões e memória,2071.17,50,2024-03-17
+229,1,Produto Hardware 229,Processador rápido para multitarefas e softwares pesados,2955.33,293,2020-10-06
+230,2,Produto Hardware 230,SSD rápido e confiável para uso diário e profissional,4682.9,49,2021-06-27
+231,3,Produto Hardware 231,SSD rápido e confiável para uso diário e profissional,1331.34,93,2020-05-05
+232,4,Produto Hardware 232,SSD rápido e confiável para uso diário e profissional,2065.83,361,2024-11-07
+233,1,Produto Hardware 233,Placa-mãe com suporte para várias conexões e memória,4734.92,329,2020-11-24
+234,4,Produto Hardware 234,HD de grande capacidade para armazenamento de dados,4038.76,30,2023-04-03
+235,6,Produto Hardware 235,Placa-mãe com suporte para várias conexões e memória,3369.77,408,2020-10-15
+236,6,Produto Hardware 236,"Memória RAM de alta velocidade, ideal para overclock",1673.52,142,2021-11-25
+237,5,Produto Hardware 237,"Memória RAM de alta velocidade, ideal para overclock",1932.7,413,2025-07-13
+238,7,Produto Hardware 238,Placa-mãe com suporte para várias conexões e memória,4756.53,87,2023-12-21
+239,2,Produto Hardware 239,Placa-mãe com suporte para várias conexões e memória,1900.46,239,2024-03-25
+240,6,Produto Hardware 240,Fonte de alimentação eficiente e silenciosa,949.01,392,2022-12-24
+241,6,Produto Hardware 241,"Memória RAM de alta velocidade, ideal para overclock",2071.82,124,2024-06-09
+242,1,Produto Hardware 242,"Memória RAM de alta velocidade, ideal para overclock",2697.99,259,2023-04-12
+243,6,Produto Hardware 243,Processador rápido para multitarefas e softwares pesados,435.46,336,2021-12-22
+244,5,Produto Hardware 244,Fonte de alimentação eficiente e silenciosa,1319.55,48,2021-07-13
+245,1,Produto Hardware 245,Gabinete compacto com excelente ventilação,3129.03,262,2020-03-08
+246,3,Produto Hardware 246,Fonte de alimentação eficiente e silenciosa,1708.24,416,2022-09-08
+247,3,Produto Hardware 247,Placa de vídeo potente para jogos e edição de vídeo,4867.26,334,2021-11-28
+248,5,Produto Hardware 248,Processador rápido para multitarefas e softwares pesados,1635.33,68,2025-10-20
+249,7,Produto Hardware 249,Placa-mãe com suporte para várias conexões e memória,1875.75,251,2020-07-25
+250,3,Produto Hardware 250,Placa de vídeo potente para jogos e edição de vídeo,812.8,351,2024-06-06
+251,4,Produto Hardware 251,SSD rápido e confiável para uso diário e profissional,1915.23,86,2025-08-10
+252,4,Produto Hardware 252,Processador rápido para multitarefas e softwares pesados,686.79,47,2023-07-30
+253,4,Produto Hardware 253,Processador rápido para multitarefas e softwares pesados,2898.51,145,2022-07-12
+254,1,Produto Hardware 254,Fonte de alimentação eficiente e silenciosa,3123.82,13,2021-12-25
+255,1,Produto Hardware 255,HD de grande capacidade para armazenamento de dados,1248.81,150,2023-09-14
+256,7,Produto Hardware 256,Fonte de alimentação eficiente e silenciosa,567.48,334,2020-04-16
+257,6,Produto Hardware 257,Placa de vídeo potente para jogos e edição de vídeo,2474.05,421,2024-02-14
+258,3,Produto Hardware 258,SSD rápido e confiável para uso diário e profissional,2550.04,390,2025-12-15
+259,2,Produto Hardware 259,Gabinete compacto com excelente ventilação,2628.41,320,2024-10-31
+260,7,Produto Hardware 260,HD de grande capacidade para armazenamento de dados,1782.1,355,2023-09-24
+261,7,Produto Hardware 261,HD de grande capacidade para armazenamento de dados,3524.98,279,2021-09-28
+262,2,Produto Hardware 262,"Memória RAM de alta velocidade, ideal para overclock",1317.02,175,2024-07-24
+263,7,Produto Hardware 263,"Memória RAM de alta velocidade, ideal para overclock",1810.94,484,2022-10-13
+264,2,Produto Hardware 264,Fonte de alimentação eficiente e silenciosa,3755.34,354,2024-03-26
+265,2,Produto Hardware 265,SSD rápido e confiável para uso diário e profissional,3902.93,176,2025-12-31
+266,6,Produto Hardware 266,Placa-mãe com suporte para várias conexões e memória,1118.89,280,2022-06-05
+267,4,Produto Hardware 267,"Memória RAM de alta velocidade, ideal para overclock",3710.89,315,2022-12-15
+268,7,Produto Hardware 268,Placa-mãe com suporte para várias conexões e memória,4056.7,319,2023-02-20
+269,6,Produto Hardware 269,Processador rápido para multitarefas e softwares pesados,524.01,306,2024-01-20
+270,2,Produto Hardware 270,SSD rápido e confiável para uso diário e profissional,1055.58,207,2022-06-28
+271,1,Produto Hardware 271,Fonte de alimentação eficiente e silenciosa,4770.84,322,2024-04-11
+272,4,Produto Hardware 272,Gabinete compacto com excelente ventilação,1829.35,400,2023-01-19
+273,3,Produto Hardware 273,Processador rápido para multitarefas e softwares pesados,3072.63,101,2025-03-16
+274,1,Produto Hardware 274,Processador rápido para multitarefas e softwares pesados,4001.72,392,2024-03-07
+275,7,Produto Hardware 275,"Memória RAM de alta velocidade, ideal para overclock",1868.11,405,2020-06-14
+276,4,Produto Hardware 276,Processador rápido para multitarefas e softwares pesados,2347.3,223,2025-08-02
+277,2,Produto Hardware 277,Placa-mãe com suporte para várias conexões e memória,3003.44,492,2024-02-18
+278,3,Produto Hardware 278,Processador rápido para multitarefas e softwares pesados,116.05,-4,2022-01-22
+279,7,Produto Hardware 279,Processador rápido para multitarefas e softwares pesados,2248.9,227,2024-06-05
+280,3,Produto Hardware 280,Processador rápido para multitarefas e softwares pesados,3306.62,365,2020-10-14
+281,6,Produto Hardware 281,Placa de vídeo potente para jogos e edição de vídeo,4003.29,445,2022-08-01
+282,6,Produto Hardware 282,HD de grande capacidade para armazenamento de dados,1240.71,305,2020-03-15
+283,7,Produto Hardware 283,SSD rápido e confiável para uso diário e profissional,2938.14,175,2022-05-12
+284,2,Produto Hardware 284,Gabinete compacto com excelente ventilação,4167.53,214,2024-05-08
+285,7,Produto Hardware 285,Placa-mãe com suporte para várias conexões e memória,2064.66,151,2021-09-08
+286,1,Produto Hardware 286,Placa-mãe com suporte para várias conexões e memória,2931.01,328,2025-12-08
+287,7,Produto Hardware 287,Placa de vídeo potente para jogos e edição de vídeo,2133.4,360,2024-02-11
+288,5,Produto Hardware 288,Gabinete compacto com excelente ventilação,2795.61,392,2022-05-02
+289,3,Produto Hardware 289,Placa de vídeo potente para jogos e edição de vídeo,2491.13,378,2020-03-13
+290,6,Produto Hardware 290,HD de grande capacidade para armazenamento de dados,4004.31,439,2020-12-16
+291,3,Produto Hardware 291,Processador rápido para multitarefas e softwares pesados,1341.18,414,2021-05-15
+292,2,Produto Hardware 292,SSD rápido e confiável para uso diário e profissional,386.17,165,2023-08-18
+293,1,Produto Hardware 293,Placa de vídeo potente para jogos e edição de vídeo,2168.15,131,2020-05-06
+294,5,Produto Hardware 294,Gabinete compacto com excelente ventilação,2357.98,464,2024-01-15
+295,7,Produto Hardware 295,SSD rápido e confiável para uso diário e profissional,2804.94,133,2021-06-16
+296,5,Produto Hardware 296,Processador rápido para multitarefas e softwares pesados,4608.34,67,2022-07-12
+297,7,Produto Hardware 297,Placa de vídeo potente para jogos e edição de vídeo,513.77,347,2022-11-10
+298,2,Produto Hardware 298,HD de grande capacidade para armazenamento de dados,2904.66,113,2025-02-06
+299,2,Produto Hardware 299,SSD rápido e confiável para uso diário e profissional,4666.81,447,2024-09-08
+300,6,Produto Hardware 300,SSD rápido e confiável para uso diário e profissional,1974.01,167,2022-09-08
+301,1,Produto Hardware 301,Placa-mãe com suporte para várias conexões e memória,1020.34,457,2020-08-09
+302,2,Produto Hardware 302,Gabinete compacto com excelente ventilação,1484.97,239,2024-02-19
+303,6,Produto Hardware 303,Gabinete compacto com excelente ventilação,2113.51,343,2023-03-08
+304,3,Produto Hardware 304,HD de grande capacidade para armazenamento de dados,4935.08,72,2022-08-04
+305,1,Produto Hardware 305,Gabinete compacto com excelente ventilação,2957.6,294,2023-06-18
+306,5,Produto Hardware 306,HD de grande capacidade para armazenamento de dados,4481.08,383,2024-08-21
+307,6,Produto Hardware 307,Fonte de alimentação eficiente e silenciosa,4259.43,485,2022-05-15
+308,5,Produto Hardware 308,Fonte de alimentação eficiente e silenciosa,1698.2,281,2023-12-05
+309,3,Produto Hardware 309,Placa-mãe com suporte para várias conexões e memória,4694.38,240,2022-02-28
+310,4,Produto Hardware 310,Gabinete compacto com excelente ventilação,2911.47,15,2023-10-09
+311,7,Produto Hardware 311,Placa de vídeo potente para jogos e edição de vídeo,455.62,410,2023-09-07
+312,6,Produto Hardware 312,Gabinete compacto com excelente ventilação,579.63,195,2023-04-19
+313,1,Produto Hardware 313,Gabinete compacto com excelente ventilação,3840.56,314,2021-09-08
+314,7,Produto Hardware 314,Placa de vídeo potente para jogos e edição de vídeo,2441.45,51,2022-05-08
+315,7,Produto Hardware 315,HD de grande capacidade para armazenamento de dados,220.97,18,2023-10-16
+316,1,Produto Hardware 316,Fonte de alimentação eficiente e silenciosa,3208.34,405,2023-02-05
+317,6,Produto Hardware 317,HD de grande capacidade para armazenamento de dados,398.7,438,2023-10-28
+318,1,Produto Hardware 318,Processador rápido para multitarefas e softwares pesados,1081.99,283,2025-12-01
+319,1,Produto Hardware 319,Placa-mãe com suporte para várias conexões e memória,1608.88,213,2022-05-22
+320,5,Produto Hardware 320,"Memória RAM de alta velocidade, ideal para overclock",2128.36,21,2020-05-24
+321,2,Produto Hardware 321,SSD rápido e confiável para uso diário e profissional,1045.85,464,2021-06-28
+322,5,Produto Hardware 322,Fonte de alimentação eficiente e silenciosa,4960.34,12,2025-12-14
+323,7,Produto Hardware 323,Placa de vídeo potente para jogos e edição de vídeo,4408.82,500,2023-08-06
+324,2,Produto Hardware 324,SSD rápido e confiável para uso diário e profissional,1295.68,348,2021-09-30
+325,6,Produto Hardware 325,Placa-mãe com suporte para várias conexões e memória,1627.92,409,2023-01-02
+326,2,Produto Hardware 326,Fonte de alimentação eficiente e silenciosa,1409.03,341,2022-05-19
+327,7,Produto Hardware 327,SSD rápido e confiável para uso diário e profissional,3405.22,26,2022-08-26
+328,5,Produto Hardware 328,Gabinete compacto com excelente ventilação,51.09,137,2025-07-25
+329,6,Produto Hardware 329,Fonte de alimentação eficiente e silenciosa,100.76,490,2020-08-10
+330,7,Produto Hardware 330,Gabinete compacto com excelente ventilação,1370.81,354,2020-08-23
+331,7,Produto Hardware 331,Placa-mãe com suporte para várias conexões e memória,1953.51,67,2025-10-08
+332,7,Produto Hardware 332,Gabinete compacto com excelente ventilação,4921.96,236,2023-01-08
+333,5,Produto Hardware 333,Fonte de alimentação eficiente e silenciosa,4507.41,422,2025-03-31
+334,7,Produto Hardware 334,"Memória RAM de alta velocidade, ideal para overclock",4473.57,159,2023-05-28
+335,6,Produto Hardware 335,Fonte de alimentação eficiente e silenciosa,3574.71,477,2020-06-03
+336,1,Produto Hardware 336,Gabinete compacto com excelente ventilação,2498.88,264,2022-05-29
+337,1,Produto Hardware 337,Gabinete compacto com excelente ventilação,1791.64,276,2024-07-14
+338,5,Produto Hardware 338,"Memória RAM de alta velocidade, ideal para overclock",2137.94,54,2025-01-04
+339,6,Produto Hardware 339,Gabinete compacto com excelente ventilação,2228.32,189,2022-06-12
+340,7,Produto Hardware 340,"Memória RAM de alta velocidade, ideal para overclock",2524.74,22,2024-03-08
+341,3,Produto Hardware 341,Processador rápido para multitarefas e softwares pesados,3970.54,39,2021-06-24
+342,5,Produto Hardware 342,Placa-mãe com suporte para várias conexões e memória,4811.34,102,2020-07-31
+343,3,Produto Hardware 343,Fonte de alimentação eficiente e silenciosa,2936.61,335,2022-07-20
+344,2,Produto Hardware 344,HD de grande capacidade para armazenamento de dados,3417.49,356,2024-01-31
+345,5,Produto Hardware 345,Placa-mãe com suporte para várias conexões e memória,320.61,252,2022-12-20
+346,5,Produto Hardware 346,Processador rápido para multitarefas e softwares pesados,1697.92,391,2020-09-27
+347,3,Produto Hardware 347,Placa-mãe com suporte para várias conexões e memória,1493.03,109,2025-08-09
+348,6,Produto Hardware 348,Placa-mãe com suporte para várias conexões e memória,4993.99,219,2023-04-29
+349,2,Produto Hardware 349,Gabinete compacto com excelente ventilação,4144.79,52,2025-09-01
+350,3,Produto Hardware 350,Placa de vídeo potente para jogos e edição de vídeo,797.75,84,2021-02-05
+351,1,Produto Hardware 351,Placa de vídeo potente para jogos e edição de vídeo,3931.32,283,2021-06-07
+352,3,Produto Hardware 352,"Memória RAM de alta velocidade, ideal para overclock",3148.74,499,2023-09-18
+353,7,Produto Hardware 353,Placa de vídeo potente para jogos e edição de vídeo,3548.92,119,2025-01-02
+354,3,Produto Hardware 354,Placa-mãe com suporte para várias conexões e memória,2392.18,372,2021-05-05
+355,6,Produto Hardware 355,SSD rápido e confiável para uso diário e profissional,2440.65,301,2022-02-08
+356,3,Produto Hardware 356,Processador rápido para multitarefas e softwares pesados,76.06,360,2022-12-11
+357,5,Produto Hardware 357,Fonte de alimentação eficiente e silenciosa,2085.08,10,2025-08-17
+358,3,Produto Hardware 358,Placa-mãe com suporte para várias conexões e memória,1083.01,119,2022-06-22
+359,7,Produto Hardware 359,Gabinete compacto com excelente ventilação,3700.24,163,2023-06-24
+360,5,Produto Hardware 360,Placa de vídeo potente para jogos e edição de vídeo,4062.46,320,2024-08-11
+361,7,Produto Hardware 361,Processador rápido para multitarefas e softwares pesados,4271.64,380,2022-10-06
+362,4,Produto Hardware 362,Placa-mãe com suporte para várias conexões e memória,4442.64,257,2021-12-07
+363,4,Produto Hardware 363,SSD rápido e confiável para uso diário e profissional,473.86,331,2023-07-11
+364,2,Produto Hardware 364,Gabinete compacto com excelente ventilação,2672.32,266,2023-07-16
+365,6,Produto Hardware 365,Fonte de alimentação eficiente e silenciosa,3602.66,244,2023-07-31
+366,5,Produto Hardware 366,"Memória RAM de alta velocidade, ideal para overclock",2139.54,367,2024-06-30
+367,1,Produto Hardware 367,Placa-mãe com suporte para várias conexões e memória,1253.52,408,2023-02-07
+368,4,Produto Hardware 368,Placa-mãe com suporte para várias conexões e memória,2665.83,163,2020-11-14
+369,7,Produto Hardware 369,HD de grande capacidade para armazenamento de dados,2692.94,407,2020-01-30
+370,5,Produto Hardware 370,"Memória RAM de alta velocidade, ideal para overclock",438.35,214,2020-07-21
+371,5,Produto Hardware 371,SSD rápido e confiável para uso diário e profissional,2838.09,258,2022-07-25
+372,3,Produto Hardware 372,SSD rápido e confiável para uso diário e profissional,1554.77,233,2025-07-23
+373,4,Produto Hardware 373,Processador rápido para multitarefas e softwares pesados,1062.09,69,2022-07-03
+374,4,Produto Hardware 374,HD de grande capacidade para armazenamento de dados,2569.15,158,2025-08-09
+375,1,Produto Hardware 375,Processador rápido para multitarefas e softwares pesados,3699.71,320,2022-07-13
+376,3,Produto Hardware 376,"Memória RAM de alta velocidade, ideal para overclock",3584.91,138,2025-08-10
+377,6,Produto Hardware 377,HD de grande capacidade para armazenamento de dados,3349.04,368,2020-08-20
+378,1,Produto Hardware 378,HD de grande capacidade para armazenamento de dados,389.11,449,2021-03-18
+379,5,Produto Hardware 379,SSD rápido e confiável para uso diário e profissional,1443.25,334,2025-10-03
+380,5,Produto Hardware 380,Placa-mãe com suporte para várias conexões e memória,1570.55,32,2020-01-06
+381,2,Produto Hardware 381,"Memória RAM de alta velocidade, ideal para overclock",2623.97,196,2025-08-18
+382,5,Produto Hardware 382,SSD rápido e confiável para uso diário e profissional,1709.97,90,2022-04-02
+383,4,Produto Hardware 383,Gabinete compacto com excelente ventilação,1645.84,234,2024-12-31
+384,6,Produto Hardware 384,Placa-mãe com suporte para várias conexões e memória,3269.99,23,2021-08-02
+385,1,Produto Hardware 385,Processador rápido para multitarefas e softwares pesados,4426.44,422,2021-11-03
+386,6,Produto Hardware 386,Placa-mãe com suporte para várias conexões e memória,376.87,432,2020-02-19
+387,7,Produto Hardware 387,Gabinete compacto com excelente ventilação,3792.08,490,2025-07-01
+388,2,Produto Hardware 388,Placa de vídeo potente para jogos e edição de vídeo,1240.78,1,2021-09-26
+389,2,Produto Hardware 389,Placa-mãe com suporte para várias conexões e memória,4078.48,5,2024-10-08
+390,3,Produto Hardware 390,Placa de vídeo potente para jogos e edição de vídeo,4815.89,256,2020-01-19
+391,4,Produto Hardware 391,Fonte de alimentação eficiente e silenciosa,4039.24,432,2020-03-22
+392,7,Produto Hardware 392,HD de grande capacidade para armazenamento de dados,387.51,490,2024-08-07
+393,7,Produto Hardware 393,Processador rápido para multitarefas e softwares pesados,3014.79,-4,2021-12-30
+394,7,Produto Hardware 394,Gabinete compacto com excelente ventilação,2510.83,243,2020-06-08
+395,6,Produto Hardware 395,Processador rápido para multitarefas e softwares pesados,149.82,122,2020-02-26
+396,7,Produto Hardware 396,"Memória RAM de alta velocidade, ideal para overclock",188.26,234,2020-07-22
+397,4,Produto Hardware 397,HD de grande capacidade para armazenamento de dados,2930.45,120,2021-10-07
+398,3,Produto Hardware 398,SSD rápido e confiável para uso diário e profissional,3551.05,67,2025-02-26
+399,3,Produto Hardware 399,Gabinete compacto com excelente ventilação,1567.4,76,2022-05-12
+400,2,Produto Hardware 400,Placa-mãe com suporte para várias conexões e memória,285.53,218,2024-02-03
+401,3,Produto Hardware 401,"Memória RAM de alta velocidade, ideal para overclock",4211.03,499,2023-10-30
+402,3,Produto Hardware 402,Processador rápido para multitarefas e softwares pesados,1060.6,377,2025-02-21
+403,4,Produto Hardware 403,"Memória RAM de alta velocidade, ideal para overclock",2512.66,441,2020-10-03
+404,3,Produto Hardware 404,"Memória RAM de alta velocidade, ideal para overclock",3489.34,396,2025-06-16
+405,5,Produto Hardware 405,Processador rápido para multitarefas e softwares pesados,2484.14,357,2024-08-21
+406,5,Produto Hardware 406,Fonte de alimentação eficiente e silenciosa,2746.87,26,2024-11-25
+407,7,Produto Hardware 407,HD de grande capacidade para armazenamento de dados,84.4,111,2024-07-16
+408,5,Produto Hardware 408,Processador rápido para multitarefas e softwares pesados,4597.0,239,2022-08-12
+409,7,Produto Hardware 409,Placa de vídeo potente para jogos e edição de vídeo,4139.63,400,2023-05-14
+410,4,Produto Hardware 410,Processador rápido para multitarefas e softwares pesados,1567.5,332,2024-05-01
+411,1,Produto Hardware 411,Placa de vídeo potente para jogos e edição de vídeo,3622.53,437,2022-05-28
+412,4,Produto Hardware 412,HD de grande capacidade para armazenamento de dados,3317.75,176,2020-02-20
+413,5,Produto Hardware 413,Processador rápido para multitarefas e softwares pesados,1802.55,22,2022-09-10
+414,5,Produto Hardware 414,HD de grande capacidade para armazenamento de dados,2376.92,163,2025-05-17
+415,7,Produto Hardware 415,Gabinete compacto com excelente ventilação,89.51,8,2025-03-25
+416,6,Produto Hardware 416,Placa-mãe com suporte para várias conexões e memória,1771.5,-10,2020-01-14
+417,2,Produto Hardware 417,HD de grande capacidade para armazenamento de dados,4626.4,299,2024-03-05
+418,4,Produto Hardware 418,Gabinete compacto com excelente ventilação,3807.61,139,2022-02-20
+419,4,Produto Hardware 419,Fonte de alimentação eficiente e silenciosa,3913.84,300,2023-09-10
+420,4,Produto Hardware 420,Processador rápido para multitarefas e softwares pesados,2974.61,105,2024-11-07
+421,4,Produto Hardware 421,SSD rápido e confiável para uso diário e profissional,621.18,270,2020-06-01
+422,4,Produto Hardware 422,Gabinete compacto com excelente ventilação,1543.88,16,2024-06-14
+423,4,Produto Hardware 423,SSD rápido e confiável para uso diário e profissional,1482.4,461,2020-04-20
+424,4,Produto Hardware 424,Placa de vídeo potente para jogos e edição de vídeo,3594.9,156,2022-10-25
+425,6,Produto Hardware 425,Placa de vídeo potente para jogos e edição de vídeo,3609.46,201,2024-01-15
+426,3,Produto Hardware 426,"Memória RAM de alta velocidade, ideal para overclock",4991.57,376,2024-08-14
+427,1,Produto Hardware 427,SSD rápido e confiável para uso diário e profissional,406.87,0,2024-06-29
+428,6,Produto Hardware 428,"Memória RAM de alta velocidade, ideal para overclock",1751.87,316,2020-01-14
+429,1,Produto Hardware 429,Placa de vídeo potente para jogos e edição de vídeo,4551.6,375,2025-12-06
+430,1,Produto Hardware 430,"Memória RAM de alta velocidade, ideal para overclock",1166.47,216,2024-07-20
+431,2,Produto Hardware 431,Placa de vídeo potente para jogos e edição de vídeo,2953.97,257,2024-06-07
+432,1,Produto Hardware 432,Processador rápido para multitarefas e softwares pesados,173.73,335,2022-09-27
+433,6,Produto Hardware 433,Placa-mãe com suporte para várias conexões e memória,1008.43,435,2024-04-07
+434,3,Produto Hardware 434,Placa-mãe com suporte para várias conexões e memória,1126.93,104,2020-04-10
+435,5,Produto Hardware 435,Gabinete compacto com excelente ventilação,1711.38,207,2025-03-27
+436,1,Produto Hardware 436,HD de grande capacidade para armazenamento de dados,125.38,363,2024-04-20
+437,7,Produto Hardware 437,Placa-mãe com suporte para várias conexões e memória,4745.07,10,2022-04-22
+438,7,Produto Hardware 438,Processador rápido para multitarefas e softwares pesados,2642.66,199,2025-11-13
+439,1,Produto Hardware 439,HD de grande capacidade para armazenamento de dados,4295.0,349,2023-09-07
+440,7,Produto Hardware 440,Processador rápido para multitarefas e softwares pesados,2733.24,162,2024-12-12
+441,6,Produto Hardware 441,HD de grande capacidade para armazenamento de dados,4538.48,486,2021-07-03
+442,3,Produto Hardware 442,"Memória RAM de alta velocidade, ideal para overclock",3946.84,64,2022-10-24
+443,7,Produto Hardware 443,Placa-mãe com suporte para várias conexões e memória,584.71,411,2025-01-28
+444,1,Produto Hardware 444,HD de grande capacidade para armazenamento de dados,2701.03,51,2020-06-23
+445,2,Produto Hardware 445,Processador rápido para multitarefas e softwares pesados,4598.18,369,2025-04-08
+446,4,Produto Hardware 446,HD de grande capacidade para armazenamento de dados,1772.33,283,2024-09-30
+447,3,Produto Hardware 447,"Memória RAM de alta velocidade, ideal para overclock",3059.76,262,2024-11-08
+448,6,Produto Hardware 448,Placa-mãe com suporte para várias conexões e memória,782.17,76,2020-04-11
+449,2,Produto Hardware 449,"Memória RAM de alta velocidade, ideal para overclock",4993.46,395,2020-08-07
+450,1,Produto Hardware 450,Processador rápido para multitarefas e softwares pesados,2436.27,193,2025-04-03
+451,6,Produto Hardware 451,Placa de vídeo potente para jogos e edição de vídeo,4937.91,-9,2023-09-18
+452,1,Produto Hardware 452,Gabinete compacto com excelente ventilação,4736.1,-7,2025-12-25
+453,1,Produto Hardware 453,"Memória RAM de alta velocidade, ideal para overclock",3765.58,279,2022-09-18
+454,5,Produto Hardware 454,Placa de vídeo potente para jogos e edição de vídeo,256.92,100,2023-04-05
+455,7,Produto Hardware 455,Placa de vídeo potente para jogos e edição de vídeo,2069.21,281,2023-07-16
+456,5,Produto Hardware 456,SSD rápido e confiável para uso diário e profissional,2885.6,336,2021-01-30
+457,2,Produto Hardware 457,Gabinete compacto com excelente ventilação,358.41,401,2025-10-23
+458,6,Produto Hardware 458,Gabinete compacto com excelente ventilação,4536.67,155,2024-03-25
+459,4,Produto Hardware 459,Placa de vídeo potente para jogos e edição de vídeo,2897.54,14,2022-01-23
+460,2,Produto Hardware 460,"Memória RAM de alta velocidade, ideal para overclock",4360.7,341,2024-03-27
+461,4,Produto Hardware 461,HD de grande capacidade para armazenamento de dados,1766.06,12,2025-02-11
+462,3,Produto Hardware 462,"Memória RAM de alta velocidade, ideal para overclock",4424.01,323,2022-04-14
+463,4,Produto Hardware 463,Placa de vídeo potente para jogos e edição de vídeo,4195.28,364,2021-02-26
+464,4,Produto Hardware 464,HD de grande capacidade para armazenamento de dados,674.7,98,2021-11-13
+465,6,Produto Hardware 465,Gabinete compacto com excelente ventilação,4963.49,68,2024-12-20
+466,1,Produto Hardware 466,SSD rápido e confiável para uso diário e profissional,1952.9,448,2022-11-04
+467,7,Produto Hardware 467,Processador rápido para multitarefas e softwares pesados,3101.65,47,2020-06-22
+468,5,Produto Hardware 468,SSD rápido e confiável para uso diário e profissional,3898.31,343,2020-01-18
+469,1,Produto Hardware 469,Placa de vídeo potente para jogos e edição de vídeo,4046.61,224,2025-08-08
+470,2,Produto Hardware 470,Placa de vídeo potente para jogos e edição de vídeo,3620.73,345,2023-12-21
+471,2,Produto Hardware 471,Placa de vídeo potente para jogos e edição de vídeo,4144.11,272,2022-05-12
+472,1,Produto Hardware 472,Fonte de alimentação eficiente e silenciosa,773.87,74,2020-09-12
+473,1,Produto Hardware 473,Gabinete compacto com excelente ventilação,712.22,141,2022-06-24
+474,2,Produto Hardware 474,Processador rápido para multitarefas e softwares pesados,196.3,271,2020-02-03
+475,2,Produto Hardware 475,Placa de vídeo potente para jogos e edição de vídeo,3059.36,215,2022-07-10
+476,2,Produto Hardware 476,"Memória RAM de alta velocidade, ideal para overclock",4616.23,355,2021-01-25
+477,4,Produto Hardware 477,Fonte de alimentação eficiente e silenciosa,1165.74,411,2022-02-03
+478,1,Produto Hardware 478,Placa-mãe com suporte para várias conexões e memória,2190.9,207,2022-04-30
+479,7,Produto Hardware 479,SSD rápido e confiável para uso diário e profissional,2194.42,41,2023-08-30
+480,5,Produto Hardware 480,Fonte de alimentação eficiente e silenciosa,2957.38,441,2024-11-01
+481,4,Produto Hardware 481,Placa de vídeo potente para jogos e edição de vídeo,4251.42,44,2020-10-14
+482,4,Produto Hardware 482,"Memória RAM de alta velocidade, ideal para overclock",271.22,474,2025-02-22
+483,7,Produto Hardware 483,HD de grande capacidade para armazenamento de dados,3929.14,259,2022-03-08
+484,1,Produto Hardware 484,Fonte de alimentação eficiente e silenciosa,2431.41,7,2021-12-06
+485,6,Produto Hardware 485,Processador rápido para multitarefas e softwares pesados,3052.76,107,2023-03-26
+486,5,Produto Hardware 486,Placa de vídeo potente para jogos e edição de vídeo,4158.55,187,2024-04-19
+487,2,Produto Hardware 487,HD de grande capacidade para armazenamento de dados,4404.88,191,2024-01-05
+488,5,Produto Hardware 488,Gabinete compacto com excelente ventilação,3061.78,278,2025-07-29
+489,6,Produto Hardware 489,Fonte de alimentação eficiente e silenciosa,2938.85,270,2021-01-02
+490,3,Produto Hardware 490,SSD rápido e confiável para uso diário e profissional,4550.1,401,2020-01-26
+491,6,Produto Hardware 491,Processador rápido para multitarefas e softwares pesados,3033.34,472,2022-09-14
+492,6,Produto Hardware 492,Processador rápido para multitarefas e softwares pesados,1678.45,193,2020-03-12
+493,5,Produto Hardware 493,Placa-mãe com suporte para várias conexões e memória,2349.74,431,2020-10-17
+494,3,Produto Hardware 494,Processador rápido para multitarefas e softwares pesados,2223.4,394,2022-09-26
+495,1,Produto Hardware 495,Placa-mãe com suporte para várias conexões e memória,3789.07,468,2022-04-22
+496,4,Produto Hardware 496,HD de grande capacidade para armazenamento de dados,1615.19,161,2022-09-21
+497,7,Produto Hardware 497,HD de grande capacidade para armazenamento de dados,2498.69,428,2021-01-02
+498,6,Produto Hardware 498,Gabinete compacto com excelente ventilação,1935.49,231,2024-01-31
+499,3,Produto Hardware 499,Placa-mãe com suporte para várias conexões e memória,1851.54,295,2024-08-07
+500,5,Produto Hardware 500,Gabinete compacto com excelente ventilação,4749.57,345,2024-05-23
