@@ -1,0 +1,501 @@
+﻿id,categoria_id,nome,descricao,preco,estoque,data_cadastro
+1,1,Produto Hardware 0,Amet atque laborum.,1881.12,446,2020-10-13
+2,1,Produto Hardware 1,Natus architecto hic ab sit quae.,2068.65,157,2025-01-09
+3,2,Produto Hardware 2,Distinctio aspernatur culpa porro.,4309.74,7,2021-06-13
+4,3,Produto Hardware 3,Blanditiis earum hic.,1048.33,168,2024-05-23
+5,4,Produto Hardware 4,In sed aspernatur.,2623.93,360,2023-05-18
+6,2,Produto Hardware 5,Rerum nisi aliquam ut.,1475.82,169,2020-08-02
+7,1,Produto Hardware 6,Ullam repellendus odio.,4790.92,105,2023-11-15
+8,1,Produto Hardware 7,Facilis aspernatur officia quaerat.,3249.52,138,2024-11-12
+9,1,Produto Hardware 8,Deserunt architecto veritatis ut.,1489.84,128,2020-11-27
+10,5,Produto Hardware 9,Ipsam expedita atque voluptates.,430.36,440,2025-03-17
+11,7,Produto Hardware 10,Facere non nemo officiis.,1346.64,40,2023-10-11
+12,3,Produto Hardware 11,Et dolor ratione consectetur minima.,4300.33,144,2025-10-07
+13,7,Produto Hardware 12,Nisi voluptate aut animi maxime.,1440.51,241,2025-12-08
+14,3,Produto Hardware 13,Enim placeat vitae cumque adipisci.,4236.82,314,2023-06-03
+15,7,Produto Hardware 14,Earum quidem magnam pariatur.,3581.83,322,2023-04-03
+16,3,Produto Hardware 15,Voluptas numquam tenetur tempora.,3629.67,43,2022-11-25
+17,6,Produto Hardware 16,Eos debitis nulla.,4579.29,361,2022-01-15
+18,4,Produto Hardware 17,Harum ratione quibusdam placeat.,3930.23,201,2024-09-11
+19,6,Produto Hardware 18,Iste similique harum placeat.,264.46,435,2025-09-13
+20,6,Produto Hardware 19,Commodi asperiores quis quasi ipsa.,415.63,182,2021-03-13
+21,4,Produto Hardware 20,Molestiae commodi at illum.,2891.42,367,2022-01-15
+22,4,Produto Hardware 21,Unde numquam quaerat unde modi eaque.,1128.03,334,2020-02-16
+23,6,Produto Hardware 22,Quis earum beatae.,314.31,347,2022-05-22
+24,6,Produto Hardware 23,Provident quod quisquam ducimus alias.,4745.69,225,2020-12-13
+25,3,Produto Hardware 24,Adipisci labore voluptatibus.,3592.94,190,2023-05-25
+26,2,Produto Hardware 25,Quia adipisci molestias repellendus.,1611.32,332,2025-11-04
+27,2,Produto Hardware 26,Recusandae quis consectetur.,3639.85,61,2023-08-12
+28,1,Produto Hardware 27,Ipsa porro velit odit culpa doloremque.,3468.78,303,2024-08-04
+29,2,Produto Hardware 28,Id odio dicta numquam.,2132.73,268,2022-01-04
+30,2,Produto Hardware 29,Dolore tenetur ut libero alias.,1989.04,360,2022-10-22
+31,3,Produto Hardware 30,Unde dolore fuga dolor.,3920.01,451,2022-03-06
+32,1,Produto Hardware 31,Nihil quisquam earum.,4835.36,352,2025-02-06
+33,7,Produto Hardware 32,Dicta hic pariatur fugit doloribus.,3349.67,301,2026-01-14
+34,4,Produto Hardware 33,Pariatur commodi ut est eos.,4493.7,1,2022-05-19
+35,7,Produto Hardware 34,Magnam reiciendis ea iste.,4622.19,113,2024-11-20
+36,7,Produto Hardware 35,Aut ab quibusdam minima.,2206.83,381,2020-02-06
+37,7,Produto Hardware 36,Sapiente quasi omnis dolorum expedita.,1578.06,137,2021-02-23
+38,4,Produto Hardware 37,Nihil magni consequuntur.,4936.46,63,2020-07-06
+39,3,Produto Hardware 38,Placeat ex illum at minus nam.,61.76,31,2023-05-22
+40,5,Produto Hardware 39,Laborum iste voluptatem ipsa alias.,572.7,250,2021-05-24
+41,5,Produto Hardware 40,Ad dicta necessitatibus eveniet eius.,484.38,391,2023-04-05
+42,2,Produto Hardware 41,Possimus quaerat eos omnis laborum.,2826.95,300,2021-03-02
+43,1,Produto Hardware 42,Odio saepe odio dolore est ut.,3713.64,451,2023-07-16
+44,2,Produto Hardware 43,Molestiae odio iusto illo.,4041.74,153,2024-02-26
+45,4,Produto Hardware 44,Eum consequatur ex dolores id.,1872.23,39,2023-12-06
+46,2,Produto Hardware 45,Porro esse laudantium sunt consectetur.,792.64,378,2025-10-16
+47,7,Produto Hardware 46,Aperiam eaque accusamus incidunt.,650.99,415,2023-04-12
+48,7,Produto Hardware 47,Error ipsa ipsa odio ullam.,2752.43,496,2022-07-23
+49,7,Produto Hardware 48,Hic alias velit quas.,2486.6,207,2024-05-15
+50,3,Produto Hardware 49,Quaerat veritatis ea cupiditate saepe.,64.86,470,2020-05-30
+51,3,Produto Hardware 50,Dignissimos voluptatem iste sequi.,1678.32,374,2023-01-14
+52,3,Produto Hardware 51,Molestiae veniam quaerat.,4965.19,153,2020-09-29
+53,3,Produto Hardware 52,Fugiat incidunt adipisci dignissimos.,2287.03,173,2024-10-31
+54,7,Produto Hardware 53,Ea ut nihil.,3483.54,444,2024-01-18
+55,6,Produto Hardware 54,Voluptate at eum dicta maxime nobis.,2173.92,331,2021-06-22
+56,1,Produto Hardware 55,Maiores a ut.,1343.39,253,2022-03-04
+57,1,Produto Hardware 56,Ipsam rerum quae ipsum cum a fugit.,2165.6,69,2021-04-05
+58,1,Produto Hardware 57,Id quod occaecati.,1754.83,385,2022-05-04
+59,4,Produto Hardware 58,Fugiat hic tempore.,4112.23,213,2022-12-09
+60,4,Produto Hardware 59,Sint at iure expedita sit.,2074.5,234,2024-01-10
+61,1,Produto Hardware 60,Quae velit omnis magni quod quidem.,3944.86,86,2026-01-13
+62,3,Produto Hardware 61,Velit corrupti veniam minima repellat.,1132.86,76,2025-10-25
+63,3,Produto Hardware 62,Eos molestias quidem eos ducimus.,4587.57,474,2025-08-02
+64,5,Produto Hardware 63,Praesentium temporibus quis deserunt.,4069.49,234,2021-05-07
+65,3,Produto Hardware 64,Qui molestias sint tempore accusantium.,1127.1,146,2023-01-05
+66,2,Produto Hardware 65,At possimus natus.,1038.23,114,2026-01-13
+67,4,Produto Hardware 66,Sint at occaecati voluptatibus id eos.,570.63,442,2023-11-05
+68,1,Produto Hardware 67,Aliquid ipsum voluptates.,4309.12,367,2025-12-12
+69,3,Produto Hardware 68,Modi inventore sunt iusto.,176.26,235,2022-05-04
+70,5,Produto Hardware 69,Asperiores exercitationem ab molestias.,3801.65,485,2022-08-06
+71,1,Produto Hardware 70,Fugit deserunt voluptate repellat.,3671.86,417,2021-11-04
+72,6,Produto Hardware 71,Laborum animi minus veniam odit.,4420.09,-6,2021-07-11
+73,5,Produto Hardware 72,Dolorem laboriosam dolores.,2522.08,245,2022-08-22
+74,5,Produto Hardware 73,Maxime eius fugit sed.,1805.26,175,2022-08-03
+75,2,Produto Hardware 74,Illum ipsa cum nobis temporibus minima.,1222.03,133,2025-12-27
+76,4,Produto Hardware 75,Tenetur assumenda voluptatem iusto.,2951.17,496,2023-02-23
+77,1,Produto Hardware 76,Quos hic facilis illum quos.,75.17,433,2023-09-17
+78,6,Produto Hardware 77,Sit a cumque officiis.,2811.51,293,2024-11-05
+79,6,Produto Hardware 78,Laborum ab neque.,4437.23,350,2023-12-12
+80,3,Produto Hardware 79,Maiores nam cum quidem neque.,4847.04,418,2025-01-24
+81,1,Produto Hardware 80,Harum vel repellendus.,1462.17,415,2020-06-17
+82,3,Produto Hardware 81,Odio a nisi assumenda aliquam maxime.,4353.96,91,2020-03-14
+83,1,Produto Hardware 82,Nobis reiciendis id reprehenderit.,4578.74,192,2025-09-20
+84,5,Produto Hardware 83,Magni totam totam numquam.,1193.3,111,2024-03-12
+85,1,Produto Hardware 84,Magni unde beatae.,4143.72,325,2022-03-18
+86,2,Produto Hardware 85,Quo suscipit dolorem rerum.,4163.97,200,2020-05-03
+87,5,Produto Hardware 86,Et repellendus fuga ab.,3993.3,32,2022-02-20
+88,1,Produto Hardware 87,Nemo tenetur porro eveniet.,4443.72,220,2024-05-13
+89,5,Produto Hardware 88,Explicabo neque ex non accusantium.,2340.35,111,2020-10-24
+90,6,Produto Hardware 89,Esse odio doloremque.,3820.48,329,2021-09-17
+91,3,Produto Hardware 90,Accusantium quas ducimus cumque autem.,2837.32,195,2022-02-15
+92,6,Produto Hardware 91,Eaque a autem laborum corporis.,311.7,90,2025-01-19
+93,1,Produto Hardware 92,Molestias unde debitis maiores.,1785.91,68,2022-05-07
+94,4,Produto Hardware 93,Et et officia quae et aliquam ut.,4710.88,107,2025-03-11
+95,2,Produto Hardware 94,Vitae sequi iste minima debitis beatae.,1385.79,34,2025-07-21
+96,2,Produto Hardware 95,Tempora est velit aliquam.,4248.34,388,2024-05-16
+97,5,Produto Hardware 96,Pariatur quae deleniti eius beatae.,495.18,125,2020-08-29
+98,7,Produto Hardware 97,Totam quod sit culpa.,3624.69,492,2023-09-20
+99,3,Produto Hardware 98,Optio iusto repellat velit dolorum.,4232.44,58,2024-03-15
+100,6,Produto Hardware 99,Odio dolorem pariatur. Porro porro ut.,3731.88,131,2023-09-22
+101,6,Produto Hardware 100,Fugiat ab quos fugiat pariatur.,2085.3,50,2022-04-13
+102,7,Produto Hardware 101,Voluptatum tempore ab omnis blanditiis.,625.11,285,2021-03-30
+103,3,Produto Hardware 102,Quos esse aspernatur iste accusamus.,4534.8,154,2023-07-23
+104,6,Produto Hardware 103,Illum id necessitatibus magni unde.,950.02,132,2023-05-19
+105,1,Produto Hardware 104,Quo corporis officiis modi.,1372.99,226,2020-10-26
+106,4,Produto Hardware 105,Excepturi sunt ratione aperiam.,4325.69,73,2020-11-01
+107,6,Produto Hardware 106,Inventore illum soluta reiciendis.,1236.36,-6,2020-12-07
+108,3,Produto Hardware 107,Sint occaecati similique.,4356.88,184,2021-12-29
+109,7,Produto Hardware 108,Nihil dolore quo tenetur distinctio.,4404.75,405,2022-02-23
+110,4,Produto Hardware 109,Aspernatur fugiat tempora tempore.,1189.34,434,2024-10-04
+111,3,Produto Hardware 110,Tempora maiores illum repudiandae.,369.79,475,2022-12-14
+112,3,Produto Hardware 111,Aliquam reiciendis laborum itaque.,1137.21,413,2024-06-18
+113,5,Produto Hardware 112,Occaecati reprehenderit corrupti.,3708.21,393,2023-07-08
+114,3,Produto Hardware 113,Dolorem rem sed consequatur quibusdam.,254.5,385,2025-09-02
+115,1,Produto Hardware 114,Sunt soluta sint et quo.,2954.69,352,2023-09-21
+116,4,Produto Hardware 115,Quas adipisci atque.,4934.31,38,2025-08-22
+117,4,Produto Hardware 116,Corrupti enim aliquam sed.,310.36,130,2024-04-23
+118,1,Produto Hardware 117,Explicabo nulla repellat accusantium.,2753.04,223,2025-12-03
+119,1,Produto Hardware 118,Illum cum nostrum omnis.,702.85,277,2022-09-22
+120,6,Produto Hardware 119,Facere quibusdam nisi et.,4582.12,121,2022-07-18
+121,6,Produto Hardware 120,Quas a expedita velit.,4143.89,236,2021-07-11
+122,3,Produto Hardware 121,Distinctio iure tenetur corrupti.,3835.32,346,2025-06-01
+123,6,Produto Hardware 122,Assumenda ut numquam quas unde.,3002.59,473,2023-08-12
+124,1,Produto Hardware 123,Optio molestias eius fugit eum.,2312.23,138,2020-10-07
+125,3,Produto Hardware 124,Neque pariatur eligendi dolorum.,4218.23,498,2020-07-14
+126,1,Produto Hardware 125,Beatae ad sit alias error minus.,2062.41,324,2022-07-22
+127,4,Produto Hardware 126,Vero voluptates numquam eveniet.,1761.1,404,2021-07-29
+128,3,Produto Hardware 127,Unde nobis laboriosam facere minima.,2559.68,389,2024-01-20
+129,5,Produto Hardware 128,Aspernatur reiciendis sapiente ullam.,854.49,308,2024-10-26
+130,2,Produto Hardware 129,Eum amet eligendi.,2146.37,94,2022-06-27
+131,5,Produto Hardware 130,Dolorum reiciendis ducimus velit.,4305.08,427,2025-09-17
+132,5,Produto Hardware 131,Libero vitae harum.,1712.54,199,2024-11-04
+133,2,Produto Hardware 132,A eos harum numquam est modi adipisci.,4648.41,123,2023-11-03
+134,4,Produto Hardware 133,Ipsa ipsum iste qui hic repellat.,4912.94,27,2020-01-19
+135,6,Produto Hardware 134,Illo nobis minus.,3723.66,444,2023-12-16
+136,7,Produto Hardware 135,Labore laudantium est possimus.,391.56,289,2021-09-01
+137,4,Produto Hardware 136,Placeat fugit minima dolore.,3490.0,420,2023-10-04
+138,4,Produto Hardware 137,Consectetur neque quis molestias alias.,4195.38,41,2022-10-09
+139,1,Produto Hardware 138,Eum earum eligendi optio.,187.97,280,2023-12-07
+140,2,Produto Hardware 139,Sit ad illo.,4944.78,13,2020-09-02
+141,4,Produto Hardware 140,Eaque iste recusandae eaque ullam.,2034.48,403,2020-04-08
+142,7,Produto Hardware 141,Sunt at quia modi repellendus.,2482.28,306,2023-07-21
+143,6,Produto Hardware 142,Consequatur reiciendis est magni.,4562.63,371,2021-08-27
+144,6,Produto Hardware 143,Ex nostrum sed ex.,4569.21,326,2023-05-23
+145,1,Produto Hardware 144,Inventore nisi amet fugit atque.,1538.93,256,2023-03-16
+146,2,Produto Hardware 145,Nulla dolorum excepturi harum nihil.,1309.44,172,2025-05-19
+147,2,Produto Hardware 146,Iusto quidem illo odio quas.,1825.04,105,2020-03-08
+148,1,Produto Hardware 147,Quae ex rerum inventore aliquam.,1481.86,71,2025-11-28
+149,5,Produto Hardware 148,Quae molestiae commodi ipsa eos.,1265.92,51,2024-07-14
+150,7,Produto Hardware 149,Ad nesciunt veniam reprehenderit.,4979.18,123,2022-12-18
+151,5,Produto Hardware 150,Autem quae laudantium.,2888.41,458,2023-08-04
+152,3,Produto Hardware 151,Non aliquam eligendi corporis esse.,953.89,9,2024-07-09
+153,3,Produto Hardware 152,Ipsam officiis odit dolorum.,4498.91,176,2022-01-26
+154,2,Produto Hardware 153,Corporis et cumque.,4589.89,356,2020-10-17
+155,4,Produto Hardware 154,Eaque fugiat ex quos natus odit.,580.9,171,2024-12-13
+156,7,Produto Hardware 155,Quisquam incidunt quis modi quis.,2426.9,475,2020-08-19
+157,7,Produto Hardware 156,Quia ratione veritatis.,511.2,26,2022-07-17
+158,1,Produto Hardware 157,Quod eaque tenetur possimus nihil.,2816.74,100,2022-03-07
+159,4,Produto Hardware 158,Nulla id vero odit animi.,3919.15,43,2020-10-12
+160,7,Produto Hardware 159,Optio iure cum eligendi recusandae non.,4209.11,118,2020-05-25
+161,1,Produto Hardware 160,Quam dolores sint omnis sunt.,2926.59,235,2023-09-25
+162,1,Produto Hardware 161,Omnis cumque quod.,3024.08,112,2021-07-10
+163,3,Produto Hardware 162,Commodi porro excepturi fugit.,2985.32,434,2021-04-30
+164,2,Produto Hardware 163,Ipsum dolorum maiores sint.,1995.87,333,2021-03-04
+165,2,Produto Hardware 164,Neque facilis eveniet numquam.,3745.61,470,2024-08-06
+166,4,Produto Hardware 165,Molestiae nulla nostrum eum corporis.,4070.02,192,2021-11-06
+167,4,Produto Hardware 166,Quis corporis esse impedit.,3144.58,63,2021-11-07
+168,2,Produto Hardware 167,Consectetur hic nemo tempore.,2053.29,424,2023-02-21
+169,2,Produto Hardware 168,Adipisci debitis minima.,243.42,335,2020-02-03
+170,4,Produto Hardware 169,Blanditiis totam aliquam odio rerum ex.,433.02,174,2020-09-15
+171,6,Produto Hardware 170,Enim voluptatum ipsam recusandae eos.,718.83,423,2024-08-29
+172,6,Produto Hardware 171,In recusandae sint molestias quod.,4494.66,354,2021-07-25
+173,7,Produto Hardware 172,Rem sapiente odio minus.,2444.23,374,2023-02-10
+174,6,Produto Hardware 173,Dolorem eos pariatur placeat.,1470.29,410,2020-10-06
+175,6,Produto Hardware 174,Accusantium occaecati natus vel.,1061.45,17,2024-07-16
+176,2,Produto Hardware 175,Alias distinctio ut reprehenderit cum.,2109.63,200,2025-05-09
+177,4,Produto Hardware 176,Quam optio est totam.,1825.07,382,2022-07-31
+178,4,Produto Hardware 177,Facilis corporis delectus voluptatibus.,176.58,475,2022-08-14
+179,5,Produto Hardware 178,Fuga corrupti tempore nesciunt rem.,1425.55,79,2021-02-18
+180,2,Produto Hardware 179,A cumque maxime ab eius cumque.,1851.67,40,2025-12-31
+181,3,Produto Hardware 180,Possimus placeat numquam ex.,4895.06,435,2025-01-11
+182,1,Produto Hardware 181,Rem asperiores facere.,1816.45,134,2024-03-05
+183,4,Produto Hardware 182,Autem perspiciatis nobis deleniti quam.,4099.46,127,2024-07-29
+184,7,Produto Hardware 183,Repellat ut numquam voluptates.,2545.52,45,2025-10-04
+185,4,Produto Hardware 184,Aliquid eos dignissimos amet.,1496.38,61,2024-01-11
+186,3,Produto Hardware 185,Exercitationem dignissimos eos labore.,1902.0,24,2025-02-15
+187,7,Produto Hardware 186,Similique cupiditate pariatur error.,2229.62,334,2024-01-02
+188,2,Produto Hardware 187,Corporis nemo quod explicabo.,4966.97,272,2025-01-22
+189,3,Produto Hardware 188,Fugiat deleniti quisquam.,3349.1,168,2022-10-24
+190,4,Produto Hardware 189,Ullam nesciunt accusantium illo.,1690.93,339,2023-10-02
+191,1,Produto Hardware 190,In nisi corporis eaque at officia.,842.97,300,2022-09-09
+192,2,Produto Hardware 191,Dolorem animi saepe quibusdam odio.,3713.24,52,2020-08-31
+193,7,Produto Hardware 192,Unde repudiandae tempore.,873.55,246,2021-03-18
+194,5,Produto Hardware 193,Labore enim eos quasi earum.,666.56,57,2026-01-13
+195,5,Produto Hardware 194,Sint labore nam voluptas distinctio.,3212.05,7,2022-01-11
+196,6,Produto Hardware 195,Expedita praesentium ad ipsa.,3824.5,265,2022-06-22
+197,2,Produto Hardware 196,Adipisci quo maxime vel magni rerum.,1114.81,500,2020-08-26
+198,3,Produto Hardware 197,Non quis ut suscipit animi odio.,1018.58,419,2022-03-01
+199,1,Produto Hardware 198,Delectus ut facilis nam quod iusto ex.,1761.08,199,2025-01-07
+200,5,Produto Hardware 199,Sequi quas rem quae quam praesentium.,1090.49,356,2020-02-17
+201,6,Produto Hardware 200,Ex libero quo ullam quisquam.,1834.61,183,2020-05-03
+202,1,Produto Hardware 201,Rerum consequuntur officia labore.,229.04,70,2024-09-17
+203,3,Produto Hardware 202,Tenetur molestias aut illo.,184.37,15,2021-06-29
+204,2,Produto Hardware 203,Omnis possimus minus animi non.,2902.6,30,2024-12-28
+205,6,Produto Hardware 204,Laborum perferendis facere ea.,3286.0,350,2024-05-17
+206,1,Produto Hardware 205,Cum natus est eveniet ullam minus vel.,1070.16,39,2025-12-29
+207,5,Produto Hardware 206,Modi expedita ducimus voluptatum rerum.,4265.25,-10,2024-07-29
+208,6,Produto Hardware 207,Rem mollitia accusamus repellendus.,3816.16,32,2025-01-23
+209,6,Produto Hardware 208,Dolorem voluptatem totam voluptas.,3317.84,4,2023-08-20
+210,1,Produto Hardware 209,Facilis cum et delectus.,3051.69,153,2023-07-08
+211,3,Produto Hardware 210,Nisi sit optio suscipit aperiam ipsa.,2327.13,475,2025-05-12
+212,3,Produto Hardware 211,Voluptate ab natus esse fuga.,1683.53,127,2022-03-15
+213,1,Produto Hardware 212,Possimus illo nam fugiat quibusdam.,560.67,99,2023-09-09
+214,1,Produto Hardware 213,Maiores ex veritatis totam.,1703.03,-5,2023-08-19
+215,4,Produto Hardware 214,Numquam impedit debitis sed.,225.3,169,2024-08-31
+216,2,Produto Hardware 215,Enim sint itaque laboriosam.,3897.91,242,2024-09-12
+217,6,Produto Hardware 216,A atque sunt velit quibusdam eaque.,913.68,4,2024-07-17
+218,1,Produto Hardware 217,Perspiciatis repudiandae eius.,1752.93,69,2022-09-20
+219,5,Produto Hardware 218,Officia sint culpa.,3168.67,272,2024-06-07
+220,3,Produto Hardware 219,Veritatis delectus blanditiis ex.,508.25,302,2025-01-25
+221,2,Produto Hardware 220,Labore eum delectus quas.,756.82,193,2021-12-06
+222,4,Produto Hardware 221,Consectetur quae sapiente.,1238.38,353,2025-04-05
+223,5,Produto Hardware 222,Numquam ducimus saepe sit praesentium.,144.03,178,2023-11-12
+224,4,Produto Hardware 223,Sapiente delectus cum.,1662.41,338,2021-06-14
+225,3,Produto Hardware 224,Harum similique incidunt architecto.,4133.42,70,2022-08-14
+226,3,Produto Hardware 225,Accusamus sint dolorem ut.,2522.3,386,2024-10-19
+227,2,Produto Hardware 226,Alias a perspiciatis iusto veritatis.,2775.89,295,2025-03-13
+228,6,Produto Hardware 227,Minus inventore dignissimos fugit.,4313.44,362,2020-07-14
+229,1,Produto Hardware 228,Tempore rerum error deserunt.,1312.11,343,2023-06-23
+230,3,Produto Hardware 229,Natus mollitia vero soluta.,2605.39,257,2020-03-25
+231,6,Produto Hardware 230,Et possimus soluta veniam ullam magnam.,2379.46,312,2020-04-12
+232,1,Produto Hardware 231,Voluptates rem deleniti ea.,1295.8,234,2024-10-15
+233,6,Produto Hardware 232,Nemo accusantium alias quia dolore nam.,839.87,455,2022-01-24
+234,6,Produto Hardware 233,Dolorem iste ipsum quae.,1393.64,190,2023-09-13
+235,2,Produto Hardware 234,Maiores exercitationem libero dicta.,1272.96,228,2025-12-14
+236,7,Produto Hardware 235,Provident maiores nisi.,3690.52,224,2024-05-27
+237,1,Produto Hardware 236,Sit ex ratione laudantium.,3417.23,424,2025-06-22
+238,4,Produto Hardware 237,Iure laborum voluptatibus temporibus.,1451.31,259,2025-02-14
+239,4,Produto Hardware 238,Ea officia facere ex.,3051.53,-5,2021-09-28
+240,5,Produto Hardware 239,Enim sed dolore at distinctio.,4418.81,91,2023-03-20
+241,5,Produto Hardware 240,Consectetur sunt magnam rerum.,1592.52,335,2024-11-22
+242,7,Produto Hardware 241,Dolore repellat nam totam.,2636.93,255,2022-07-12
+243,2,Produto Hardware 242,Amet dolorem in earum sunt quis.,897.64,249,2020-03-30
+244,5,Produto Hardware 243,Provident occaecati ut vitae.,892.41,234,2020-08-24
+245,7,Produto Hardware 244,Quasi aliquam ipsa velit similique.,1650.94,85,2022-05-03
+246,2,Produto Hardware 245,Iusto quo voluptates facilis cumque.,778.33,-7,2021-12-28
+247,5,Produto Hardware 246,Laboriosam dicta voluptatem.,2637.38,245,2020-11-07
+248,4,Produto Hardware 247,Reiciendis accusantium sed nulla in.,394.59,367,2021-02-21
+249,2,Produto Hardware 248,Adipisci cumque ipsum pariatur.,1049.0,5,2025-09-18
+250,6,Produto Hardware 249,Dolorum magnam quo exercitationem.,540.85,256,2024-06-24
+251,2,Produto Hardware 250,Assumenda placeat blanditiis.,4649.22,396,2022-11-27
+252,2,Produto Hardware 251,Laborum labore nam quas.,4272.1,441,2023-09-16
+253,4,Produto Hardware 252,Ipsum laboriosam eveniet rerum.,2229.51,448,2024-01-19
+254,7,Produto Hardware 253,Consequatur omnis sit neque.,947.53,382,2024-09-19
+255,7,Produto Hardware 254,Porro dolorum enim eaque veniam esse.,4542.69,439,2022-05-31
+256,1,Produto Hardware 255,Suscipit fugit nostrum voluptatem odit.,376.23,492,2025-06-21
+257,6,Produto Hardware 256,Quisquam ipsa quis.,562.15,148,2025-02-08
+258,5,Produto Hardware 257,Soluta excepturi neque quibusdam atque.,2687.41,150,2025-02-26
+259,2,Produto Hardware 258,Atque qui omnis laboriosam.,2237.69,300,2024-07-01
+260,3,Produto Hardware 259,Maiores ab nostrum aliquam.,1807.69,253,2020-03-22
+261,5,Produto Hardware 260,Cumque laborum iure maxime rem commodi.,799.52,15,2020-09-21
+262,3,Produto Hardware 261,Facere maxime nam voluptatum.,2398.39,500,2022-03-17
+263,3,Produto Hardware 262,Sint repellendus et nulla modi aliquam.,4872.32,-7,2022-06-10
+264,4,Produto Hardware 263,Itaque sunt voluptate doloribus.,4396.36,380,2022-01-10
+265,7,Produto Hardware 264,Porro rem possimus facere.,3735.2,48,2021-08-17
+266,6,Produto Hardware 265,Praesentium accusantium sequi.,99.75,261,2022-11-22
+267,7,Produto Hardware 266,Nam harum sint.,4821.97,447,2025-06-28
+268,5,Produto Hardware 267,Neque modi qui itaque.,288.18,412,2022-01-25
+269,6,Produto Hardware 268,Nobis eius at rem accusantium.,2078.76,125,2020-07-28
+270,7,Produto Hardware 269,Asperiores possimus quia quod dolorem.,2741.9,142,2022-08-23
+271,5,Produto Hardware 270,Est illo voluptate quisquam placeat.,2290.88,290,2023-08-23
+272,1,Produto Hardware 271,Non voluptas ex ipsam error.,4697.61,-4,2022-11-27
+273,2,Produto Hardware 272,Cumque dolores provident.,4373.35,418,2020-04-13
+274,5,Produto Hardware 273,Consectetur molestiae impedit.,3346.88,381,2026-01-04
+275,5,Produto Hardware 274,Nihil illo impedit.,1461.92,309,2020-05-28
+276,6,Produto Hardware 275,Non facilis sunt.,895.27,268,2025-04-22
+277,1,Produto Hardware 276,Minima ab fugit nesciunt libero.,3657.7,381,2022-02-13
+278,5,Produto Hardware 277,Amet nulla animi iste architecto illo.,3629.65,216,2023-04-15
+279,1,Produto Hardware 278,Dolores quos totam.,2429.78,227,2020-12-26
+280,4,Produto Hardware 279,Quisquam adipisci facere ea velit.,799.66,16,2020-06-27
+281,5,Produto Hardware 280,Pariatur reiciendis error sint.,2802.3,30,2022-03-06
+282,6,Produto Hardware 281,At laudantium debitis possimus.,4990.02,111,2022-10-11
+283,3,Produto Hardware 282,Dicta sunt aperiam dicta nisi.,2468.7,444,2025-09-22
+284,3,Produto Hardware 283,Amet dolores minus cumque.,2027.84,482,2023-01-28
+285,4,Produto Hardware 284,Aut molestias vero laborum voluptas.,1731.33,84,2025-04-20
+286,5,Produto Hardware 285,Sit minima suscipit soluta.,3551.93,255,2021-03-31
+287,3,Produto Hardware 286,Impedit numquam vitae perferendis.,1624.8,199,2024-01-11
+288,1,Produto Hardware 287,Repudiandae voluptate hic distinctio.,2389.31,260,2025-01-29
+289,7,Produto Hardware 288,Veniam vero quaerat vero.,3444.89,186,2020-05-22
+290,2,Produto Hardware 289,Sequi nulla pariatur dolorem.,4443.96,333,2026-01-17
+291,6,Produto Hardware 290,Eveniet corporis eaque sapiente.,4552.21,471,2021-11-18
+292,2,Produto Hardware 291,Veritatis quisquam numquam aperiam.,4174.67,249,2021-11-11
+293,3,Produto Hardware 292,Quia ut quasi vero quisquam.,917.41,203,2022-11-18
+294,5,Produto Hardware 293,Architecto cumque corrupti cum quis.,126.58,459,2025-02-23
+295,1,Produto Hardware 294,Accusamus aut accusamus quis libero.,3442.27,491,2023-08-18
+296,5,Produto Hardware 295,Laboriosam est a illo commodi ad.,4198.19,462,2020-05-01
+297,5,Produto Hardware 296,Ut inventore aperiam quis repellat quo.,2288.84,90,2023-05-01
+298,5,Produto Hardware 297,Dolorem odit aperiam ducimus odio.,725.59,417,2023-05-29
+299,6,Produto Hardware 298,Sint sequi alias occaecati.,1566.73,480,2025-05-30
+300,1,Produto Hardware 299,Quod perferendis ad illum.,205.87,10,2023-05-24
+301,3,Produto Hardware 300,Illo debitis cupiditate.,360.71,92,2023-01-18
+302,1,Produto Hardware 301,Magnam modi cum numquam sint in.,2754.26,10,2021-02-13
+303,1,Produto Hardware 302,Consequatur corporis tempore.,4842.86,52,2025-10-15
+304,1,Produto Hardware 303,Eligendi consectetur doloribus.,2096.88,348,2024-05-15
+305,6,Produto Hardware 304,Eveniet error quos voluptate ex sint.,4726.23,367,2021-03-24
+306,7,Produto Hardware 305,Itaque quod dignissimos nam.,1005.0,243,2022-11-13
+307,4,Produto Hardware 306,Ipsum modi ipsa eaque id.,482.97,95,2025-03-09
+308,1,Produto Hardware 307,Quidem natus odio a ullam.,2017.43,313,2022-05-21
+309,2,Produto Hardware 308,Corrupti nihil magnam nesciunt.,3522.51,390,2020-03-06
+310,3,Produto Hardware 309,In expedita quod tenetur qui aut modi.,2321.68,383,2020-10-01
+311,3,Produto Hardware 310,At unde eos quibusdam iusto cum quasi.,3695.96,226,2024-07-10
+312,7,Produto Hardware 311,Illo harum alias expedita asperiores.,4887.34,68,2021-12-20
+313,7,Produto Hardware 312,Ipsum ipsam quis perferendis.,4003.48,372,2024-06-01
+314,7,Produto Hardware 313,Eveniet laboriosam blanditiis nihil.,1107.69,492,2022-05-24
+315,4,Produto Hardware 314,Consequuntur ducimus corrupti quod sit.,4061.1,257,2023-10-01
+316,7,Produto Hardware 315,Rem ducimus consequatur aspernatur.,1827.22,51,2020-06-28
+317,6,Produto Hardware 316,Molestiae earum ipsum eveniet error.,353.49,359,2023-03-28
+318,5,Produto Hardware 317,Possimus doloremque odio.,4403.51,310,2023-09-16
+319,4,Produto Hardware 318,Iste cumque unde est doloremque.,2487.29,229,2023-07-09
+320,1,Produto Hardware 319,Natus atque earum ipsa.,4593.55,441,2024-04-05
+321,2,Produto Hardware 320,Adipisci magnam sapiente rerum.,648.6,4,2020-12-17
+322,4,Produto Hardware 321,Occaecati possimus voluptatibus fuga.,219.57,363,2025-11-18
+323,5,Produto Hardware 322,Unde alias sed blanditiis alias.,4084.68,80,2020-11-07
+324,3,Produto Hardware 323,Dicta accusamus voluptates placeat.,114.67,82,2024-09-16
+325,7,Produto Hardware 324,Animi numquam cum et delectus alias.,3978.82,181,2020-03-23
+326,2,Produto Hardware 325,Quisquam similique illo qui.,3216.65,132,2025-04-08
+327,6,Produto Hardware 326,Quos reprehenderit libero nihil.,3416.04,195,2023-01-30
+328,4,Produto Hardware 327,Laborum voluptas porro numquam.,157.15,383,2022-10-25
+329,2,Produto Hardware 328,Ducimus et nesciunt officia.,2682.29,402,2024-11-13
+330,3,Produto Hardware 329,Recusandae libero maiores.,3988.64,28,2022-10-14
+331,1,Produto Hardware 330,Modi officia nemo a iusto.,2187.82,220,2020-01-29
+332,3,Produto Hardware 331,Ducimus iure nobis maxime quae.,1397.98,77,2025-05-23
+333,7,Produto Hardware 332,Voluptatum ipsam pariatur numquam.,3606.79,319,2021-05-22
+334,4,Produto Hardware 333,Perferendis quae labore.,3081.01,477,2025-06-23
+335,2,Produto Hardware 334,Nam sapiente dolorem.,3048.28,102,2025-10-03
+336,6,Produto Hardware 335,Facere mollitia itaque pariatur quod.,674.57,129,2021-07-03
+337,6,Produto Hardware 336,Optio at adipisci quasi a voluptatem.,3157.58,241,2023-11-17
+338,5,Produto Hardware 337,Consectetur nemo blanditiis quos.,531.44,136,2021-06-17
+339,2,Produto Hardware 338,Voluptatem neque harum ratione harum.,1226.55,290,2025-05-07
+340,7,Produto Hardware 339,Soluta voluptas magni sapiente.,4247.74,436,2025-05-31
+341,5,Produto Hardware 340,Aperiam quidem mollitia dolor harum.,980.08,325,2025-07-13
+342,7,Produto Hardware 341,Dolore esse tempora ipsa tempora.,709.14,277,2022-06-24
+343,4,Produto Hardware 342,Sequi voluptates quos provident.,4579.62,319,2022-07-28
+344,6,Produto Hardware 343,Molestias dolores explicabo mollitia.,3048.38,84,2020-09-07
+345,7,Produto Hardware 344,Officia eligendi impedit saepe.,230.68,226,2024-04-02
+346,7,Produto Hardware 345,Occaecati necessitatibus sunt.,2579.77,142,2024-06-29
+347,3,Produto Hardware 346,Non corrupti quisquam ducimus.,4007.13,152,2024-12-10
+348,6,Produto Hardware 347,Corrupti laboriosam natus.,3638.82,431,2021-11-29
+349,4,Produto Hardware 348,Animi amet officia possimus.,3811.53,299,2025-05-21
+350,1,Produto Hardware 349,Assumenda aut corporis suscipit esse.,453.17,28,2022-11-14
+351,5,Produto Hardware 350,Cum facilis soluta inventore aperiam.,2802.56,353,2022-01-03
+352,6,Produto Hardware 351,Amet rem ipsum repellendus eum aliquid.,3218.6,159,2021-11-08
+353,3,Produto Hardware 352,At officia occaecati.,1801.39,500,2022-03-31
+354,6,Produto Hardware 353,Enim illum veritatis iusto.,3549.07,221,2020-07-27
+355,3,Produto Hardware 354,Optio et veniam veniam hic atque.,3208.96,199,2022-08-20
+356,5,Produto Hardware 355,Optio maxime corrupti quod qui esse.,1213.07,130,2020-04-16
+357,2,Produto Hardware 356,Assumenda maxime id magnam.,2535.23,350,2022-09-20
+358,7,Produto Hardware 357,Reprehenderit officiis sit temporibus.,3315.96,86,2024-10-30
+359,3,Produto Hardware 358,Sunt eveniet enim deserunt.,884.27,131,2023-10-23
+360,1,Produto Hardware 359,Ipsam laudantium facilis.,4714.99,312,2021-02-13
+361,6,Produto Hardware 360,Officia error amet nihil voluptatum.,1294.05,236,2021-08-02
+362,3,Produto Hardware 361,Commodi ducimus enim.,2052.49,196,2023-10-27
+363,7,Produto Hardware 362,Placeat voluptatum cupiditate.,616.56,279,2021-10-12
+364,2,Produto Hardware 363,Eaque ipsum quasi.,365.28,392,2020-12-17
+365,5,Produto Hardware 364,Odio hic laudantium ex.,4920.69,392,2025-08-13
+366,4,Produto Hardware 365,Modi natus sequi.,465.88,312,2025-03-12
+367,2,Produto Hardware 366,Vel nesciunt at eaque eos a.,1799.76,66,2023-06-15
+368,4,Produto Hardware 367,Quas labore nisi iure.,3862.51,189,2023-02-21
+369,7,Produto Hardware 368,Nesciunt ipsum illo quasi qui.,4578.89,159,2022-07-01
+370,1,Produto Hardware 369,Et placeat ipsa perspiciatis provident.,3138.04,24,2023-07-16
+371,5,Produto Hardware 370,Odit molestias explicabo.,4279.49,162,2022-05-15
+372,7,Produto Hardware 371,Sint totam inventore.,2789.16,411,2022-06-05
+373,1,Produto Hardware 372,Doloremque eum doloribus illo vel.,1334.73,346,2022-03-18
+374,3,Produto Hardware 373,Voluptas libero error.,1500.26,390,2021-05-20
+375,2,Produto Hardware 374,Esse fugiat veritatis aliquam.,4141.19,153,2025-07-02
+376,3,Produto Hardware 375,Ipsa alias quasi quidem provident.,4596.23,207,2024-05-06
+377,7,Produto Hardware 376,Rem qui occaecati distinctio sint iure.,272.87,177,2020-01-20
+378,1,Produto Hardware 377,Ut sit ea ullam nihil amet saepe.,167.89,287,2024-04-26
+379,3,Produto Hardware 378,Iure neque laudantium quam.,4373.46,89,2023-06-04
+380,5,Produto Hardware 379,Itaque accusamus rerum sapiente.,1800.73,214,2021-02-13
+381,1,Produto Hardware 380,Nulla reiciendis occaecati voluptatum.,4741.83,152,2025-12-24
+382,5,Produto Hardware 381,Doloribus vero sunt expedita.,4456.95,55,2024-10-06
+383,1,Produto Hardware 382,Accusantium dicta quis dicta ab facere.,3410.68,276,2025-06-17
+384,6,Produto Hardware 383,Omnis quod eligendi ratione ipsam.,1010.14,438,2021-06-02
+385,5,Produto Hardware 384,Vero reiciendis odit quam.,1951.46,164,2025-03-19
+386,4,Produto Hardware 385,Quia dignissimos quidem blanditiis in.,520.18,-3,2022-03-23
+387,5,Produto Hardware 386,Autem occaecati explicabo nulla.,1338.54,94,2021-06-11
+388,6,Produto Hardware 387,Inventore sapiente natus.,3712.36,338,2024-11-16
+389,2,Produto Hardware 388,Eveniet dolorum magni repellendus iste.,1202.8,491,2022-10-17
+390,4,Produto Hardware 389,Rem saepe error vel.,644.86,64,2025-09-22
+391,3,Produto Hardware 390,Assumenda saepe nostrum quibusdam.,3832.89,444,2025-09-24
+392,4,Produto Hardware 391,Occaecati saepe non odio provident ab.,4047.69,89,2022-05-06
+393,7,Produto Hardware 392,Rerum repellat totam quas incidunt aut.,747.31,185,2022-06-16
+394,2,Produto Hardware 393,Ipsam accusantium a illum rem omnis in.,4262.39,380,2024-08-19
+395,7,Produto Hardware 394,Alias quibusdam dolorum.,954.35,363,2020-12-05
+396,4,Produto Hardware 395,Vitae sunt dolor.,2262.84,46,2020-01-31
+397,3,Produto Hardware 396,Beatae modi praesentium labore error.,231.37,165,2022-03-16
+398,7,Produto Hardware 397,Aperiam dolor animi ducimus.,4511.67,206,2025-05-22
+399,2,Produto Hardware 398,Nisi a culpa eius.,1212.56,278,2023-06-11
+400,3,Produto Hardware 399,Maiores dolores dolore.,2357.17,332,2020-04-01
+401,2,Produto Hardware 400,Enim animi velit quidem.,2222.33,297,2024-12-18
+402,2,Produto Hardware 401,Ullam nesciunt necessitatibus.,3385.07,263,2025-08-14
+403,7,Produto Hardware 402,Odio eligendi veniam quasi.,330.26,122,2022-02-22
+404,7,Produto Hardware 403,Qui debitis id enim.,3272.07,334,2024-06-18
+405,5,Produto Hardware 404,Nihil vero ipsum distinctio quisquam.,4094.04,330,2025-05-27
+406,2,Produto Hardware 405,Laudantium eveniet sit enim explicabo.,2734.2,230,2024-11-24
+407,5,Produto Hardware 406,Omnis quisquam est unde dolores.,4239.23,261,2021-08-17
+408,6,Produto Hardware 407,Aperiam possimus quidem ipsum.,4407.81,327,2022-06-14
+409,5,Produto Hardware 408,Velit hic totam voluptatem.,2461.6,151,2024-10-15
+410,5,Produto Hardware 409,Dolor repellat asperiores.,2173.18,464,2024-05-08
+411,6,Produto Hardware 410,Nostrum dicta sequi non.,1853.61,256,2026-01-21
+412,4,Produto Hardware 411,Eum odit earum impedit dolorum fugit.,2101.87,452,2022-01-27
+413,5,Produto Hardware 412,Nostrum voluptatum sequi.,1162.49,186,2024-10-20
+414,7,Produto Hardware 413,Tempore voluptatum beatae quisquam.,4051.74,404,2021-09-11
+415,7,Produto Hardware 414,Eum illum fugit earum.,482.38,235,2022-12-26
+416,6,Produto Hardware 415,Aliquid pariatur ullam repellendus.,4156.27,259,2024-07-28
+417,1,Produto Hardware 416,Tempore ut unde voluptas.,4838.57,27,2024-10-21
+418,7,Produto Hardware 417,Ducimus porro ducimus deleniti earum.,4999.41,234,2024-05-19
+419,3,Produto Hardware 418,Nobis harum repellat doloribus ea.,237.14,267,2023-01-15
+420,6,Produto Hardware 419,Quo occaecati quas ipsum eos cumque.,497.13,286,2023-02-14
+421,5,Produto Hardware 420,Quidem molestiae porro unde.,4282.38,209,2024-11-04
+422,5,Produto Hardware 421,Aut harum delectus odit.,4050.84,68,2021-11-29
+423,3,Produto Hardware 422,Eligendi at harum sit facere.,989.63,467,2023-03-19
+424,7,Produto Hardware 423,At odit repudiandae eligendi animi.,4387.32,358,2022-06-28
+425,7,Produto Hardware 424,Nam modi at.,4622.22,-4,2020-07-05
+426,1,Produto Hardware 425,Aut libero labore.,4964.09,494,2020-03-13
+427,3,Produto Hardware 426,Nostrum eum incidunt suscipit.,2385.48,244,2022-01-27
+428,7,Produto Hardware 427,Ex eum delectus id.,1095.02,189,2021-11-29
+429,3,Produto Hardware 428,Neque reprehenderit similique.,1192.68,396,2021-04-02
+430,3,Produto Hardware 429,Ducimus ullam ex ut non autem debitis.,4683.89,366,2024-08-25
+431,4,Produto Hardware 430,Expedita dicta libero pariatur.,877.39,250,2022-08-06
+432,1,Produto Hardware 431,Possimus similique harum dolorem.,2455.64,443,2023-08-08
+433,6,Produto Hardware 432,Nisi repellat eos.,1630.97,116,2024-09-13
+434,1,Produto Hardware 433,Consequatur voluptates rem.,4423.03,58,2022-02-11
+435,3,Produto Hardware 434,Incidunt corporis debitis aliquid.,4416.7,219,2022-02-19
+436,3,Produto Hardware 435,Sunt fugiat at minus.,730.17,358,2021-04-09
+437,7,Produto Hardware 436,Rem harum architecto sapiente eum.,2872.1,480,2022-07-07
+438,7,Produto Hardware 437,Ad totam exercitationem autem.,2411.78,480,2024-10-14
+439,7,Produto Hardware 438,Atque provident ab doloribus.,4139.34,408,2020-10-22
+440,4,Produto Hardware 439,Eos laboriosam quidem sequi.,1623.87,220,2025-06-13
+441,7,Produto Hardware 440,Ad quis tenetur necessitatibus.,559.86,392,2022-05-26
+442,7,Produto Hardware 441,Veniam voluptate ex quae non facere.,4367.77,266,2020-07-23
+443,1,Produto Hardware 442,Voluptatum blanditiis id dolore unde.,2666.71,314,2023-09-06
+444,6,Produto Hardware 443,Alias eligendi consequatur numquam.,4954.1,129,2020-05-22
+445,6,Produto Hardware 444,Quidem saepe cumque aut.,373.0,132,2020-10-06
+446,5,Produto Hardware 445,Veniam facere eveniet nihil.,1222.98,328,2024-09-08
+447,4,Produto Hardware 446,Temporibus accusantium cum voluptatem.,4452.35,92,2021-02-01
+448,5,Produto Hardware 447,In eveniet quis corporis officiis.,4102.97,313,2025-09-26
+449,7,Produto Hardware 448,Dolorum similique provident incidunt.,4251.73,45,2022-02-27
+450,4,Produto Hardware 449,Possimus in dolor ut delectus.,4173.36,238,2024-05-05
+451,6,Produto Hardware 450,Voluptate explicabo officiis natus sit.,4854.82,80,2021-08-18
+452,2,Produto Hardware 451,Quidem quisquam culpa accusamus.,871.41,54,2024-05-26
+453,6,Produto Hardware 452,Repellat eveniet ipsa amet id.,2451.16,125,2022-01-25
+454,7,Produto Hardware 453,Natus ducimus beatae nobis.,4840.14,54,2020-05-04
+455,7,Produto Hardware 454,Ad temporibus perferendis dolore quis.,615.67,164,2025-10-11
+456,7,Produto Hardware 455,Quam cum unde atque ex deserunt saepe.,4568.15,108,2025-05-27
+457,3,Produto Hardware 456,Corporis et nihil quisquam.,2455.17,465,2021-10-09
+458,3,Produto Hardware 457,Eaque ipsa porro fugit.,813.0,93,2026-01-17
+459,1,Produto Hardware 458,Ex modi ratione consequuntur.,1802.78,105,2023-07-12
+460,7,Produto Hardware 459,Provident odit expedita exercitationem.,4775.1,4,2021-11-16
+461,5,Produto Hardware 460,Repudiandae eius a officiis.,3470.8,-1,2021-07-22
+462,5,Produto Hardware 461,Labore voluptas minima repellat quos.,255.06,337,2024-10-20
+463,3,Produto Hardware 462,Magni laborum quidem neque molestias.,551.37,335,2024-04-24
+464,5,Produto Hardware 463,Temporibus reprehenderit ea.,4445.62,114,2021-09-11
+465,1,Produto Hardware 464,Numquam voluptatem quod.,1519.99,72,2025-10-28
+466,4,Produto Hardware 465,Rerum cum itaque dignissimos aut totam.,4592.6,75,2025-05-01
+467,5,Produto Hardware 466,Quidem similique animi numquam.,1207.44,41,2023-06-06
+468,7,Produto Hardware 467,Quam soluta id incidunt.,2911.27,219,2020-12-03
+469,1,Produto Hardware 468,Officiis quo quas ipsum occaecati.,3588.96,416,2023-11-15
+470,1,Produto Hardware 469,Voluptas reiciendis porro.,4210.75,397,2021-01-28
+471,5,Produto Hardware 470,Adipisci exercitationem autem quasi ab.,3967.71,378,2024-01-19
+472,6,Produto Hardware 471,Quia inventore doloribus neque atque.,3960.33,306,2020-01-09
+473,1,Produto Hardware 472,Doloremque amet minima.,2898.52,290,2023-10-22
+474,7,Produto Hardware 473,Inventore officia voluptatum hic.,569.36,127,2020-12-25
+475,5,Produto Hardware 474,Nisi voluptates ut.,2054.53,160,2024-07-05
+476,3,Produto Hardware 475,In iste temporibus eaque laborum sed.,4479.53,426,2022-04-10
+477,4,Produto Hardware 476,Neque facere repellat ex adipisci.,3212.64,382,2020-01-23
+478,6,Produto Hardware 477,Ullam odio voluptatum vero quibusdam.,3389.78,3,2020-03-10
+479,7,Produto Hardware 478,Fugiat cumque nulla ex.,3214.28,473,2024-10-27
+480,4,Produto Hardware 479,Impedit est natus perferendis dicta.,241.55,149,2020-06-12
+481,1,Produto Hardware 480,Sed reiciendis veritatis tempora.,4226.73,343,2021-05-21
+482,1,Produto Hardware 481,Ratione dolore animi. Atque aut magnam.,2004.1,497,2024-07-21
+483,1,Produto Hardware 482,Magni corporis atque delectus iusto.,1092.19,338,2024-05-21
+484,4,Produto Hardware 483,In facere dolorem.,2431.7,219,2023-05-03
+485,1,Produto Hardware 484,Omnis enim quod quasi reprehenderit.,3362.8,73,2023-07-17
+486,1,Produto Hardware 485,Pariatur a temporibus odio nostrum.,2531.96,360,2021-09-28
+487,5,Produto Hardware 486,Beatae ipsa esse quibusdam.,845.58,378,2023-01-03
+488,4,Produto Hardware 487,Vitae neque facilis officia iusto ad.,1685.41,5,2024-04-14
+489,6,Produto Hardware 488,Quas corrupti incidunt expedita.,673.84,476,2021-02-01
+490,6,Produto Hardware 489,Quod beatae aliquid est.,4145.13,168,2022-02-20
+491,6,Produto Hardware 490,Repellendus ullam quae.,660.68,137,2023-04-25
+492,6,Produto Hardware 491,Consequuntur eligendi eum nisi ratione.,616.71,212,2022-05-02
+493,2,Produto Hardware 492,Dicta quis rerum odit eveniet minima.,3008.68,442,2020-07-24
+494,7,Produto Hardware 493,Omnis minima delectus voluptas.,1736.78,311,2022-10-13
+495,2,Produto Hardware 494,Distinctio dolore dolores amet tempore.,2816.68,137,2024-01-19
+496,1,Produto Hardware 495,Hic quas ratione accusamus eveniet.,4993.36,465,2025-05-02
+497,4,Produto Hardware 496,Sunt ipsum harum molestias.,2316.39,261,2020-06-09
+498,5,Produto Hardware 497,Sunt mollitia consectetur iure.,4275.86,7,2025-09-15
+499,1,Produto Hardware 498,Ipsam sunt laboriosam.,3362.99,105,2022-08-16
+500,6,Produto Hardware 499,Nesciunt voluptatibus nihil.,2662.44,34,2023-10-16
