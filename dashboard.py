@@ -145,6 +145,72 @@ fig_clientes.update_layout(
 
 st.plotly_chart(fig_clientes, use_container_width=True)
 
+# =========================
+# SEGMENTAÇÃO COMPLETA DE CLIENTES (TABELA)
+# =========================
+st.subheader("📋 Segmentação de Clientes")
+
+# Padronizar nomes de colunas
+clientes_segmentados = clientes.copy()
+clientes_segmentados.columns = [c.lower().strip() for c in clientes_segmentados.columns]
+
+# =========================
+# PADRONIZAR TELEFONES COM PREFIXO PAÍS
+# =========================
+def padronizar_telefone(tel):
+    if pd.isna(tel):
+        return None
+
+    # Remove tudo que não é número
+    tel = ''.join(filter(str.isdigit, str(tel)))
+
+    # Se tiver mais de 13 dígitos, corta excesso (ruído de dados)
+    if len(tel) > 13:
+        tel = tel[-13:]
+
+    # Detectar país
+    if len(tel) == 13:  # ex: 5511987654321
+        pais = tel[:2]
+        ddd = tel[2:4]
+        numero = tel[4:]
+    elif len(tel) == 12:  # ex: 551987654321 (sem DDD separado)
+        pais = tel[:2]
+        ddd = tel[2:4]
+        numero = tel[4:]
+    elif len(tel) == 11:  # Brasil sem código país
+        pais = "55"
+        ddd = tel[:2]
+        numero = tel[2:]
+    elif len(tel) == 10:  # fixo sem país
+        pais = "55"
+        ddd = tel[:2]
+        numero = tel[2:]
+    else:
+        return tel  # fallback para casos muito ruins
+
+    # Celular (9 dígitos)
+    if len(numero) == 9:
+        return f"+{pais} ({ddd}) {numero[:5]}-{numero[5:]}"
+    # Fixo (8 dígitos)
+    elif len(numero) == 8:
+        return f"+{pais} ({ddd}) {numero[:4]}-{numero[4:]}"
+    
+    return f"+{pais} ({ddd}) {numero}"
+
+
+# Detectar coluna de telefone automaticamente
+for col in clientes_segmentados.columns:
+    if "telefone" in col.lower() or "phone" in col.lower() or "tel" in col.lower():
+        clientes_segmentados[col] = clientes_segmentados[col].apply(padronizar_telefone)
+
+# Mostrar tabela interativa
+st.dataframe(
+    clientes_segmentados,
+    use_container_width=True,
+    height=400
+)
+
+
 
 
 
