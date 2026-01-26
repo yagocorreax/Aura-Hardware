@@ -1,70 +1,153 @@
-import pandas as pd
 import streamlit as st
-import os
+import pandas as pd
 import plotly.express as px
 
-# ================= CONFIG =================
+# =========================
+# CONFIG STREAMLIT
+# =========================
 st.set_page_config(page_title="Aura Hardware", layout="wide")
 
-PASTA = "dados/limpo"
+# =========================
+# DARK THEME CORPORATIVO
+# =========================
+st.markdown("""
+<style>
+body {
+    background-color: #0e1117;
+    color: white;
+}
+div[data-testid="stMetric"] {
+    background-color: #1f2937;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+}
+h1, h2, h3, h4 {
+    color: white;
+}
+</style>
+""", unsafe_allow_html=True)
 
-# ================= FUNÇÃO AUTO COLUNA =================
-def achar_coluna(df, palavras):
-    for col in df.columns:
-        for p in palavras:
-            if p.lower() in col.lower():
-                return col
-    return None
-
-# ================= CARREGAR DADOS =================
-fat = pd.read_csv(os.path.join(PASTA, "faturamento_mensal.csv"))
-prod = pd.read_csv(os.path.join(PASTA, "produtos_mais_vendidos.csv"))
-seg = pd.read_csv(os.path.join(PASTA, "clientes_segmentados.csv"))
-
-# ================= DETECTAR COLUNAS =================
-col_data = achar_coluna(fat, ["mes", "data", "ano"])
-col_fat = achar_coluna(fat, ["faturamento", "valor", "total"])
-
-col_prod_nome = achar_coluna(prod, ["produto", "nome"])
-col_prod_qtd = achar_coluna(prod, ["quantidade", "qtd", "vendida"])
-
-col_seg = achar_coluna(seg, ["segmento", "classe"])
-
-# ================= DASHBOARD =================
 st.title("📊 Aura Hardware")
 
-# KPIs
-faturamento_total = fat[col_fat].sum()
-qtd_clientes = len(seg)
-ticket_medio = faturamento_total / qtd_clientes
+# =========================
+# CARREGAR DADOS
+# =========================
+fat = pd.read_csv("dados/limpo/faturamento_mensal.csv")
+prod = pd.read_csv("dados/limpo/produtos_mais_vendidos.csv")
+clientes = pd.read_csv("dados/limpo/clientes_limpos.csv")
+pedidos = pd.read_csv("dados/limpo/pedidos_limpos.csv")
+
+# =========================
+# KPI CARDS
+# =========================
+faturamento_total = fat["valor_total"].sum()
+total_produtos = prod["quantidade"].sum()
+total_clientes = clientes["id"].nunique()
 
 col1, col2, col3 = st.columns(3)
 col1.metric("💰 Faturamento Total", f"R$ {faturamento_total:,.2f}")
-col2.metric("👥 Total de Clientes", qtd_clientes)
-col3.metric("🧾 Ticket Médio", f"R$ {ticket_medio:,.2f}")
+col2.metric("📦 Produtos Vendidos", f"{total_produtos:,}")
+col3.metric("👥 Clientes", f"{total_clientes:,}")
 
-# ================= GRÁFICO FATURAMENTO =================
+st.divider()
+
+# =========================
+# FATURAMENTO MENSAL (MÊS POR EXTENSO)
+# =========================
+fat["ano_mes"] = pd.to_datetime(fat["ano_mes"])
+
+meses_pt = {
+    1:"Janeiro", 2:"Fevereiro", 3:"Março", 4:"Abril",
+    5:"Maio", 6:"Junho", 7:"Julho", 8:"Agosto",
+    9:"Setembro", 10:"Outubro", 11:"Novembro", 12:"Dezembro"
+}
+
+fat["mes"] = fat["ano_mes"].dt.month.map(meses_pt)
+fat["ano"] = fat["ano_mes"].dt.year
+fat["mes_ano"] = fat["mes"] + "/" + fat["ano"].astype(str)
+
 st.subheader("📈 Faturamento Mensal")
 
-fig_fat = px.line(fat, x=col_data, y=col_fat, title="Evolução do Faturamento")
+fig_fat = px.line(
+    fat,
+    x="mes_ano",
+    y="valor_total",
+    title="Evolução do Faturamento"
+)
+
+fig_fat.update_layout(
+    template="plotly_dark",
+    xaxis_title="Mês/Ano",
+    yaxis_title="Faturamento (R$)"
+)
+
 st.plotly_chart(fig_fat, use_container_width=True)
 
-# ================= PRODUTOS MAIS VENDIDOS =================
-st.subheader("🔥 Produtos Mais Vendidos")
+# =========================
+# TOP 20 PRODUTOS MAIS VENDIDOS (VERMELHO)
+# =========================
+st.subheader("🔥 Top 20 Produtos Mais Vendidos")
 
-fig_prod = px.bar(prod, x=col_prod_qtd, y=col_prod_nome, orientation="h")
+prod = prod.rename(columns={"produto_id": "Id do Produto"})
+top20 = prod.sort_values("quantidade", ascending=False).head(20)
+
+fig_prod = px.bar(
+    top20,
+    x="Id do Produto",
+    y="quantidade",
+    title="Top 20 Produtos Mais Vendidos",
+    color_discrete_sequence=["#ef4444"]  # VERMELHO CORPORATIVO
+)
+
+fig_prod.update_layout(
+    template="plotly_dark",
+    xaxis_title="Id do Produto",
+    yaxis_title="Quantidade Vendida"
+)
+
 st.plotly_chart(fig_prod, use_container_width=True)
 
-# ================= SEGMENTAÇÃO CLIENTES =================
-st.subheader("👤 Segmentação de Clientes")
+# =========================
+# TOP 50 CLIENTES COM NOME (VERDE)
+# =========================
+st.subheader("🏆 Top 50 Clientes que Mais Compraram")
 
-seg_count = seg[col_seg].value_counts().reset_index()
-seg_count.columns = ["Segmento", "Quantidade"]
+# Contar pedidos por cliente
+clientes_top = pedidos.groupby("cliente_id")["valor_total"].count().reset_index()
+clientes_top.columns = ["cliente_id", "quantidade_compras"]
 
-fig_seg = px.pie(seg_count, names="Segmento", values="Quantidade")
-st.plotly_chart(fig_seg, use_container_width=True)
+# JOIN com clientes
+clientes_top = clientes_top.merge(
+    clientes[["id", "nome"]],
+    left_on="cliente_id",
+    right_on="id",
+    how="left"
+)
 
-# ================= TABELAS =================
-st.subheader("📋 Dados Brutos")
-st.dataframe(fat)
+# Ordenar TOP 50
+clientes_top = clientes_top.sort_values("quantidade_compras", ascending=False).head(50)
+
+# Gráfico VERDE
+fig_clientes = px.bar(
+    clientes_top,
+    x="nome",
+    y="quantidade_compras",
+    title="Top 50 Clientes por Quantidade de Compras",
+    color_discrete_sequence=["#10b981"]  # VERDE CORPORATIVO
+)
+
+fig_clientes.update_layout(
+    template="plotly_dark",
+    xaxis_title="Cliente",
+    yaxis_title="Quantidade de Compras"
+)
+
+st.plotly_chart(fig_clientes, use_container_width=True)
+
+
+
+
+
+
 
