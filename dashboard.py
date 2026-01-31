@@ -107,7 +107,6 @@ clientes_top = clientes_top.merge(
     how="left"
 )
 
-# Ordenar TOP 50
 clientes_top = clientes_top.sort_values("quantidade_compras", ascending=False).head(50)
 
 
@@ -127,23 +126,16 @@ fig_clientes.update_layout(
 
 st.plotly_chart(fig_clientes, use_container_width=True)
 
-# =========================
-# SEGMENTAÇÃO COMPLETA DE CLIENTES (TABELA)
-# =========================
 st.subheader("📋 Segmentação de Clientes")
 
-# Padronizar nomes de colunas
 clientes_segmentados = clientes.copy()
 clientes_segmentados.columns = [c.lower().strip() for c in clientes_segmentados.columns]
 
-# =========================
-# PADRONIZAR TELEFONES COM PREFIXO PAÍS
-# =========================
+
 def padronizar_telefone(tel):
     if pd.isna(tel):
         return None
 
-    # Remove tudo que não é número
     tel = ''.join(filter(str.isdigit, str(tel)))
 
     # Se tiver mais de 13 dígitos, corta excesso (ruído de dados)
