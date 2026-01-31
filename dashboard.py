@@ -138,7 +138,6 @@ def padronizar_telefone(tel):
 
     tel = ''.join(filter(str.isdigit, str(tel)))
 
-    # Se tiver mais de 13 dígitos, corta excesso (ruído de dados)
     if len(tel) > 13:
         tel = tel[-13:]
 
@@ -160,24 +159,20 @@ def padronizar_telefone(tel):
         ddd = tel[:2]
         numero = tel[2:]
     else:
-        return tel  # fallback para casos muito ruins
+        return tel  
 
-    # Celular (9 dígitos)
     if len(numero) == 9:
         return f"+{pais} ({ddd}) {numero[:5]}-{numero[5:]}"
-    # Fixo (8 dígitos)
+   
     elif len(numero) == 8:
         return f"+{pais} ({ddd}) {numero[:4]}-{numero[4:]}"
     
     return f"+{pais} ({ddd}) {numero}"
 
-
-# Detectar coluna de telefone automaticamente
 for col in clientes_segmentados.columns:
     if "telefone" in col.lower() or "phone" in col.lower() or "tel" in col.lower():
         clientes_segmentados[col] = clientes_segmentados[col].apply(padronizar_telefone)
 
-# Mostrar tabela interativa
 st.dataframe(
     clientes_segmentados,
     use_container_width=True,
