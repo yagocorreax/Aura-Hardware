@@ -2,14 +2,10 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-# =========================
-# CONFIG STREAMLIT
-# =========================
+
 st.set_page_config(page_title="Aura Hardware", layout="wide")
 
-# =========================
-# DARK THEME CORPORATIVO
-# =========================
+
 st.markdown("""
 <style>
 body {
@@ -30,17 +26,12 @@ h1, h2, h3, h4 {
 
 st.title("📊 Aura Hardware")
 
-# =========================
-# CARREGAR DADOS
-# =========================
 fat = pd.read_csv("dados/limpo/faturamento_mensal.csv")
 prod = pd.read_csv("dados/limpo/produtos_mais_vendidos.csv")
 clientes = pd.read_csv("dados/limpo/clientes_limpos.csv")
 pedidos = pd.read_csv("dados/limpo/pedidos_limpos.csv")
 
-# =========================
-# KPI CARDS
-# =========================
+
 faturamento_total = fat["valor_total"].sum()
 total_produtos = prod["quantidade"].sum()
 total_clientes = clientes["id"].nunique()
@@ -52,9 +43,6 @@ col3.metric("👥 Clientes", f"{total_clientes:,}")
 
 st.divider()
 
-# =========================
-# FATURAMENTO MENSAL (MÊS POR EXTENSO)
-# =========================
 fat["ano_mes"] = pd.to_datetime(fat["ano_mes"])
 
 meses_pt = {
@@ -84,9 +72,6 @@ fig_fat.update_layout(
 
 st.plotly_chart(fig_fat, use_container_width=True)
 
-# =========================
-# TOP 20 PRODUTOS MAIS VENDIDOS (VERMELHO)
-# =========================
 st.subheader("🔥 Top 20 Produtos Mais Vendidos")
 
 prod = prod.rename(columns={"produto_id": "Id do Produto"})
@@ -97,7 +82,7 @@ fig_prod = px.bar(
     x="Id do Produto",
     y="quantidade",
     title="Top 20 Produtos Mais Vendidos",
-    color_discrete_sequence=["#ef4444"]  # VERMELHO CORPORATIVO
+    color_discrete_sequence=["#ef4444"]  
 )
 
 fig_prod.update_layout(
