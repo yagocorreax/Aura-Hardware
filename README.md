@@ -1,11 +1,11 @@
-📊 Aura Hardware — Data Analytics & Dashboard Project
+### 📊 Aura Hardware — Data Analytics & Dashboard Project
 
 O Aura Hardware é um projeto completo de engenharia e análise de dados, que simula o ambiente real de uma empresa de hardware, desde a geração de dados sujos, passando por modelagem, limpeza, métricas de negócio, até a visualização interativa utilizando Streamlit.
 
 O objetivo principal do projeto é demonstrar como dados bem tratados podem apoiar a tomada de decisões estratégicas, oferecendo insights claros sobre faturamento, vendas, clientes e estoque.
 
 ---
-🧱 Arquitetura do Projeto
+### 🧱 Arquitetura do Projeto
 ```
 Aura-Hardware/
 │
@@ -25,4 +25,26 @@ Aura-Hardware/
 ├── dashboard.py
 └── README.md
 ```
+Essa separação facilita:
+- manutenção do projeto
+- reaproveitamento de código
+- escalabilidade
+- entendimento rápido do fluxo de dados
+
+---
+### 🔄 Pipeline de Dados (End-to-End)
+
+1️⃣ **Geração de Dados (Dados Brutos)**
+
+O script 01_gerar_dados.py utiliza a biblioteca Faker para gerar dados realistas, porém intencionalmente sujos, simulando problemas comuns do mundo real, como:
+
+- emails inválidos ou ausentes
+- nomes com espaços extras
+- CPFs duplicados
+- estoque negativo
+- dados nulos
+- formatos inconsistentes
+
+Esses dados são salvos em `dados/bruto/`.
+
 
