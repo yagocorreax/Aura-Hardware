@@ -7,4 +7,23 @@ O objetivo principal do projeto é demonstrar como dados bem tratados podem apoi
 
 ---
 🧱 Arquitetura do Projeto
+```
+Aura-Hardware/
+│
+├── config/
+│   └── config.py
+│
+├── dados/
+│   ├── bruto/      → Dados sujos (raw data)
+│   └── limpo/      → Dados tratados e prontos para análise
+│
+├── scripts/
+│   ├── 01_gerar_dados.py
+│   ├── 02_criar_banco.py
+│   ├── 03_limpeza_dados.py
+│   └── 04_metricas.py
+│
+├── dashboard.py
+└── README.md
+```
 
