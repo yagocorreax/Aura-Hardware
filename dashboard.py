@@ -93,16 +93,13 @@ fig_prod.update_layout(
 
 st.plotly_chart(fig_prod, use_container_width=True)
 
-# =========================
-# TOP 50 CLIENTES COM NOME (VERDE)
-# =========================
+
 st.subheader("🏆 Top 50 Clientes que Mais Compraram")
 
-# Contar pedidos por cliente
+
 clientes_top = pedidos.groupby("cliente_id")["valor_total"].count().reset_index()
 clientes_top.columns = ["cliente_id", "quantidade_compras"]
 
-# JOIN com clientes
 clientes_top = clientes_top.merge(
     clientes[["id", "nome"]],
     left_on="cliente_id",
@@ -113,13 +110,13 @@ clientes_top = clientes_top.merge(
 # Ordenar TOP 50
 clientes_top = clientes_top.sort_values("quantidade_compras", ascending=False).head(50)
 
-# Gráfico VERDE
+
 fig_clientes = px.bar(
     clientes_top,
     x="nome",
     y="quantidade_compras",
     title="Top 50 Clientes por Quantidade de Compras",
-    color_discrete_sequence=["#10b981"]  # VERDE CORPORATIVO
+    color_discrete_sequence=["#10b981"]  
 )
 
 fig_clientes.update_layout(
