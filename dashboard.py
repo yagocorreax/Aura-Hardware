@@ -141,20 +141,19 @@ def padronizar_telefone(tel):
     if len(tel) > 13:
         tel = tel[-13:]
 
-    # Detectar país
-    if len(tel) == 13:  # ex: 5511987654321
+    if len(tel) == 13:  
         pais = tel[:2]
         ddd = tel[2:4]
         numero = tel[4:]
-    elif len(tel) == 12:  # ex: 551987654321 (sem DDD separado)
+    elif len(tel) == 12:  
         pais = tel[:2]
         ddd = tel[2:4]
         numero = tel[4:]
-    elif len(tel) == 11:  # Brasil sem código país
+    elif len(tel) == 11:  
         pais = "55"
         ddd = tel[:2]
         numero = tel[2:]
-    elif len(tel) == 10:  # fixo sem país
+    elif len(tel) == 10: 
         pais = "55"
         ddd = tel[:2]
         numero = tel[2:]
