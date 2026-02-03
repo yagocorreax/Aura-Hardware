@@ -125,6 +125,28 @@ Exibe os clientes com maior número de compras, facilitando:
 
 ➡️ Decisão: retenção e aumento do LTV (Lifetime Value).
 
+---
+🛠️ **Tecnologias Utilizadas**
+
+- Python
+- Pandas
+- SQLite
+- Faker
+- Streamlit
+- Plotly
+- VS Code
+
+---
+### Como Executar o Projeto:
+```
+pip install -r requirements.txt
+python scripts/01_gerar_dados.py
+python scripts/02_criar_banco.py
+python scripts/03_limpeza_dados.py
+python scripts/04_metricas.py
+python -m streamlit run dashboard.py
+```
+
 
 
 
