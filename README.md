@@ -146,6 +146,8 @@ python scripts/03_limpeza_dados.py
 python scripts/04_metricas.py
 python -m streamlit run dashboard.py
 ```
+---
+
 
 
 
