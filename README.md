@@ -85,7 +85,16 @@ O script 04_metricas.py cria indicadores estratégicos, como:
 📌 Transforma dados operacionais em informação estratégica.
 
 ---
+📊 Dashboard Interativo (Streamlit)
 
+O arquivo dashboard.py apresenta os dados de forma visual, em um dashboard dark corporativo, inspirado em Power BI.
+
+- 🔹 KPIs Principais
+- 💰 Faturamento Total
+- 📦 Total de Produtos Vendidos
+- 👥 Total de Clientes
+
+Esses indicadores permitem uma visão rápida do desempenho do negócio.
 
 
 
