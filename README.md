@@ -85,7 +85,7 @@ O script 04_metricas.py cria indicadores estratégicos, como:
 📌 Transforma dados operacionais em informação estratégica.
 
 ---
-📊 Dashboard Interativo (Streamlit)
+📊 __Dashboard Interativo (Streamlit)__
 
 O arquivo dashboard.py apresenta os dados de forma visual, em um dashboard dark corporativo, inspirado em Power BI.
 
@@ -95,6 +95,35 @@ O arquivo dashboard.py apresenta os dados de forma visual, em um dashboard dark 
 - 👥 Total de Clientes
 
 Esses indicadores permitem uma visão rápida do desempenho do negócio.
+
+---
+📈 __Faturamento Mensal__
+
+Mostra a evolução do faturamento ao longo do tempo (Mês/Ano), permitindo identificar:
+
+- crescimento
+- sazonalidade
+- quedas de performance
+
+➡️ Decisão: planejamento financeiro e metas de vendas.
+
+---
+🔥 __Top 20 Produtos Mais Vendidos__
+
+Gráfico em colunas destacando os produtos com maior volume de vendas.
+
+➡️ Decisão: foco em estoque, marketing e negociação com fornecedores.
+
+---
+🏆__Top 50 Clientes que Mais Compraram__
+
+Exibe os clientes com maior número de compras, facilitando:
+
+- programas de fidelização
+- ações de CRM
+- campanhas personalizadas
+
+➡️ Decisão: retenção e aumento do LTV (Lifetime Value).
 
 
 
