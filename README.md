@@ -47,7 +47,8 @@ O script 01_gerar_dados.py utiliza a biblioteca Faker para gerar dados realistas
 
 Esses dados são salvos em `dados/bruto/`.
 
-📌Simula fielmente a realidade de sistemas legados e múltiplas fontes de dados.
+📌 Simula fielmente a realidade de sistemas legados e múltiplas fontes de dados.
+
 ---
 
 
