@@ -71,11 +71,16 @@ Os dados limpos são exportados para `dados/limpo/`.
 O script 04_metricas.py cria indicadores estratégicos, como:
 
 - 📈 Faturamento mensal
-💳 Ticket médio por cliente
-🔥 Produtos mais vendidos
-🏆 Clientes com maior volume de compras
-⚠️ Alerta de estoque baixo
-👥 Base de clientes segmentada
+
+- 💳 Ticket médio por cliente
+
+- 🔥 Produtos mais vendidos
+
+- 🏆 Clientes com maior volume de compras
+
+- ⚠️ Alerta de estoque baixo
+
+- 👥 Base de clientes segmentada
 
 
 
