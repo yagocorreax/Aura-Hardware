@@ -34,7 +34,7 @@ Essa separação facilita:
 ---
 ### 🔄 Pipeline de Dados (End-to-End)
 
-1️⃣ **Geração de Dados (Dados Brutos)**
+**Geração de Dados (Dados Brutos)**
 
 O script 01_gerar_dados.py utiliza a biblioteca Faker para gerar dados realistas, porém intencionalmente sujos, simulando problemas comuns do mundo real, como:
 
@@ -46,5 +46,9 @@ O script 01_gerar_dados.py utiliza a biblioteca Faker para gerar dados realistas
 - formatos inconsistentes
 
 Esses dados são salvos em `dados/bruto/`.
+
+📌Simula fielmente a realidade de sistemas legados e múltiplas fontes de dados.
+---
+
 
 
