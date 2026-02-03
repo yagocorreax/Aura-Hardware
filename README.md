@@ -82,6 +82,11 @@ O script 04_metricas.py cria indicadores estratégicos, como:
 
 - 👥 Base de clientes segmentada
 
+📌 Transforma dados operacionais em informação estratégica.
+
+---
+
+
 
 
 
