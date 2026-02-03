@@ -147,7 +147,8 @@ python scripts/04_metricas.py
 python -m streamlit run dashboard.py
 ```
 ---
-
+👤 __Autor__
+Projeto desenvolvido para estudo prático em Engenharia de Dados e Análise de Dados, com foco em aplicações reais de negócio.
 
 
 
