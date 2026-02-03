@@ -50,6 +50,34 @@ Esses dados são salvos em `dados/bruto/`.
 📌 Simula fielmente a realidade de sistemas legados e múltiplas fontes de dados.
 
 ---
+**Limpeza e Padronização dos Dados**
+
+O script 03_limpeza_dados.py realiza o tratamento dos dados, incluindo:
+
+- remoção de duplicidades (CPF)
+- validação de emails
+- padronização de CEP
+- conversão correta de datas
+- correção de tipos numéricos
+- regras de negócio (ex: apenas clientes maiores de idade)
+
+Os dados limpos são exportados para `dados/limpo/`.
+
+📌 Garante dados confiáveis para análises e evita decisões baseadas em informações incorretas.
+
+---
+**Geração de Métricas de Negócio**
+
+O script 04_metricas.py cria indicadores estratégicos, como:
+
+- 📈 Faturamento mensal
+💳 Ticket médio por cliente
+🔥 Produtos mais vendidos
+🏆 Clientes com maior volume de compras
+⚠️ Alerta de estoque baixo
+👥 Base de clientes segmentada
+
+
 
 
 
