@@ -1,11 +1,11 @@
-### 📊 Aura Hardware — Data Analytics & Dashboard Project
+### Aura Hardware — Data Analytics & Dashboard Project
 
 O Aura Hardware é um projeto completo de engenharia e análise de dados, que simula o ambiente real de uma empresa de hardware, desde a geração de dados sujos, passando por modelagem, limpeza, métricas de negócio, até a visualização interativa utilizando Streamlit.
 
 O objetivo principal do projeto é demonstrar como dados bem tratados podem apoiar a tomada de decisões estratégicas, oferecendo insights claros sobre faturamento, vendas, clientes e estoque.
 
 ---
-### 🧱 Arquitetura do Projeto
+### Arquitetura do Projeto
 ```
 Aura-Hardware/
 │
@@ -32,7 +32,7 @@ Essa separação facilita:
 - entendimento rápido do fluxo de dados
 
 ---
-### 🔄 Pipeline de Dados (End-to-End)
+### Pipeline de Dados (End-to-End)
 
 **Geração de Dados (Dados Brutos)**
 
@@ -47,7 +47,7 @@ O script 01_gerar_dados.py utiliza a biblioteca Faker para gerar dados realistas
 
 Esses dados são salvos em `dados/bruto/`.
 
-📌 Simula fielmente a realidade de sistemas legados e múltiplas fontes de dados.
+Simula fielmente a realidade de sistemas legados e múltiplas fontes de dados.
 
 ---
 **Limpeza e Padronização dos Dados**
@@ -63,41 +63,35 @@ O script 03_limpeza_dados.py realiza o tratamento dos dados, incluindo:
 
 Os dados limpos são exportados para `dados/limpo/`.
 
-📌 Garante dados confiáveis para análises e evita decisões baseadas em informações incorretas.
+Garante dados confiáveis para análises e evita decisões baseadas em informações incorretas.
 
 ---
 **Geração de Métricas de Negócio**
 
 O script 04_metricas.py cria indicadores estratégicos, como:
+- Faturamento mensal
+- Ticket médio por cliente
+- Produtos mais vendidos
+- Clientes com maior volume de compras
+- Alerta de estoque baixo
+- Base de clientes segmentada
 
-- 📈 Faturamento mensal
-
-- 💳 Ticket médio por cliente
-
-- 🔥 Produtos mais vendidos
-
-- 🏆 Clientes com maior volume de compras
-
-- ⚠️ Alerta de estoque baixo
-
-- 👥 Base de clientes segmentada
-
-📌 Transforma dados operacionais em informação estratégica.
+Transforma dados operacionais em informação estratégica.
 
 ---
-📊 __Dashboard Interativo (Streamlit)__
+ __Dashboard Interativo (Streamlit)__
 
 O arquivo dashboard.py apresenta os dados de forma visual, em um dashboard dark corporativo, inspirado em Power BI.
 
-- 🔹 KPIs Principais
-- 💰 Faturamento Total
-- 📦 Total de Produtos Vendidos
-- 👥 Total de Clientes
+- KPIs Principais
+- Faturamento Total
+- Total de Produtos Vendidos
+- Total de Clientes
 
 Esses indicadores permitem uma visão rápida do desempenho do negócio.
 
 ---
-📈 __Faturamento Mensal__
+__Faturamento Mensal__
 
 Mostra a evolução do faturamento ao longo do tempo (Mês/Ano), permitindo identificar:
 
@@ -105,17 +99,17 @@ Mostra a evolução do faturamento ao longo do tempo (Mês/Ano), permitindo iden
 - sazonalidade
 - quedas de performance
 
-➡️ Decisão: planejamento financeiro e metas de vendas.
+Decisão: planejamento financeiro e metas de vendas.
 
 ---
-🔥 __Top 20 Produtos Mais Vendidos__
+__Top 20 Produtos Mais Vendidos__
 
 Gráfico em colunas destacando os produtos com maior volume de vendas.
 
-➡️ Decisão: foco em estoque, marketing e negociação com fornecedores.
+Decisão: foco em estoque, marketing e negociação com fornecedores.
 
 ---
-🏆__Top 50 Clientes que Mais Compraram__
+__Top 50 Clientes que Mais Compraram__
 
 Exibe os clientes com maior número de compras, facilitando:
 
@@ -123,10 +117,10 @@ Exibe os clientes com maior número de compras, facilitando:
 - ações de CRM
 - campanhas personalizadas
 
-➡️ Decisão: retenção e aumento do LTV (Lifetime Value).
+Decisão: retenção e aumento do LTV (Lifetime Value).
 
 ---
-🛠️ **Tecnologias Utilizadas**
+**Tecnologias Utilizadas**
 
 - Python
 - Pandas
@@ -147,8 +141,8 @@ python scripts/04_metricas.py
 python -m streamlit run dashboard.py
 ```
 ---
-👤 __Autor__
-Projeto desenvolvido para estudo prático em Engenharia de Dados e Análise de Dados, com foco em aplicações reais de negócio.
+
+Projeto desenvolvido voltado para Engenharia de Dados e Análise de Dados, com foco em aplicações reais de negócio.
 
 
 
